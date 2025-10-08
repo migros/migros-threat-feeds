@@ -185,12 +185,12 @@ Fetch on a schedule using e.g., one of the following `curl` commands.
 
 ```bash
 curl --fail --silent --show-error \
-  'https://raw.githubusercontent.com/migros/migros-threat-feeds/refs/heads/main/feeds/txt/migros-threat-feed.domains.txt' \
-  --output './migros-threat-feed/domains.txt'
-
-curl --fail --silent --show-error \
   'https://raw.githubusercontent.com/migros/migros-threat-feeds/refs/heads/main/feeds/txt/migros-threat-feed.urls.txt' \
   --output './migros-threat-feed/urls.txt'
+
+curl --fail --silent --show-error \
+  'https://raw.githubusercontent.com/migros/migros-threat-feeds/refs/heads/main/feeds/txt/migros-threat-feed.domains.txt' \
+  --output './migros-threat-feed/domains.txt'
 
 curl --fail --silent --show-error \
   'https://raw.githubusercontent.com/migros/migros-threat-feeds/refs/heads/main/feeds/txt/migros-threat-feed.ip-addresses_v4.txt' \
