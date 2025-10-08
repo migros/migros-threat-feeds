@@ -80,21 +80,6 @@ Simple lists are:
 - Minimal in context (no timestamps or confidence), so apply with appropriate caution and validation
 - Best for quick blocking, pilot rollouts, and environments that don’t require metadata.
 
-Example from within `feeds/txt/migros-threat-feed.domains.txt`:
-```text
-malicious-migros-login[.]com
-```
-
-Example from within `feeds/txt/migros-threat-feed.urls.txt`:
-```text
-hxxps://secure-migros[.]example/login
-```
-
-Example from within `feeds/txt/migros-threat-feed.ip-addresses_v4.txt`:
-```text
-203.0.113.42
-```
-
 
 ### Enriched
 Choose these when you need context for smarter decisions and automation. The CSV, JSON and JSONL feeds include various metadata next to the actual indicator. Enriched formats enable:
