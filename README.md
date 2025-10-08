@@ -1,4 +1,4 @@
-# Migros Threat Feed
+# Migros Threat Feeds
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
 Migros is an attractive target for cybercriminals because its brand carries exceptionally high recognition and trust in Switzerland. That trust makes brand misuse—such as phishing sites, fake social media profiles, counterfeit promotions, and fraudulent customer service accounts—more convincing and effective. With a large customer base and strong digital presence, attackers can reach many people quickly and exploit loyalty programs, e-commerce touchpoints, and gift card flows to harvest credentials, payments, or personal data. The brand’s high reputation increases the likelihood that victims will engage with fraudulent content, which is why vigilant monitoring and reporting via official channels are so important.
