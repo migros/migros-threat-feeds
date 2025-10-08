@@ -1,0 +1,276 @@
+{
+  "type": "bundle",
+  "id": "bundle--1bc05fa3-37a9-4abe-96f2-958ed43bd7bd",
+  "objects": [
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--1c5c4a2e-89c6-4170-811a-40e3b2382b3e",
+      "created": "2025-07-09T09:24:03.291Z",
+      "modified": "2025-07-09T09:24:03.291Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://www.facebook.com/profile.php?id=61577038141130']",
+      "pattern_type": "stix",
+      "valid_from": "2025-07-09T09:24:03.291Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--0ac45599-61d8-4a60-a80e-103602e979cd",
+      "created": "2025-07-09T09:24:03.571Z",
+      "modified": "2025-07-09T09:24:03.571Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://cutt.ly/Migros-Product-Family_Box']",
+      "pattern_type": "stix",
+      "valid_from": "2025-07-09T09:24:03.571Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--87ef0b61-ca64-4408-b780-3f1fcc75b505",
+      "created": "2025-07-09T09:24:04.183Z",
+      "modified": "2025-07-09T09:24:04.183Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://www.facebook.com/profile.php?id=61577647870901']",
+      "pattern_type": "stix",
+      "valid_from": "2025-07-09T09:24:04.183Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--15390bf4-3f0d-44ad-bddf-8f10f62cb4ec",
+      "created": "2025-07-10T14:30:10.623Z",
+      "modified": "2025-07-10T14:30:10.623Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://tinyurl.com/4pf6f2z6']",
+      "pattern_type": "stix",
+      "valid_from": "2025-07-10T14:30:10.623Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--8fc49d35-51ef-4102-9c3a-92c196790a90",
+      "created": "2025-07-16T06:45:23.393Z",
+      "modified": "2025-07-16T06:45:23.393Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://sites.google.com/view/gagnez-migross/Migros']",
+      "pattern_type": "stix",
+      "valid_from": "2025-07-16T06:45:23.393Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--be53f0dd-3dbc-4cc6-8103-a9ea20934356",
+      "created": "2025-07-24T10:06:16.397Z",
+      "modified": "2025-07-24T10:06:16.397Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://www.migroscooperatives.com']",
+      "pattern_type": "stix",
+      "valid_from": "2025-07-24T10:06:16.397Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--11bc499c-e0e9-4525-8cb2-fc88a3c52cb7",
+      "created": "2025-07-24T12:06:38.781Z",
+      "modified": "2025-07-24T12:06:38.781Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://www.facebook.com/share/p/1CWujt7qdB/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-07-24T12:06:38.781Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--00880323-88fa-48ca-be81-d4e20bf0a8f7",
+      "created": "2025-07-30T14:50:15.542Z",
+      "modified": "2025-07-30T14:50:15.542Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://www.migros.ch.survey.ydns.eu/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-07-30T14:50:15.542Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--c002e3d9-5ced-4a99-8876-5af8304e1ece",
+      "created": "2025-07-30T15:36:14.090Z",
+      "modified": "2025-07-30T15:36:14.090Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://migros.ch.survey.ydns.eu']",
+      "pattern_type": "stix",
+      "valid_from": "2025-07-30T15:36:14.090Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--e88b0fdd-10cd-485a-935c-1039409316e7",
+      "created": "2025-08-04T12:00:40.922Z",
+      "modified": "2025-08-04T12:00:40.922Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://www.facebook.com/profile.php?id=61578262654650']",
+      "pattern_type": "stix",
+      "valid_from": "2025-08-04T12:00:40.922Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--5b8c1822-1128-4950-bc85-287a23a94739",
+      "created": "2025-08-21T09:12:11.875Z",
+      "modified": "2025-08-21T09:12:11.875Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://geometrically.infivolt.eu/OqpaAArlNn7/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-08-21T09:12:11.875Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--e6a25cef-3c4e-4688-ab0d-49fdd09c4eb2",
+      "created": "2025-08-21T10:58:50.666Z",
+      "modified": "2025-08-21T10:58:50.666Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://clientshareflie.juelc.click/aedc7598ecfa483c93e5a8eae1178ae9']",
+      "pattern_type": "stix",
+      "valid_from": "2025-08-21T10:58:50.666Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--89d8ca0d-b50c-4bd3-bc01-1bc76b072f61",
+      "created": "2025-08-25T07:10:09.377Z",
+      "modified": "2025-08-25T07:10:09.377Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://digitec.id815017185.click/kQQpMgLTQZgAtCjB']",
+      "pattern_type": "stix",
+      "valid_from": "2025-08-25T07:10:09.377Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--77dd196d-9b74-4a74-b88f-0122b097b434",
+      "created": "2025-08-26T16:20:52.666Z",
+      "modified": "2025-08-26T16:20:52.666Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://www.facebook.com/profile.php?id=61578383843308']",
+      "pattern_type": "stix",
+      "valid_from": "2025-08-26T16:20:52.666Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--3120e404-f8b3-414e-92fa-ea74170e43e5",
+      "created": "2025-09-02T14:08:03.311Z",
+      "modified": "2025-09-02T14:08:03.311Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'http://migros.com-prize.com']",
+      "pattern_type": "stix",
+      "valid_from": "2025-09-02T14:08:03.311Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--7d89dc83-a3b8-47ce-aac1-bd927f8179bc",
+      "created": "2025-09-16T14:09:02.331Z",
+      "modified": "2025-09-16T14:09:02.331Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://migrosgeschenk.top/ch']",
+      "pattern_type": "stix",
+      "valid_from": "2025-09-16T14:09:02.331Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--30dd5b6e-7337-4fef-b827-3d2aaff75050",
+      "created": "2025-09-16T14:09:03.310Z",
+      "modified": "2025-09-16T14:09:03.310Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://migrosangebote.top/ch/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-09-16T14:09:03.310Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--cd2ebe15-4e4e-4211-bee8-7bf72401e920",
+      "created": "2025-09-23T14:09:13.962Z",
+      "modified": "2025-09-23T14:09:13.962Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://www.migrospremium.top/ch']",
+      "pattern_type": "stix",
+      "valid_from": "2025-09-23T14:09:13.962Z"
+    }
+  ]
+}
