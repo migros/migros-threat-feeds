@@ -107,7 +107,7 @@
   {
     "id": "00880323-88fa-48ca-be81-d4e20bf0a8f7",
     "type": "URL",
-    "indicator": "https://www.migros.ch.survey.ydns.eu/",
+    "indicator": "https://www.migros.ch.survey.ydns.eu",
     "created_at": "2025-07-30T14:50:15.542Z",
     "confidence": -1,
     "source": "MIGROS-CDC",
@@ -227,7 +227,7 @@
   {
     "id": "7d89dc83-a3b8-47ce-aac1-bd927f8179bc",
     "type": "URL",
-    "indicator": "https://migrosgeschenk.top/ch",
+    "indicator": "https://migrosgeschenk.top",
     "created_at": "2025-09-16T14:09:02.331Z",
     "confidence": -1,
     "source": "MIGROS-CDC",
@@ -242,7 +242,7 @@
   {
     "id": "30dd5b6e-7337-4fef-b827-3d2aaff75050",
     "type": "URL",
-    "indicator": "https://migrosangebote.top/ch/",
+    "indicator": "https://migrosangebote.top",
     "created_at": "2025-09-16T14:09:03.310Z",
     "confidence": -1,
     "source": "MIGROS-CDC",
@@ -257,8 +257,3908 @@
   {
     "id": "cd2ebe15-4e4e-4211-bee8-7bf72401e920",
     "type": "URL",
-    "indicator": "https://www.migrospremium.top/ch",
+    "indicator": "https://www.migrospremium.top",
     "created_at": "2025-09-23T14:09:13.962Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "9713a8e8-46a6-42ce-b991-58e35668167d",
+    "type": "DOMAIN-NAME",
+    "indicator": "1.isownisoupahgu.xyz",
+    "created_at": "2025-10-10T14:14:48.400Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "1ba83d90-b93d-4d02-a676-355faef1efee",
+    "type": "DOMAIN-NAME",
+    "indicator": "amexorg.click",
+    "created_at": "2025-10-10T14:14:48.406Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "d9726b61-feb1-4adc-8783-a44ab78b393f",
+    "type": "DOMAIN-NAME",
+    "indicator": "amexteams.top",
+    "created_at": "2025-10-10T14:14:48.585Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "fb3288cc-6ce2-4962-a807-2a0ae7c43979",
+    "type": "DOMAIN-NAME",
+    "indicator": "amexteame.click",
+    "created_at": "2025-10-10T14:14:48.630Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "4c8e3a0c-70aa-42b5-b908-aafd09152d85",
+    "type": "DOMAIN-NAME",
+    "indicator": "amexvipgc.click",
+    "created_at": "2025-10-10T14:14:48.635Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "c5d96ab8-584e-4ad7-8cca-7a6d6f4535e4",
+    "type": "DOMAIN-NAME",
+    "indicator": "amexteams.click",
+    "created_at": "2025-10-10T14:14:48.641Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "94905649-e57d-49be-9711-a3775e15cbff",
+    "type": "DOMAIN-NAME",
+    "indicator": "amexvip.top",
+    "created_at": "2025-10-10T14:14:48.641Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "0bfeb298-6296-4314-9829-968bc8da1f73",
+    "type": "DOMAIN-NAME",
+    "indicator": "amexvip.cfd",
+    "created_at": "2025-10-10T14:14:48.641Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "c62ef02b-100d-4f30-81dc-944cc8059edd",
+    "type": "DOMAIN-NAME",
+    "indicator": "amexteam.top",
+    "created_at": "2025-10-10T14:14:48.641Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "b2a6c65e-e891-4696-b476-7fe002792337",
+    "type": "DOMAIN-NAME",
+    "indicator": "amexteamgo.click",
+    "created_at": "2025-10-10T14:14:48.649Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "fd91a5b2-cb8e-4c64-ad28-81ded0f05a3f",
+    "type": "DOMAIN-NAME",
+    "indicator": "amexvipgr.click",
+    "created_at": "2025-10-10T14:14:48.650Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "3fd8786a-811c-4d06-8182-1abd984d09ed",
+    "type": "DOMAIN-NAME",
+    "indicator": "amexvipgo.click",
+    "created_at": "2025-10-10T14:14:48.650Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "a55079c7-af55-4166-b199-bb455d0e45c2",
+    "type": "DOMAIN-NAME",
+    "indicator": "amexvipgs.click",
+    "created_at": "2025-10-10T14:14:48.673Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "209de454-b8ea-4fd4-99f3-e7a55aba7004",
+    "type": "DOMAIN-NAME",
+    "indicator": "coopteam.click",
+    "created_at": "2025-10-10T14:14:48.673Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "572a53d4-b7d8-4ef9-9045-2f4a855fa6eb",
+    "type": "DOMAIN-NAME",
+    "indicator": "migros-cumulusbonus.click",
+    "created_at": "2025-10-10T14:14:48.673Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "76bf6aaf-ab4c-447b-a368-0931415b7ad1",
+    "type": "DOMAIN-NAME",
+    "indicator": "coopvips.top",
+    "created_at": "2025-10-10T14:14:48.721Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "de0c4a01-f2b2-4715-938b-4a41066a19fd",
+    "type": "DOMAIN-NAME",
+    "indicator": "correosvip.click",
+    "created_at": "2025-10-10T14:14:48.721Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "1bad2de3-0227-4625-900c-f0b6081282a1",
+    "type": "DOMAIN-NAME",
+    "indicator": "coopvip.click",
+    "created_at": "2025-10-10T14:14:48.830Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "12e5576f-60d0-42f1-bbb5-1c72b4da2c52",
+    "type": "DOMAIN-NAME",
+    "indicator": "migros-praemien.click",
+    "created_at": "2025-10-10T14:14:48.830Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "d01b0d33-6b60-4ecc-897b-b0f30c3c20de",
+    "type": "DOMAIN-NAME",
+    "indicator": "correosvips.click",
+    "created_at": "2025-10-10T14:14:48.830Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "464daa40-061d-4b37-aec5-e71740686c2c",
+    "type": "DOMAIN-NAME",
+    "indicator": "migros365club.top",
+    "created_at": "2025-10-10T14:14:48.830Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "bb607649-461f-4df9-b21f-4a49b7f8cc42",
+    "type": "DOMAIN-NAME",
+    "indicator": "dpdans.click",
+    "created_at": "2025-10-10T14:14:48.830Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "7de3c10c-9940-4883-980b-6465be88f8bd",
+    "type": "DOMAIN-NAME",
+    "indicator": "amexvipin.click",
+    "created_at": "2025-10-10T14:14:48.830Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "57022326-3e19-41f4-a6d6-740efce4045e",
+    "type": "DOMAIN-NAME",
+    "indicator": "amexvips.top",
+    "created_at": "2025-10-10T14:14:48.830Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "393bfd06-fa9e-481b-80e5-81fc016ab510",
+    "type": "DOMAIN-NAME",
+    "indicator": "amexvipge.click",
+    "created_at": "2025-10-10T14:14:48.830Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "404c349a-2e3e-4f29-81ed-4e34b2c95902",
+    "type": "DOMAIN-NAME",
+    "indicator": "finanzbruecke.finance",
+    "created_at": "2025-10-10T14:14:48.831Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "a6bc8052-2b77-4827-a0ce-5feb3a79bdb4",
+    "type": "DOMAIN-NAME",
+    "indicator": "dpdorgs.click",
+    "created_at": "2025-10-10T14:14:48.831Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "063751ac-9780-42ea-b7bc-4d2cc58c1758",
+    "type": "DOMAIN-NAME",
+    "indicator": "kgmvip.click",
+    "created_at": "2025-10-10T14:14:48.831Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "9b9cc3a8-6f18-4465-94ba-a412e48cd992",
+    "type": "DOMAIN-NAME",
+    "indicator": "migros365reward.top",
+    "created_at": "2025-10-10T14:14:48.831Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "a8d8be98-debc-4576-93fe-f3c033a6007b",
+    "type": "DOMAIN-NAME",
+    "indicator": "amexvipgu.click",
+    "created_at": "2025-10-10T14:14:48.831Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "d1b39650-eb6f-40e7-81a5-afe41d06e6b2",
+    "type": "DOMAIN-NAME",
+    "indicator": "coopteam.top",
+    "created_at": "2025-10-10T14:14:48.831Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "7a5b22a7-79c0-4aa5-8493-d2c0ce11e259",
+    "type": "DOMAIN-NAME",
+    "indicator": "coopvip.top",
+    "created_at": "2025-10-10T14:14:48.831Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "ba8b96a0-21f4-4303-9141-4e15ceecf13b",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosbelohnung365.top",
+    "created_at": "2025-10-10T14:14:48.861Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "3094231b-9692-4cbd-8010-d79362f71a9f",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosbelohnugen.top",
+    "created_at": "2025-10-10T14:14:48.862Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "85d4813a-cf87-4173-9de4-5eaed0803b3f",
+    "type": "DOMAIN-NAME",
+    "indicator": "migros2025spunkte.top",
+    "created_at": "2025-10-10T14:14:48.868Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "bb6824a8-c9a7-4508-b5ad-a5d4bf4c812c",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosbonuspunkte.site",
+    "created_at": "2025-10-10T14:14:48.868Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "1ac5c8e9-335b-45a5-89ed-ffd921d95018",
+    "type": "DOMAIN-NAME",
+    "indicator": "migros365spunkte.top",
+    "created_at": "2025-10-10T14:14:48.868Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "f21eaf95-85b8-43aa-837b-637e594de996",
+    "type": "DOMAIN-NAME",
+    "indicator": "migros365rabattpunkte.top",
+    "created_at": "2025-10-10T14:14:48.868Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "8e8caede-f810-49b6-8ff8-77100359a734",
+    "type": "DOMAIN-NAME",
+    "indicator": "migros-gutschein.click",
+    "created_at": "2025-10-10T14:14:48.868Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "71afe7c4-3062-414f-996a-501f37ead6cd",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosbelohnung.top",
+    "created_at": "2025-10-10T14:14:48.868Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "d814e645-3b21-436d-9727-21fc18d57158",
+    "type": "DOMAIN-NAME",
+    "indicator": "migros-einloesen.click",
+    "created_at": "2025-10-10T14:14:48.879Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "29a8c03a-15f9-4369-b038-424df65f31ec",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosbelohnug.top",
+    "created_at": "2025-10-10T14:14:48.880Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "aa44c4e1-1324-429b-9dff-35ddf5d16c46",
+    "type": "DOMAIN-NAME",
+    "indicator": "migros365points.top",
+    "created_at": "2025-10-10T14:14:48.880Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "6700014a-99e0-45a3-87e9-4c7357836a24",
+    "type": "DOMAIN-NAME",
+    "indicator": "migros-punkte.click",
+    "created_at": "2025-10-10T14:14:48.891Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "259fe977-e7c0-48b4-8ab8-6b6eea400b3a",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosangebote.top",
+    "created_at": "2025-10-10T14:14:48.891Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "0598f3fd-1ae4-4922-9d52-64ace231a62d",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosboni.top",
+    "created_at": "2025-10-10T14:14:48.902Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "461d1e13-02e1-4842-8456-eee072257fc2",
+    "type": "DOMAIN-NAME",
+    "indicator": "migros365rewards.top",
+    "created_at": "2025-10-10T14:14:48.906Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "b9126d1e-76b8-4641-aa28-b4c1307d341d",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosammelpunkte.top",
+    "created_at": "2025-10-10T14:14:48.920Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "9a8f1f83-11b4-4bbe-bb3b-4fd5e277dc13",
+    "type": "DOMAIN-NAME",
+    "indicator": "migros365pointscheck.top",
+    "created_at": "2025-10-10T14:14:48.923Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "e7f512a2-1c0f-4188-8244-2741f7578383",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosbonuspunkte.top",
+    "created_at": "2025-10-10T14:14:48.924Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "101c7e55-7aa2-4c52-8b5d-01acbcbe97bb",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosclaim.top",
+    "created_at": "2025-10-10T14:16:04.398Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "804f1177-b646-415d-ab7d-e820732a58f1",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosclub.top",
+    "created_at": "2025-10-10T14:16:04.411Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "e49c7ce4-4dbf-4684-8573-a4213b4c98bf",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrospraemien24.top",
+    "created_at": "2025-10-10T14:16:04.412Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "464dbd0b-6385-4618-8463-b514e4d88138",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosgift.click",
+    "created_at": "2025-10-10T14:16:04.412Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "cb416ccb-e032-4426-9653-8bc6ccafc4fb",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosmy.click",
+    "created_at": "2025-10-10T14:16:04.412Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "883f1c26-2f8b-48de-b853-cbd63ee694a7",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosexchange.top",
+    "created_at": "2025-10-10T14:16:04.412Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "9ec56b2e-9d40-42c4-8c66-73ccab4a4296",
+    "type": "DOMAIN-NAME",
+    "indicator": "migroseinloesen.top",
+    "created_at": "2025-10-10T14:16:04.412Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "fa83d9ef-c66a-4b9a-98d1-2f72f5e81092",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosclubs2025.top",
+    "created_at": "2025-10-10T14:16:04.412Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "0c91c3f8-bd5b-47ad-a4f8-0c43546ef6de",
+    "type": "DOMAIN-NAME",
+    "indicator": "migroscard.click",
+    "created_at": "2025-10-10T14:16:04.412Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "d04b5efd-5eab-4483-94b6-e11b8d52491c",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosdeals365.top",
+    "created_at": "2025-10-10T14:16:04.412Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "de3fb0c5-bdde-47ba-b7aa-5ffe4dc75bdc",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosdeal.top",
+    "created_at": "2025-10-10T14:16:04.412Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "cad81cf0-07b8-4c21-afb5-9c2706cf8d4c",
+    "type": "DOMAIN-NAME",
+    "indicator": "migroscredit.top",
+    "created_at": "2025-10-10T14:16:04.412Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "6b90d027-d9c1-468b-9ae8-75ac1200f3bf",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosmitglied.top",
+    "created_at": "2025-10-10T14:16:04.423Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "315591d3-fbf8-4eb8-9ab7-836e4d679bbd",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrospoints.top",
+    "created_at": "2025-10-10T14:16:04.423Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "7c971232-002d-4103-8b7c-66dcddbe0684",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrospointscheck.top",
+    "created_at": "2025-10-10T14:16:04.423Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "ad037854-8eff-4650-b583-cf4ad0f29ef1",
+    "type": "DOMAIN-NAME",
+    "indicator": "migroscmy.click",
+    "created_at": "2025-10-10T14:16:04.423Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "3ecebb23-1c13-400c-b5a7-c14d4ccae4ca",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosplus365.top",
+    "created_at": "2025-10-10T14:16:04.423Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "a7479e1d-d921-4ff0-af22-800debc6f9fc",
+    "type": "DOMAIN-NAME",
+    "indicator": "migroscredits.top",
+    "created_at": "2025-10-10T14:16:04.424Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "7482d48d-cdb6-4a0b-abe8-7df492ef7684",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosmehrfachpunkte.top",
+    "created_at": "2025-10-10T14:16:04.424Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "6a09a558-320b-4c44-b443-00a632bef997",
+    "type": "DOMAIN-NAME",
+    "indicator": "migroseinloesen365.top",
+    "created_at": "2025-10-10T14:16:04.424Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "a9b109c5-dcdb-4ca9-a99e-d066690327dd",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosbonuspunkte365.top",
+    "created_at": "2025-10-10T14:16:04.424Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "1864205b-67d8-409b-96c0-4b5e4db3f5f6",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosgeschenk.top",
+    "created_at": "2025-10-10T14:16:04.424Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "50923c28-505b-4aa4-ac89-aa0f3bd5f7bb",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosdeals.top",
+    "created_at": "2025-10-10T14:16:04.424Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "527a36a0-2d3c-4f9f-a1a3-7ff63e3ebb30",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosextrapunkte.top",
+    "created_at": "2025-10-10T14:16:04.424Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "2eb0f58d-8971-43b5-a544-d98fc7312647",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosclub365.top",
+    "created_at": "2025-10-10T14:16:04.432Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "9c41a724-0946-46db-9153-9474d89ebf68",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosreward-989996.cc",
+    "created_at": "2025-10-10T14:16:04.433Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "3c4c195d-f982-42e7-8f25-af1ecc4b37d1",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrospointscheck365.top",
+    "created_at": "2025-10-10T14:16:04.433Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "acc66ee0-7597-4bc4-ab80-16a24905aff7",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrospunkte.click",
+    "created_at": "2025-10-10T14:16:04.433Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "066533f0-c500-4b62-b726-2f705f6084d9",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrospunkteverfallen.top",
+    "created_at": "2025-10-10T14:16:04.433Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "bd7c027d-de04-4770-9576-efd29bf0f4dd",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosplus.top",
+    "created_at": "2025-10-10T14:16:04.433Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "3d29c408-598d-45db-bf13-e6a3e6728aa4",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrospraemien.top",
+    "created_at": "2025-10-10T14:16:04.433Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "fdd5d9c3-d12e-414d-9a7f-285ab471c5ab",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosdeal365.top",
+    "created_at": "2025-10-10T14:16:04.433Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "ed351e79-7762-4c29-afe5-d30f14230d00",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrospunkte.online",
+    "created_at": "2025-10-10T14:16:04.433Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "c9bc1aec-f5e3-458b-a379-723c3a7e2209",
+    "type": "DOMAIN-NAME",
+    "indicator": "migroscoupons.top",
+    "created_at": "2025-10-10T14:16:04.433Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "374cffd5-2dd8-413a-a26e-95215578f862",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosclubs.top",
+    "created_at": "2025-10-10T14:16:04.433Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "e464f492-61d0-47cd-9ebd-3e073af9e15b",
+    "type": "DOMAIN-NAME",
+    "indicator": "migroscumulus.top",
+    "created_at": "2025-10-10T14:16:04.433Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "35dd79a5-5865-48df-bd4f-4a618bb193e2",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrospremium.top",
+    "created_at": "2025-10-10T14:16:04.433Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "78bce2dc-959f-48f7-927d-5a7873383c36",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrospraemien365.top",
+    "created_at": "2025-10-10T14:16:04.434Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "59e67a59-b62d-44e4-91d8-8e7def606c40",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrospreis.top",
+    "created_at": "2025-10-10T14:16:04.434Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "ebe561e6-263d-4ece-acc7-c3ff9eb0b908",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosrabattpunkte24.top",
+    "created_at": "2025-10-10T14:16:04.434Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "e7c596a0-2773-4dd6-82c8-8bf6df3865a0",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosredeem.top",
+    "created_at": "2025-10-10T14:16:04.434Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "15e4d871-f12a-428e-a3b3-aae1979ba542",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosjokerpunkte.top",
+    "created_at": "2025-10-10T14:16:04.446Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "0b8d2f5d-067c-4240-8df8-c2fd100966cf",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosreward-98996.cc",
+    "created_at": "2025-10-10T14:16:04.446Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "6b32d746-6eec-4bed-a19c-9adba4472b40",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrospunkte.club",
+    "created_at": "2025-10-10T14:16:04.446Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "7c53a202-9f91-4675-8be6-21f9788dfaef",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrospunkte.top",
+    "created_at": "2025-10-10T14:16:04.446Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "188b2ae3-de4d-41e1-a515-4198e2de9102",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosreward-98995.cc",
+    "created_at": "2025-10-10T14:16:04.446Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "49720b0f-04fb-4c16-b856-a73a9c168d7b",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosccard.click",
+    "created_at": "2025-10-10T14:16:04.446Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "e3b7439d-cfb8-4778-86ff-aa70a642df03",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosconvert.top",
+    "created_at": "2025-10-10T14:16:04.446Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "2fa25561-1e41-461f-9bf5-d24c6ed89eb0",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrospunkte24.top",
+    "created_at": "2025-10-10T14:16:04.468Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "ce8983ea-7759-4a8c-8a98-5fa27f416e34",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosreward-s12805.top",
+    "created_at": "2025-10-10T14:16:04.468Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "3fca354b-0082-4593-b957-bc0fa9e568f5",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrossofortpunkte.top",
+    "created_at": "2025-10-10T14:17:28.870Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "849e1df1-9ed2-4b7d-9c75-1bf31cd47daf",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosreward.535151.com",
+    "created_at": "2025-10-10T14:17:28.870Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "ad772128-8962-469b-b4af-6ac5851729c2",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosreward.353589.com",
+    "created_at": "2025-10-10T14:17:28.870Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "8bcd47f2-cf7a-46f9-9b8a-3ebfd5d28bc9",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosrewardsprogram.top",
+    "created_at": "2025-10-10T14:17:28.870Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "141912af-ac38-4c53-9be8-58717a5a123e",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrostreuepunkte.online",
+    "created_at": "2025-10-10T14:17:28.874Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "321ecfd8-b813-4503-95b3-8951bd5fce40",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosreward.141888.cc",
+    "created_at": "2025-10-10T14:17:28.882Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "1d7b5112-a194-4f7e-98b7-d8202f762f90",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosumtausch24.top",
+    "created_at": "2025-10-10T14:17:28.885Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "1f59cde5-29f6-4553-8a8a-10b28a6168bd",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosreward.997966.cc",
+    "created_at": "2025-10-10T14:17:28.885Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "b71ebe25-2f76-4402-8f7c-dfbfaa8c6c6d",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosteam.click",
+    "created_at": "2025-10-10T14:17:28.893Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "aae34cbc-16f2-45db-851e-5fc1bd2f873e",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrostreuepunkte.club",
+    "created_at": "2025-10-10T14:17:28.893Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "a0b600c1-23a8-4a55-861c-a439c5dbebfd",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosreward.939568.com",
+    "created_at": "2025-10-10T14:17:28.901Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "8bccc3f2-aba1-4004-8ce4-fc20fb92f247",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosreward.922364.cc",
+    "created_at": "2025-10-10T14:17:28.901Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "e3d53e19-0945-4734-80b4-e7df1db5d270",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosumtausch365.top",
+    "created_at": "2025-10-10T14:17:28.908Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "6641aa9f-9ab9-4f39-918b-95a3d03b55d8",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosreward.797986.com",
+    "created_at": "2025-10-10T14:17:28.908Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "4579ac09-7e10-4380-9cba-a901cbc24207",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrostreuepunkte.top",
+    "created_at": "2025-10-10T14:17:28.912Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "e71106ae-833c-4132-96ed-10ac74ca6c39",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrostreueprogramm.top",
+    "created_at": "2025-10-10T14:17:28.913Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "7173949f-0a3c-4647-8a36-15d176781ab3",
+    "type": "DOMAIN-NAME",
+    "indicator": "migross.cc",
+    "created_at": "2025-10-10T14:17:28.913Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "b0538c11-265a-4b71-b0d9-5a43848053aa",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosreward.top",
+    "created_at": "2025-10-10T14:17:28.917Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "1c2b5ebc-0a39-4dc3-a68f-699cacb4c6fc",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrossammelpunkte.top",
+    "created_at": "2025-10-10T14:17:28.917Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "f253f0e5-a743-4671-9d72-477ea2b322a0",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosreward.323737.com",
+    "created_at": "2025-10-10T14:17:28.917Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "843f2240-8ea8-44e1-9b86-f01024fb4120",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosvips.click",
+    "created_at": "2025-10-10T14:17:28.923Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "0109e4ce-760a-4d4a-924d-0d959bf2d70a",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosumtausch.top",
+    "created_at": "2025-10-10T14:17:28.923Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "54b077a6-e92f-4be4-a294-1893273c091f",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosrewards.top",
+    "created_at": "2025-10-10T14:17:28.923Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "e869510e-3859-4eca-90d8-e5106b310794",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrovip.top",
+    "created_at": "2025-10-10T14:17:28.923Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "9030e779-7250-41f8-aa77-b5b0ca94bf1e",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosspremium.top",
+    "created_at": "2025-10-10T14:17:28.923Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "8a966fcf-3b99-4a58-9b23-df225f06e6fb",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosvmy.click",
+    "created_at": "2025-10-10T14:17:28.923Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "4bfa4a8e-efec-4ef3-b02e-4fd0740a4a15",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosreward.808079.com",
+    "created_at": "2025-10-10T14:17:28.923Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "92b5dc2f-f49e-490a-822b-86c9e76a4a27",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosvip.click",
+    "created_at": "2025-10-10T14:17:28.931Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "6a01125d-e195-4fc8-9b66-ceeed7fafacd",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosxcard.click",
+    "created_at": "2025-10-10T14:17:28.931Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "e04122a9-1921-4057-b28e-63466511c293",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosxvip.click",
+    "created_at": "2025-10-10T14:17:28.931Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "c8c6e002-04ca-4a58-ade8-abf2cfe5c4b7",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosxmy.click",
+    "created_at": "2025-10-10T14:17:28.931Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "b42261ef-b2a5-4d61-9092-2e243fb9097b",
+    "type": "DOMAIN-NAME",
+    "indicator": "migroteams.click",
+    "created_at": "2025-10-10T14:17:28.931Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "2b02aa17-346f-46e2-98df-c66850a6508d",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrovipgos.click",
+    "created_at": "2025-10-10T14:17:28.937Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "c37ed17b-1691-4788-b556-8d7a7591c4c4",
+    "type": "DOMAIN-NAME",
+    "indicator": "migroszusatzpunkte.top",
+    "created_at": "2025-10-10T14:17:28.944Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "5359ced8-052b-46f3-b3de-c070a5ad9c63",
+    "type": "DOMAIN-NAME",
+    "indicator": "mligros.cc",
+    "created_at": "2025-10-10T14:17:28.944Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "10032081-5502-479a-acac-4b8c5098088d",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrros.cc",
+    "created_at": "2025-10-10T14:17:28.944Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "c4eb5e8b-1a87-488b-8579-8f52cf7cf06c",
+    "type": "DOMAIN-NAME",
+    "indicator": "mligrros.cc",
+    "created_at": "2025-10-10T14:17:28.949Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "b92cbea7-48ca-4b90-9db8-e255d656aa67",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrovips.top",
+    "created_at": "2025-10-10T14:17:28.951Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "2f2e53b7-27f5-4962-b2c5-8e89cca7874e",
+    "type": "DOMAIN-NAME",
+    "indicator": "www.kgmvip.click",
+    "created_at": "2025-10-10T14:17:28.951Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "1ff9470c-da63-4d86-8d75-86d0263f787d",
+    "type": "DOMAIN-NAME",
+    "indicator": "www.finanzbruecke.finance",
+    "created_at": "2025-10-10T14:17:28.951Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "36e3dcbf-850e-4bda-998a-0d6852eb9664",
+    "type": "DOMAIN-NAME",
+    "indicator": "www.migrosspremium.top",
+    "created_at": "2025-10-10T14:17:28.959Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "ad55ec13-9a44-47e6-9ce5-9260c7e633a1",
+    "type": "DOMAIN-NAME",
+    "indicator": "www.migroscard.click",
+    "created_at": "2025-10-10T14:17:28.959Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "ad942590-4e6e-47f3-8b61-90e423740b42",
+    "type": "DOMAIN-NAME",
+    "indicator": "www.migrosxmy.click",
+    "created_at": "2025-10-10T14:17:28.961Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "6840f7a5-6fe0-4792-bef4-27d8d19eb32e",
+    "type": "DOMAIN-NAME",
+    "indicator": "www.amexvip.top",
+    "created_at": "2025-10-10T14:17:28.962Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "d9827475-6419-4c05-a37c-171fe967271e",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrovipgo.click",
+    "created_at": "2025-10-10T14:17:28.964Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "024a3e20-4b00-44ae-a2b5-5d7d8e5e271c",
+    "type": "DOMAIN-NAME",
+    "indicator": "www.migrosmy.click",
+    "created_at": "2025-10-10T14:17:28.964Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "8d676e16-e143-4597-8617-1028a4b1a7ff",
+    "type": "DOMAIN-NAME",
+    "indicator": "migroxvip.click",
+    "created_at": "2025-10-10T14:17:28.970Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "a546a901-f985-499a-8e83-ace08c27d970",
+    "type": "DOMAIN-NAME",
+    "indicator": "www.migrosteam.click",
+    "created_at": "2025-10-10T14:17:28.970Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "98c1c03a-cbcf-40ab-b3f8-8fd8d529118a",
+    "type": "DOMAIN-NAME",
+    "indicator": "www.migrosvip.click",
+    "created_at": "2025-10-10T14:17:28.985Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "f96cd6f1-788b-4e05-a492-a782c661142e",
+    "type": "DOMAIN-NAME",
+    "indicator": "www.migroteams.click",
+    "created_at": "2025-10-10T14:17:28.988Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "1f7f5de2-1b03-4071-8dc8-3c8c40d76b83",
+    "type": "DOMAIN-NAME",
+    "indicator": "migro-bike.com",
+    "created_at": "2025-10-10T14:18:30.146Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "1d5b18cc-3394-42e7-92d5-02332aaeac8c",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosreward.11633.cc",
+    "created_at": "2025-10-10T14:18:30.162Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "48ca84b6-6752-4dcc-976d-f0663244e33b",
+    "type": "DOMAIN-NAME",
+    "indicator": "migro.ag",
+    "created_at": "2025-10-10T14:18:30.164Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "984bff92-423f-48c4-ad44-2a6c480b5b6e",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosreward.11625.cc",
+    "created_at": "2025-10-10T14:18:30.164Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "841e6dbf-40dc-46f6-8434-a4f0deb9055c",
+    "type": "DOMAIN-NAME",
+    "indicator": "migroa.us",
+    "created_at": "2025-10-10T14:18:30.164Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "b2b2f42b-379a-4c9a-a799-91142ee1cbb3",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosreward.11698.cc",
+    "created_at": "2025-10-10T14:18:30.166Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "cf8cdf3b-cf3c-471e-82a1-e0ff54136ddd",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosreward.344117.com",
+    "created_at": "2025-10-10T14:18:30.173Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "a1da528e-c4b4-4b94-ad79-53c9d6831ba9",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosreward.165486.com",
+    "created_at": "2025-10-10T14:18:30.174Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "72245f26-d136-42a8-9fe9-02e06e8995f3",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosreward.808979.com",
+    "created_at": "2025-10-10T14:18:30.182Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "007f0437-f8cc-414d-9453-d3a56b96c4d5",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosreward.477231.com",
+    "created_at": "2025-10-10T14:18:30.182Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "48b13029-22ae-4f92-af27-16ba6367a6d7",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosreward.759569.com",
+    "created_at": "2025-10-10T14:18:30.184Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "35bb0a38-93f8-4be4-9076-66810e37e66c",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosteams.click",
+    "created_at": "2025-10-10T14:18:30.185Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "0fd8cde1-ccba-4c06-a870-e684f9bb3e28",
+    "type": "URL",
+    "indicator": "http://migrosteam.click/",
+    "created_at": "2025-10-10T14:21:07.548Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "ed6bfd1d-662f-4316-9ebb-e39f53d388d7",
+    "type": "URL",
+    "indicator": "http://migrosxcard.click/",
+    "created_at": "2025-10-10T14:21:07.551Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "a0bf54bd-1650-4e12-9f32-884ee4fdcc7f",
+    "type": "URL",
+    "indicator": "http://migrosxmy.click/",
+    "created_at": "2025-10-10T14:21:07.551Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "31768d5c-5b12-4205-bf00-ecc7957e3a7c",
+    "type": "URL",
+    "indicator": "https://migrosreward.77588.cc/link/c_pay.html",
+    "created_at": "2025-10-10T14:21:07.552Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "568f2332-cf5a-46e9-920a-2bd8a5e98728",
+    "type": "URL",
+    "indicator": "https://migrosreward.922364.cc/link",
+    "created_at": "2025-10-10T14:21:07.552Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "16d3f260-20a5-469b-960e-d9cdcba7f09b",
+    "type": "URL",
+    "indicator": "https://migrospunkte.top/",
+    "created_at": "2025-10-10T14:21:07.634Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "8d3f460a-1079-4d81-a703-196b95331a06",
+    "type": "URL",
+    "indicator": "https://migropunktepraemien.top/ch/c_pay.html",
+    "created_at": "2025-10-10T14:21:07.638Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "bf2a57f7-98b8-497c-a7dd-3a991f97247a",
+    "type": "URL",
+    "indicator": "https://migrospreis.top/",
+    "created_at": "2025-10-10T14:21:07.641Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "0ed7836e-d0fd-4e9a-b938-7dbec1583aad",
+    "type": "URL",
+    "indicator": "https://migrros.cc/ch/",
+    "created_at": "2025-10-10T14:21:07.643Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "ecee7817-a2ef-4852-af97-8dacd9671b2d",
+    "type": "URL",
+    "indicator": "http://migrovips.top/ch",
+    "created_at": "2025-10-10T14:21:07.644Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "c5b4c61f-c294-4130-a59c-2bea33eee77c",
+    "type": "URL",
+    "indicator": "https://migros365club.top/ch/",
+    "created_at": "2025-10-10T14:21:07.644Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "b2177ae4-aed9-4172-8284-967e7adaa9bb",
+    "type": "URL",
+    "indicator": "http://migrob.com/",
+    "created_at": "2025-10-10T14:21:07.646Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "663ef90e-5c73-47a3-8a91-13040f8bb019",
+    "type": "URL",
+    "indicator": "http://migrosvips.click/",
+    "created_at": "2025-10-10T14:21:07.647Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "1dc058ee-b4a8-426b-b95d-0a00060fd683",
+    "type": "URL",
+    "indicator": "http://migrosgift.click/",
+    "created_at": "2025-10-10T14:21:07.649Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "45098de8-d386-497d-b363-33d4ad34dd77",
+    "type": "URL",
+    "indicator": "https://migrospunkte.top/ch/c_pay.html",
+    "created_at": "2025-10-10T14:21:07.649Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "1f6350a8-e980-4dcb-af45-2b55db983c98",
+    "type": "URL",
+    "indicator": "http://migroscard.click/",
+    "created_at": "2025-10-10T14:21:07.653Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "1be18f00-78d5-4d58-99fc-461f788b15b4",
+    "type": "URL",
+    "indicator": "http://migroscmy.click/",
+    "created_at": "2025-10-10T14:21:07.698Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "151f8b9a-25e5-4876-86cf-ef9808aa7800",
+    "type": "URL",
+    "indicator": "https://migros2025spunkte.top/ch",
+    "created_at": "2025-10-10T14:21:07.716Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "7f7dc69d-7823-4e04-840e-dd79df88fd87",
+    "type": "URL",
+    "indicator": "https://migrospunkte.club/ch/c_pay.html",
+    "created_at": "2025-10-10T14:21:07.719Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "ae58c667-dcc5-4280-88bb-1ee2bbeb0b29",
+    "type": "URL",
+    "indicator": "https://migrosclubs2025.top/ch",
+    "created_at": "2025-10-10T14:21:07.733Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "27b404e7-2150-4910-a2e9-24ed76bc3a6f",
+    "type": "URL",
+    "indicator": "http://migroag.ca/",
+    "created_at": "2025-10-10T14:21:07.738Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "383cda9b-a16e-4b73-acb3-d7af057dcd19",
+    "type": "URL",
+    "indicator": "http://migrosdeal.top/",
+    "created_at": "2025-10-10T14:21:07.738Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "5d4639e9-2f07-4fd5-9b17-e98ca73120cf",
+    "type": "URL",
+    "indicator": "http://migrosccard.click/",
+    "created_at": "2025-10-10T14:21:07.747Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "24fb6c0e-8e29-461d-92c5-115e31124d60",
+    "type": "URL",
+    "indicator": "http://migrosreward.900168.com/",
+    "created_at": "2025-10-10T14:21:07.751Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "23daeaa2-f47f-4e20-a078-22a989a0d581",
+    "type": "URL",
+    "indicator": "https://migrosteam.click/ch",
+    "created_at": "2025-10-10T14:21:07.752Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "d9da0b2b-f200-4e95-800f-6ff2179e5fd4",
+    "type": "URL",
+    "indicator": "https://migrovip.top/ch/",
+    "created_at": "2025-10-10T14:21:07.764Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "b99c28dd-347e-4b42-aaf6-128b20bd4f4e",
+    "type": "URL",
+    "indicator": "http://migroteams.click/",
+    "created_at": "2025-10-10T14:21:07.767Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "78f99188-1f08-4351-a152-eb82c3960875",
+    "type": "URL",
+    "indicator": "http://migrosreward.183737.com/",
+    "created_at": "2025-10-10T14:21:07.770Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "4b01779d-2e7a-42da-bd2d-9b301c4d0cc1",
+    "type": "URL",
+    "indicator": "https://mligros.cc/ch/",
+    "created_at": "2025-10-10T14:21:07.770Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "a5d3ef09-526d-472c-a4fe-262ff346726e",
+    "type": "URL",
+    "indicator": "https://migrosbelohnug.top/",
+    "created_at": "2025-10-10T14:21:07.773Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "40358674-9d76-4d94-8085-cfec06014d97",
+    "type": "URL",
+    "indicator": "https://migrosbelohnung.top/ch",
+    "created_at": "2025-10-10T14:21:07.776Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "3fd8ad13-bad2-4453-9291-a1b29a6df71a",
+    "type": "URL",
+    "indicator": "http://migrosmy.click/",
+    "created_at": "2025-10-10T14:21:07.778Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "7e9e1e8c-ea54-46cd-884a-3c85c5ff185b",
+    "type": "URL",
+    "indicator": "http://migrovips.top/",
+    "created_at": "2025-10-10T14:21:07.778Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "fdfe14da-0607-4e2e-817d-33e85872f7a0",
+    "type": "URL",
+    "indicator": "http://migrosvip.click/",
+    "created_at": "2025-10-10T14:21:07.781Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "f2f2683e-c48b-41d8-b89e-9fd9baede3dd",
+    "type": "URL",
+    "indicator": "http://www.migrosreward.183737.com/",
+    "created_at": "2025-10-10T14:21:07.788Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "2fc22aee-0c2e-4e7c-9f9c-f3ab5183d560",
+    "type": "URL",
+    "indicator": "https://migrosreward.141888.cc/ch",
+    "created_at": "2025-10-10T14:21:07.788Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "35a28c54-8fff-4b00-bef8-b2a30c2bf525",
+    "type": "URL",
+    "indicator": "https://migrosmitglied.top/",
+    "created_at": "2025-10-10T14:21:07.788Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "eca90f54-15d0-4e7d-96d1-c62ccb115d43",
+    "type": "URL",
+    "indicator": "https://migrosrewards.top/",
+    "created_at": "2025-10-10T14:21:07.788Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "72d850ea-74c1-4b20-b00c-6184d080d2ba",
+    "type": "URL",
+    "indicator": "http://migrosvmy.click/",
+    "created_at": "2025-10-10T14:21:07.791Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "b82aa199-2163-4974-9ae1-696e4520d094",
+    "type": "URL",
+    "indicator": "http://migro-bank.ch/",
+    "created_at": "2025-10-10T14:21:07.793Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "2a8c047f-20cd-44b5-a84e-5a7cbc5bba59",
+    "type": "URL",
+    "indicator": "http://migroarreda.it/",
+    "created_at": "2025-10-10T14:21:07.800Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "45079963-b399-4826-b6db-2c8132521a9c",
+    "type": "URL",
+    "indicator": "http://mligrros.cc/ch",
+    "created_at": "2025-10-10T14:21:07.801Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "d57f684f-7673-4851-acdf-3bd4865aabf8",
+    "type": "URL",
+    "indicator": "https://migrosvip.click/ch",
+    "created_at": "2025-10-10T14:21:07.805Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "c0f7a596-a0d1-4942-9232-b4ee742e4216",
+    "type": "URL",
+    "indicator": "https://mligrros.cc/ch",
+    "created_at": "2025-10-10T14:21:07.808Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "634e9fe5-399e-48b0-a5ec-ee51895afdb2",
+    "type": "URL",
+    "indicator": "https://migroscoupons.top/",
+    "created_at": "2025-10-10T14:21:07.809Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "c35fc947-f7be-4e4c-9460-ccbbfb8d7ecd",
+    "type": "URL",
+    "indicator": "https://www.migrosspremium.top/ch",
+    "created_at": "2025-10-10T14:21:07.809Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "0244871f-565d-452b-b50e-60e1a00fc246",
+    "type": "URL",
+    "indicator": "http://migrosxvip.click/",
+    "created_at": "2025-10-10T14:21:07.815Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "564bb588-e68b-468e-b46e-5ea17d5d1712",
+    "type": "URL",
+    "indicator": "http://migrosreward.765105.com/",
+    "created_at": "2025-10-10T14:21:07.852Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "49b2cf04-55d0-4010-b259-2c4fa234eb1b",
+    "type": "URL",
+    "indicator": "https://migrosreward.top/",
+    "created_at": "2025-10-10T14:21:07.874Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "c738e0e4-dfdd-44fa-b728-649d20ea5f58",
+    "type": "URL",
+    "indicator": "https://migrosclaim.top/ch/c_pay.html",
+    "created_at": "2025-10-10T14:21:08.418Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "a04844e3-2571-415f-8afc-f5af47058633",
+    "type": "URL",
+    "indicator": "http://migrosreward.323737.com/",
+    "created_at": "2025-10-10T14:22:12.304Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "29f04563-4be0-4468-be96-dd745e3c08c1",
+    "type": "URL",
+    "indicator": "https://migrosammelpunkte.top/ch",
+    "created_at": "2025-10-10T14:22:12.316Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "360a68a1-e95e-41b0-b9ff-2f37a46b8d85",
+    "type": "URL",
+    "indicator": "http://migrosreward.853332.com/",
+    "created_at": "2025-10-10T14:22:12.317Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "361e9796-536f-44ee-9580-1607d8d1d47a",
+    "type": "URL",
+    "indicator": "https://migroscumulus.top/",
+    "created_at": "2025-10-10T14:22:12.324Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "c9a5db03-8dfd-4e91-9d88-1f8da6642645",
+    "type": "URL",
+    "indicator": "https://migrovips.top/ch",
+    "created_at": "2025-10-10T14:22:12.439Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "851f23b4-ccee-45e5-bee0-9849ea3db4ae",
+    "type": "URL",
+    "indicator": "http://migrovip.top/",
+    "created_at": "2025-10-10T14:22:12.440Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "b7eba21e-625c-4dc5-996b-ceaeeb45e13e",
+    "type": "URL",
+    "indicator": "https://migrospunkte.top/ch",
+    "created_at": "2025-10-10T14:22:12.449Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "b27227cd-62b6-4ebd-a934-28cec856e2e9",
+    "type": "URL",
+    "indicator": "https://migros-einloesen.click/",
+    "created_at": "2025-10-10T14:22:12.462Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "673f21f3-2f04-4f67-a45c-ee27dd996942",
+    "type": "URL",
+    "indicator": "http://migrosreward.535151.com/",
+    "created_at": "2025-10-10T14:22:12.477Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "8777e3b4-eb2c-4ef5-a0de-824ec7541632",
+    "type": "URL",
+    "indicator": "http://migros-einloesen.click/",
+    "created_at": "2025-10-10T14:22:12.480Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "7f7ab3ac-e222-4340-9dbf-131e74b221bc",
+    "type": "URL",
+    "indicator": "https://migroteams.click/ch",
+    "created_at": "2025-10-10T14:22:12.481Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "97d78395-fcf9-493e-a9ff-321f8835da43",
+    "type": "URL",
+    "indicator": "https://migrosboni.top/",
+    "created_at": "2025-10-10T14:22:12.482Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "1aa0a5dd-50b3-4e46-8afd-64b1869d4842",
+    "type": "URL",
+    "indicator": "https://migrosmitglied.top/ch/c_pay.html",
+    "created_at": "2025-10-10T14:22:12.483Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "8081c141-eaf1-47df-af8e-8d253ba82672",
+    "type": "URL",
+    "indicator": "http://migro-bank.com/",
+    "created_at": "2025-10-10T14:22:12.484Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "2b70c214-0b1d-42a0-9f30-dffb08de1ae5",
+    "type": "URL",
+    "indicator": "http://migrovipgo.click/",
+    "created_at": "2025-10-10T14:22:12.485Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "bb51d32c-2781-4736-b7f9-cdcd05efed14",
+    "type": "URL",
+    "indicator": "http://migroben.com/",
+    "created_at": "2025-10-10T14:22:12.486Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "c06eeebf-9b63-448d-b970-518399f1f36b",
+    "type": "URL",
+    "indicator": "https://migrosreward.165486.com/ch/",
+    "created_at": "2025-10-10T14:22:12.486Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "a8f005ac-7cf8-45b5-95d3-35001ea31b8f",
+    "type": "URL",
+    "indicator": "https://migrosbelohnugen.top/",
+    "created_at": "2025-10-10T14:22:12.493Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "daca290e-5621-4850-b094-2b8fece3f94c",
+    "type": "URL",
+    "indicator": "http://migrosreward.759569.com/",
+    "created_at": "2025-10-10T14:22:12.495Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "fc877ba5-6717-4b94-87f0-5ad9c9660ddd",
+    "type": "URL",
+    "indicator": "https://migrospointscheck365.top/ch/",
+    "created_at": "2025-10-10T14:22:12.496Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "da24f0ea-7dbb-499f-bccb-3a60c12bc21a",
+    "type": "URL",
+    "indicator": "http://migrosreward.797986.com/",
+    "created_at": "2025-10-10T14:22:12.501Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "d752f043-9f6f-4b3a-bd10-8fbd8b117ffe",
+    "type": "URL",
+    "indicator": "http://migrosreward.477231.com/",
+    "created_at": "2025-10-10T14:22:12.503Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "b7a7189a-2da6-41ae-82e9-2aedbeb3fb32",
+    "type": "URL",
+    "indicator": "http://migrosreward.808979.com/",
+    "created_at": "2025-10-10T14:22:12.510Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "992247fd-4c6b-46d6-8091-b25c3b9d99b5",
+    "type": "URL",
+    "indicator": "https://migrosreward.997966.cc/link",
+    "created_at": "2025-10-10T14:22:12.510Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "9646873d-f18e-433d-8b01-288f0f1ae161",
+    "type": "URL",
+    "indicator": "http://migrosreward-s12805.top/",
+    "created_at": "2025-10-10T14:22:12.513Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "779fd14e-2686-4669-b66a-e89ea4fd8b81",
+    "type": "URL",
+    "indicator": "http://migro-bike.com/",
+    "created_at": "2025-10-10T14:22:12.513Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "fe9ffdea-07c1-4cc1-8f24-367924a24fa4",
+    "type": "URL",
+    "indicator": "https://migrosrewardsprogram.top/au",
+    "created_at": "2025-10-10T14:22:12.514Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "91e4d538-4466-428e-a5a6-d32b439fb0e2",
+    "type": "URL",
+    "indicator": "http://migrosreward.353589.com/",
+    "created_at": "2025-10-10T14:22:12.517Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "d700b8f1-1c9c-46f1-b723-b574a9a4fb62",
+    "type": "URL",
+    "indicator": "https://migrosbonuspunkte.top/ch",
+    "created_at": "2025-10-10T14:22:12.517Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "c487f9d5-b28b-4fc3-a652-caf4a7672659",
+    "type": "URL",
+    "indicator": "https://migrosreward.11698.cc/link",
+    "created_at": "2025-10-10T14:22:12.517Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "eebc1443-9cf8-4f1b-aec5-64511c1e4ec5",
+    "type": "URL",
+    "indicator": "https://migrospunkte.click/ch",
+    "created_at": "2025-10-10T14:22:12.517Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "12d513ae-87d2-423d-9e61-c4416f5c032f",
+    "type": "URL",
+    "indicator": "http://migros-gutschein.click/",
+    "created_at": "2025-10-10T14:22:12.522Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "2d65667a-bc17-4e05-81ad-9b78ebf97784",
+    "type": "URL",
+    "indicator": "http://migro.ag/",
+    "created_at": "2025-10-10T14:22:12.522Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "95ae5d1c-6b66-497e-bf4d-df67cd05440b",
+    "type": "URL",
+    "indicator": "http://migros-cumulusbonus.click/",
+    "created_at": "2025-10-10T14:22:12.522Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "09d61dd9-4d10-4a9a-8c65-c739c98d7dd0",
+    "type": "URL",
+    "indicator": "http://migroa.us/",
+    "created_at": "2025-10-10T14:22:12.524Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "5e672f55-8e27-49af-8b48-5c3c668c3c02",
+    "type": "URL",
+    "indicator": "https://migrosreward.344117.com/",
+    "created_at": "2025-10-10T14:22:12.527Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "48df2bb5-cd29-4c9f-ab94-1434e4aef47b",
+    "type": "URL",
+    "indicator": "http://migroxvip.click/",
+    "created_at": "2025-10-10T14:22:12.529Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "e9eb8875-bb4a-4434-ab8c-9c9f0bae6a92",
+    "type": "URL",
+    "indicator": "https://migrosteams.click/ch",
+    "created_at": "2025-10-10T14:22:12.531Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "df3482cf-8662-4be0-a6a6-0fed399eba52",
+    "type": "URL",
+    "indicator": "https://migrosreward.759569.com/",
+    "created_at": "2025-10-10T14:22:12.531Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "341ea391-551b-47ca-a30c-0231899a58ca",
+    "type": "URL",
+    "indicator": "http://migros-punkte.click/",
+    "created_at": "2025-10-10T14:22:12.531Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "fcb76d53-c249-4f1c-9a5a-b760919b86e6",
+    "type": "URL",
+    "indicator": "https://migrosreward.165486.com/ch",
+    "created_at": "2025-10-10T14:22:12.534Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "b3d10e80-d03f-4bf2-9a64-34bdeb7e440d",
+    "type": "URL",
+    "indicator": "http://migros-praemien.click/",
+    "created_at": "2025-10-10T14:22:12.534Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "dc7e33db-3a00-47e8-8dca-a55005ad718f",
+    "type": "URL",
+    "indicator": "http://migrosreward.808079.com/",
+    "created_at": "2025-10-10T14:22:12.537Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "89d6c6c3-d004-4fed-9f3c-48bd30dcfcd1",
+    "type": "URL",
+    "indicator": "https://migrosreward.535151.com/",
+    "created_at": "2025-10-10T14:22:12.537Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "b5b3bf13-3893-44c7-a755-19e93fd59d33",
+    "type": "URL",
+    "indicator": "http://migrosreward.344117.com/",
+    "created_at": "2025-10-10T14:22:12.537Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "600c7ead-3990-4768-86df-791706b59ff1",
+    "type": "URL",
+    "indicator": "https://migrosreward.11633.cc/link",
+    "created_at": "2025-10-10T14:22:12.537Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "65ea480e-60ba-483f-8c0d-840b3400b074",
+    "type": "URL",
+    "indicator": "http://migrovipgos.click/",
+    "created_at": "2025-10-10T14:22:12.537Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "db7ec746-32fa-446f-b1f8-7eac898b2b06",
+    "type": "URL",
+    "indicator": "https://migrosreward.11625.cc/link",
+    "created_at": "2025-10-10T14:22:12.542Z",
     "confidence": -1,
     "source": "MIGROS-CDC",
     "tags": [

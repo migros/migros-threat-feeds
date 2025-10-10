@@ -118,7 +118,7 @@
       "indicator_types": [
         "malicious-activity"
       ],
-      "pattern": "[url:value = 'https://www.migros.ch.survey.ydns.eu/']",
+      "pattern": "[url:value = 'https://www.migros.ch.survey.ydns.eu']",
       "pattern_type": "stix",
       "valid_from": "2025-07-30T14:50:15.542Z"
     },
@@ -238,7 +238,7 @@
       "indicator_types": [
         "malicious-activity"
       ],
-      "pattern": "[url:value = 'https://migrosgeschenk.top/ch']",
+      "pattern": "[url:value = 'https://migrosgeschenk.top']",
       "pattern_type": "stix",
       "valid_from": "2025-09-16T14:09:02.331Z"
     },
@@ -253,7 +253,7 @@
       "indicator_types": [
         "malicious-activity"
       ],
-      "pattern": "[url:value = 'https://migrosangebote.top/ch/']",
+      "pattern": "[url:value = 'https://migrosangebote.top']",
       "pattern_type": "stix",
       "valid_from": "2025-09-16T14:09:03.310Z"
     },
@@ -268,9 +268,3909 @@
       "indicator_types": [
         "malicious-activity"
       ],
-      "pattern": "[url:value = 'https://www.migrospremium.top/ch']",
+      "pattern": "[url:value = 'https://www.migrospremium.top']",
       "pattern_type": "stix",
       "valid_from": "2025-09-23T14:09:13.962Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--9713a8e8-46a6-42ce-b991-58e35668167d",
+      "created": "2025-10-10T14:14:48.400Z",
+      "modified": "2025-10-10T14:14:48.400Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = '1.isownisoupahgu.xyz']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:14:48.400Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--1ba83d90-b93d-4d02-a676-355faef1efee",
+      "created": "2025-10-10T14:14:48.406Z",
+      "modified": "2025-10-10T14:14:48.406Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'amexorg.click']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:14:48.406Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--d9726b61-feb1-4adc-8783-a44ab78b393f",
+      "created": "2025-10-10T14:14:48.585Z",
+      "modified": "2025-10-10T14:14:48.585Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'amexteams.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:14:48.585Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--fb3288cc-6ce2-4962-a807-2a0ae7c43979",
+      "created": "2025-10-10T14:14:48.630Z",
+      "modified": "2025-10-10T14:14:48.630Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'amexteame.click']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:14:48.630Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--4c8e3a0c-70aa-42b5-b908-aafd09152d85",
+      "created": "2025-10-10T14:14:48.635Z",
+      "modified": "2025-10-10T14:14:48.635Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'amexvipgc.click']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:14:48.635Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--c5d96ab8-584e-4ad7-8cca-7a6d6f4535e4",
+      "created": "2025-10-10T14:14:48.641Z",
+      "modified": "2025-10-10T14:14:48.641Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'amexteams.click']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:14:48.641Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--94905649-e57d-49be-9711-a3775e15cbff",
+      "created": "2025-10-10T14:14:48.641Z",
+      "modified": "2025-10-10T14:14:48.641Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'amexvip.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:14:48.641Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--0bfeb298-6296-4314-9829-968bc8da1f73",
+      "created": "2025-10-10T14:14:48.641Z",
+      "modified": "2025-10-10T14:14:48.641Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'amexvip.cfd']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:14:48.641Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--c62ef02b-100d-4f30-81dc-944cc8059edd",
+      "created": "2025-10-10T14:14:48.641Z",
+      "modified": "2025-10-10T14:14:48.641Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'amexteam.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:14:48.641Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--b2a6c65e-e891-4696-b476-7fe002792337",
+      "created": "2025-10-10T14:14:48.649Z",
+      "modified": "2025-10-10T14:14:48.649Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'amexteamgo.click']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:14:48.649Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--fd91a5b2-cb8e-4c64-ad28-81ded0f05a3f",
+      "created": "2025-10-10T14:14:48.650Z",
+      "modified": "2025-10-10T14:14:48.650Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'amexvipgr.click']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:14:48.650Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--3fd8786a-811c-4d06-8182-1abd984d09ed",
+      "created": "2025-10-10T14:14:48.650Z",
+      "modified": "2025-10-10T14:14:48.650Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'amexvipgo.click']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:14:48.650Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--a55079c7-af55-4166-b199-bb455d0e45c2",
+      "created": "2025-10-10T14:14:48.673Z",
+      "modified": "2025-10-10T14:14:48.673Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'amexvipgs.click']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:14:48.673Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--209de454-b8ea-4fd4-99f3-e7a55aba7004",
+      "created": "2025-10-10T14:14:48.673Z",
+      "modified": "2025-10-10T14:14:48.673Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'coopteam.click']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:14:48.673Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--572a53d4-b7d8-4ef9-9045-2f4a855fa6eb",
+      "created": "2025-10-10T14:14:48.673Z",
+      "modified": "2025-10-10T14:14:48.673Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migros-cumulusbonus.click']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:14:48.673Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--76bf6aaf-ab4c-447b-a368-0931415b7ad1",
+      "created": "2025-10-10T14:14:48.721Z",
+      "modified": "2025-10-10T14:14:48.721Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'coopvips.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:14:48.721Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--de0c4a01-f2b2-4715-938b-4a41066a19fd",
+      "created": "2025-10-10T14:14:48.721Z",
+      "modified": "2025-10-10T14:14:48.721Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'correosvip.click']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:14:48.721Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--1bad2de3-0227-4625-900c-f0b6081282a1",
+      "created": "2025-10-10T14:14:48.830Z",
+      "modified": "2025-10-10T14:14:48.830Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'coopvip.click']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:14:48.830Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--12e5576f-60d0-42f1-bbb5-1c72b4da2c52",
+      "created": "2025-10-10T14:14:48.830Z",
+      "modified": "2025-10-10T14:14:48.830Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migros-praemien.click']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:14:48.830Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--d01b0d33-6b60-4ecc-897b-b0f30c3c20de",
+      "created": "2025-10-10T14:14:48.830Z",
+      "modified": "2025-10-10T14:14:48.830Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'correosvips.click']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:14:48.830Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--464daa40-061d-4b37-aec5-e71740686c2c",
+      "created": "2025-10-10T14:14:48.830Z",
+      "modified": "2025-10-10T14:14:48.830Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migros365club.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:14:48.830Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--bb607649-461f-4df9-b21f-4a49b7f8cc42",
+      "created": "2025-10-10T14:14:48.830Z",
+      "modified": "2025-10-10T14:14:48.830Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'dpdans.click']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:14:48.830Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--7de3c10c-9940-4883-980b-6465be88f8bd",
+      "created": "2025-10-10T14:14:48.830Z",
+      "modified": "2025-10-10T14:14:48.830Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'amexvipin.click']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:14:48.830Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--57022326-3e19-41f4-a6d6-740efce4045e",
+      "created": "2025-10-10T14:14:48.830Z",
+      "modified": "2025-10-10T14:14:48.830Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'amexvips.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:14:48.830Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--393bfd06-fa9e-481b-80e5-81fc016ab510",
+      "created": "2025-10-10T14:14:48.830Z",
+      "modified": "2025-10-10T14:14:48.830Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'amexvipge.click']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:14:48.830Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--404c349a-2e3e-4f29-81ed-4e34b2c95902",
+      "created": "2025-10-10T14:14:48.831Z",
+      "modified": "2025-10-10T14:14:48.831Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'finanzbruecke.finance']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:14:48.831Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--a6bc8052-2b77-4827-a0ce-5feb3a79bdb4",
+      "created": "2025-10-10T14:14:48.831Z",
+      "modified": "2025-10-10T14:14:48.831Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'dpdorgs.click']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:14:48.831Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--063751ac-9780-42ea-b7bc-4d2cc58c1758",
+      "created": "2025-10-10T14:14:48.831Z",
+      "modified": "2025-10-10T14:14:48.831Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'kgmvip.click']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:14:48.831Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--9b9cc3a8-6f18-4465-94ba-a412e48cd992",
+      "created": "2025-10-10T14:14:48.831Z",
+      "modified": "2025-10-10T14:14:48.831Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migros365reward.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:14:48.831Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--a8d8be98-debc-4576-93fe-f3c033a6007b",
+      "created": "2025-10-10T14:14:48.831Z",
+      "modified": "2025-10-10T14:14:48.831Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'amexvipgu.click']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:14:48.831Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--d1b39650-eb6f-40e7-81a5-afe41d06e6b2",
+      "created": "2025-10-10T14:14:48.831Z",
+      "modified": "2025-10-10T14:14:48.831Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'coopteam.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:14:48.831Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--7a5b22a7-79c0-4aa5-8493-d2c0ce11e259",
+      "created": "2025-10-10T14:14:48.831Z",
+      "modified": "2025-10-10T14:14:48.831Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'coopvip.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:14:48.831Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--ba8b96a0-21f4-4303-9141-4e15ceecf13b",
+      "created": "2025-10-10T14:14:48.861Z",
+      "modified": "2025-10-10T14:14:48.861Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosbelohnung365.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:14:48.861Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--3094231b-9692-4cbd-8010-d79362f71a9f",
+      "created": "2025-10-10T14:14:48.862Z",
+      "modified": "2025-10-10T14:14:48.862Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosbelohnugen.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:14:48.862Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--85d4813a-cf87-4173-9de4-5eaed0803b3f",
+      "created": "2025-10-10T14:14:48.868Z",
+      "modified": "2025-10-10T14:14:48.868Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migros2025spunkte.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:14:48.868Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--bb6824a8-c9a7-4508-b5ad-a5d4bf4c812c",
+      "created": "2025-10-10T14:14:48.868Z",
+      "modified": "2025-10-10T14:14:48.868Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosbonuspunkte.site']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:14:48.868Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--1ac5c8e9-335b-45a5-89ed-ffd921d95018",
+      "created": "2025-10-10T14:14:48.868Z",
+      "modified": "2025-10-10T14:14:48.868Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migros365spunkte.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:14:48.868Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--f21eaf95-85b8-43aa-837b-637e594de996",
+      "created": "2025-10-10T14:14:48.868Z",
+      "modified": "2025-10-10T14:14:48.868Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migros365rabattpunkte.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:14:48.868Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--8e8caede-f810-49b6-8ff8-77100359a734",
+      "created": "2025-10-10T14:14:48.868Z",
+      "modified": "2025-10-10T14:14:48.868Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migros-gutschein.click']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:14:48.868Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--71afe7c4-3062-414f-996a-501f37ead6cd",
+      "created": "2025-10-10T14:14:48.868Z",
+      "modified": "2025-10-10T14:14:48.868Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosbelohnung.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:14:48.868Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--d814e645-3b21-436d-9727-21fc18d57158",
+      "created": "2025-10-10T14:14:48.879Z",
+      "modified": "2025-10-10T14:14:48.879Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migros-einloesen.click']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:14:48.879Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--29a8c03a-15f9-4369-b038-424df65f31ec",
+      "created": "2025-10-10T14:14:48.880Z",
+      "modified": "2025-10-10T14:14:48.880Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosbelohnug.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:14:48.880Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--aa44c4e1-1324-429b-9dff-35ddf5d16c46",
+      "created": "2025-10-10T14:14:48.880Z",
+      "modified": "2025-10-10T14:14:48.880Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migros365points.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:14:48.880Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--6700014a-99e0-45a3-87e9-4c7357836a24",
+      "created": "2025-10-10T14:14:48.891Z",
+      "modified": "2025-10-10T14:14:48.891Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migros-punkte.click']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:14:48.891Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--259fe977-e7c0-48b4-8ab8-6b6eea400b3a",
+      "created": "2025-10-10T14:14:48.891Z",
+      "modified": "2025-10-10T14:14:48.891Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosangebote.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:14:48.891Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--0598f3fd-1ae4-4922-9d52-64ace231a62d",
+      "created": "2025-10-10T14:14:48.902Z",
+      "modified": "2025-10-10T14:14:48.902Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosboni.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:14:48.902Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--461d1e13-02e1-4842-8456-eee072257fc2",
+      "created": "2025-10-10T14:14:48.906Z",
+      "modified": "2025-10-10T14:14:48.906Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migros365rewards.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:14:48.906Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--b9126d1e-76b8-4641-aa28-b4c1307d341d",
+      "created": "2025-10-10T14:14:48.920Z",
+      "modified": "2025-10-10T14:14:48.920Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosammelpunkte.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:14:48.920Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--9a8f1f83-11b4-4bbe-bb3b-4fd5e277dc13",
+      "created": "2025-10-10T14:14:48.923Z",
+      "modified": "2025-10-10T14:14:48.923Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migros365pointscheck.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:14:48.923Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--e7f512a2-1c0f-4188-8244-2741f7578383",
+      "created": "2025-10-10T14:14:48.924Z",
+      "modified": "2025-10-10T14:14:48.924Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosbonuspunkte.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:14:48.924Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--101c7e55-7aa2-4c52-8b5d-01acbcbe97bb",
+      "created": "2025-10-10T14:16:04.398Z",
+      "modified": "2025-10-10T14:16:04.398Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosclaim.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:16:04.398Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--804f1177-b646-415d-ab7d-e820732a58f1",
+      "created": "2025-10-10T14:16:04.411Z",
+      "modified": "2025-10-10T14:16:04.411Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosclub.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:16:04.411Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--e49c7ce4-4dbf-4684-8573-a4213b4c98bf",
+      "created": "2025-10-10T14:16:04.412Z",
+      "modified": "2025-10-10T14:16:04.412Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrospraemien24.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:16:04.412Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--464dbd0b-6385-4618-8463-b514e4d88138",
+      "created": "2025-10-10T14:16:04.412Z",
+      "modified": "2025-10-10T14:16:04.412Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosgift.click']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:16:04.412Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--cb416ccb-e032-4426-9653-8bc6ccafc4fb",
+      "created": "2025-10-10T14:16:04.412Z",
+      "modified": "2025-10-10T14:16:04.412Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosmy.click']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:16:04.412Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--883f1c26-2f8b-48de-b853-cbd63ee694a7",
+      "created": "2025-10-10T14:16:04.412Z",
+      "modified": "2025-10-10T14:16:04.412Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosexchange.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:16:04.412Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--9ec56b2e-9d40-42c4-8c66-73ccab4a4296",
+      "created": "2025-10-10T14:16:04.412Z",
+      "modified": "2025-10-10T14:16:04.412Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migroseinloesen.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:16:04.412Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--fa83d9ef-c66a-4b9a-98d1-2f72f5e81092",
+      "created": "2025-10-10T14:16:04.412Z",
+      "modified": "2025-10-10T14:16:04.412Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosclubs2025.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:16:04.412Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--0c91c3f8-bd5b-47ad-a4f8-0c43546ef6de",
+      "created": "2025-10-10T14:16:04.412Z",
+      "modified": "2025-10-10T14:16:04.412Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migroscard.click']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:16:04.412Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--d04b5efd-5eab-4483-94b6-e11b8d52491c",
+      "created": "2025-10-10T14:16:04.412Z",
+      "modified": "2025-10-10T14:16:04.412Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosdeals365.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:16:04.412Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--de3fb0c5-bdde-47ba-b7aa-5ffe4dc75bdc",
+      "created": "2025-10-10T14:16:04.412Z",
+      "modified": "2025-10-10T14:16:04.412Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosdeal.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:16:04.412Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--cad81cf0-07b8-4c21-afb5-9c2706cf8d4c",
+      "created": "2025-10-10T14:16:04.412Z",
+      "modified": "2025-10-10T14:16:04.412Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migroscredit.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:16:04.412Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--6b90d027-d9c1-468b-9ae8-75ac1200f3bf",
+      "created": "2025-10-10T14:16:04.423Z",
+      "modified": "2025-10-10T14:16:04.423Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosmitglied.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:16:04.423Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--315591d3-fbf8-4eb8-9ab7-836e4d679bbd",
+      "created": "2025-10-10T14:16:04.423Z",
+      "modified": "2025-10-10T14:16:04.423Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrospoints.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:16:04.423Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--7c971232-002d-4103-8b7c-66dcddbe0684",
+      "created": "2025-10-10T14:16:04.423Z",
+      "modified": "2025-10-10T14:16:04.423Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrospointscheck.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:16:04.423Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--ad037854-8eff-4650-b583-cf4ad0f29ef1",
+      "created": "2025-10-10T14:16:04.423Z",
+      "modified": "2025-10-10T14:16:04.423Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migroscmy.click']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:16:04.423Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--3ecebb23-1c13-400c-b5a7-c14d4ccae4ca",
+      "created": "2025-10-10T14:16:04.423Z",
+      "modified": "2025-10-10T14:16:04.423Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosplus365.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:16:04.423Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--a7479e1d-d921-4ff0-af22-800debc6f9fc",
+      "created": "2025-10-10T14:16:04.424Z",
+      "modified": "2025-10-10T14:16:04.424Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migroscredits.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:16:04.424Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--7482d48d-cdb6-4a0b-abe8-7df492ef7684",
+      "created": "2025-10-10T14:16:04.424Z",
+      "modified": "2025-10-10T14:16:04.424Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosmehrfachpunkte.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:16:04.424Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--6a09a558-320b-4c44-b443-00a632bef997",
+      "created": "2025-10-10T14:16:04.424Z",
+      "modified": "2025-10-10T14:16:04.424Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migroseinloesen365.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:16:04.424Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--a9b109c5-dcdb-4ca9-a99e-d066690327dd",
+      "created": "2025-10-10T14:16:04.424Z",
+      "modified": "2025-10-10T14:16:04.424Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosbonuspunkte365.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:16:04.424Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--1864205b-67d8-409b-96c0-4b5e4db3f5f6",
+      "created": "2025-10-10T14:16:04.424Z",
+      "modified": "2025-10-10T14:16:04.424Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosgeschenk.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:16:04.424Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--50923c28-505b-4aa4-ac89-aa0f3bd5f7bb",
+      "created": "2025-10-10T14:16:04.424Z",
+      "modified": "2025-10-10T14:16:04.424Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosdeals.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:16:04.424Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--527a36a0-2d3c-4f9f-a1a3-7ff63e3ebb30",
+      "created": "2025-10-10T14:16:04.424Z",
+      "modified": "2025-10-10T14:16:04.424Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosextrapunkte.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:16:04.424Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--2eb0f58d-8971-43b5-a544-d98fc7312647",
+      "created": "2025-10-10T14:16:04.432Z",
+      "modified": "2025-10-10T14:16:04.432Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosclub365.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:16:04.432Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--9c41a724-0946-46db-9153-9474d89ebf68",
+      "created": "2025-10-10T14:16:04.433Z",
+      "modified": "2025-10-10T14:16:04.433Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosreward-989996.cc']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:16:04.433Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--3c4c195d-f982-42e7-8f25-af1ecc4b37d1",
+      "created": "2025-10-10T14:16:04.433Z",
+      "modified": "2025-10-10T14:16:04.433Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrospointscheck365.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:16:04.433Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--acc66ee0-7597-4bc4-ab80-16a24905aff7",
+      "created": "2025-10-10T14:16:04.433Z",
+      "modified": "2025-10-10T14:16:04.433Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrospunkte.click']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:16:04.433Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--066533f0-c500-4b62-b726-2f705f6084d9",
+      "created": "2025-10-10T14:16:04.433Z",
+      "modified": "2025-10-10T14:16:04.433Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrospunkteverfallen.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:16:04.433Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--bd7c027d-de04-4770-9576-efd29bf0f4dd",
+      "created": "2025-10-10T14:16:04.433Z",
+      "modified": "2025-10-10T14:16:04.433Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosplus.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:16:04.433Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--3d29c408-598d-45db-bf13-e6a3e6728aa4",
+      "created": "2025-10-10T14:16:04.433Z",
+      "modified": "2025-10-10T14:16:04.433Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrospraemien.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:16:04.433Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--fdd5d9c3-d12e-414d-9a7f-285ab471c5ab",
+      "created": "2025-10-10T14:16:04.433Z",
+      "modified": "2025-10-10T14:16:04.433Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosdeal365.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:16:04.433Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--ed351e79-7762-4c29-afe5-d30f14230d00",
+      "created": "2025-10-10T14:16:04.433Z",
+      "modified": "2025-10-10T14:16:04.433Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrospunkte.online']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:16:04.433Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--c9bc1aec-f5e3-458b-a379-723c3a7e2209",
+      "created": "2025-10-10T14:16:04.433Z",
+      "modified": "2025-10-10T14:16:04.433Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migroscoupons.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:16:04.433Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--374cffd5-2dd8-413a-a26e-95215578f862",
+      "created": "2025-10-10T14:16:04.433Z",
+      "modified": "2025-10-10T14:16:04.433Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosclubs.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:16:04.433Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--e464f492-61d0-47cd-9ebd-3e073af9e15b",
+      "created": "2025-10-10T14:16:04.433Z",
+      "modified": "2025-10-10T14:16:04.433Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migroscumulus.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:16:04.433Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--35dd79a5-5865-48df-bd4f-4a618bb193e2",
+      "created": "2025-10-10T14:16:04.433Z",
+      "modified": "2025-10-10T14:16:04.433Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrospremium.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:16:04.433Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--78bce2dc-959f-48f7-927d-5a7873383c36",
+      "created": "2025-10-10T14:16:04.434Z",
+      "modified": "2025-10-10T14:16:04.434Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrospraemien365.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:16:04.434Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--59e67a59-b62d-44e4-91d8-8e7def606c40",
+      "created": "2025-10-10T14:16:04.434Z",
+      "modified": "2025-10-10T14:16:04.434Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrospreis.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:16:04.434Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--ebe561e6-263d-4ece-acc7-c3ff9eb0b908",
+      "created": "2025-10-10T14:16:04.434Z",
+      "modified": "2025-10-10T14:16:04.434Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosrabattpunkte24.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:16:04.434Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--e7c596a0-2773-4dd6-82c8-8bf6df3865a0",
+      "created": "2025-10-10T14:16:04.434Z",
+      "modified": "2025-10-10T14:16:04.434Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosredeem.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:16:04.434Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--15e4d871-f12a-428e-a3b3-aae1979ba542",
+      "created": "2025-10-10T14:16:04.446Z",
+      "modified": "2025-10-10T14:16:04.446Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosjokerpunkte.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:16:04.446Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--0b8d2f5d-067c-4240-8df8-c2fd100966cf",
+      "created": "2025-10-10T14:16:04.446Z",
+      "modified": "2025-10-10T14:16:04.446Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosreward-98996.cc']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:16:04.446Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--6b32d746-6eec-4bed-a19c-9adba4472b40",
+      "created": "2025-10-10T14:16:04.446Z",
+      "modified": "2025-10-10T14:16:04.446Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrospunkte.club']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:16:04.446Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--7c53a202-9f91-4675-8be6-21f9788dfaef",
+      "created": "2025-10-10T14:16:04.446Z",
+      "modified": "2025-10-10T14:16:04.446Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrospunkte.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:16:04.446Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--188b2ae3-de4d-41e1-a515-4198e2de9102",
+      "created": "2025-10-10T14:16:04.446Z",
+      "modified": "2025-10-10T14:16:04.446Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosreward-98995.cc']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:16:04.446Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--49720b0f-04fb-4c16-b856-a73a9c168d7b",
+      "created": "2025-10-10T14:16:04.446Z",
+      "modified": "2025-10-10T14:16:04.446Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosccard.click']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:16:04.446Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--e3b7439d-cfb8-4778-86ff-aa70a642df03",
+      "created": "2025-10-10T14:16:04.446Z",
+      "modified": "2025-10-10T14:16:04.446Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosconvert.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:16:04.446Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--2fa25561-1e41-461f-9bf5-d24c6ed89eb0",
+      "created": "2025-10-10T14:16:04.468Z",
+      "modified": "2025-10-10T14:16:04.468Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrospunkte24.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:16:04.468Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--ce8983ea-7759-4a8c-8a98-5fa27f416e34",
+      "created": "2025-10-10T14:16:04.468Z",
+      "modified": "2025-10-10T14:16:04.468Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosreward-s12805.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:16:04.468Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--3fca354b-0082-4593-b957-bc0fa9e568f5",
+      "created": "2025-10-10T14:17:28.870Z",
+      "modified": "2025-10-10T14:17:28.870Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrossofortpunkte.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:17:28.870Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--849e1df1-9ed2-4b7d-9c75-1bf31cd47daf",
+      "created": "2025-10-10T14:17:28.870Z",
+      "modified": "2025-10-10T14:17:28.870Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosreward.535151.com']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:17:28.870Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--ad772128-8962-469b-b4af-6ac5851729c2",
+      "created": "2025-10-10T14:17:28.870Z",
+      "modified": "2025-10-10T14:17:28.870Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosreward.353589.com']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:17:28.870Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--8bcd47f2-cf7a-46f9-9b8a-3ebfd5d28bc9",
+      "created": "2025-10-10T14:17:28.870Z",
+      "modified": "2025-10-10T14:17:28.870Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosrewardsprogram.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:17:28.870Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--141912af-ac38-4c53-9be8-58717a5a123e",
+      "created": "2025-10-10T14:17:28.874Z",
+      "modified": "2025-10-10T14:17:28.874Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrostreuepunkte.online']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:17:28.874Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--321ecfd8-b813-4503-95b3-8951bd5fce40",
+      "created": "2025-10-10T14:17:28.882Z",
+      "modified": "2025-10-10T14:17:28.882Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosreward.141888.cc']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:17:28.882Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--1d7b5112-a194-4f7e-98b7-d8202f762f90",
+      "created": "2025-10-10T14:17:28.885Z",
+      "modified": "2025-10-10T14:17:28.885Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosumtausch24.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:17:28.885Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--1f59cde5-29f6-4553-8a8a-10b28a6168bd",
+      "created": "2025-10-10T14:17:28.885Z",
+      "modified": "2025-10-10T14:17:28.885Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosreward.997966.cc']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:17:28.885Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--b71ebe25-2f76-4402-8f7c-dfbfaa8c6c6d",
+      "created": "2025-10-10T14:17:28.893Z",
+      "modified": "2025-10-10T14:17:28.893Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosteam.click']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:17:28.893Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--aae34cbc-16f2-45db-851e-5fc1bd2f873e",
+      "created": "2025-10-10T14:17:28.893Z",
+      "modified": "2025-10-10T14:17:28.893Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrostreuepunkte.club']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:17:28.893Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--a0b600c1-23a8-4a55-861c-a439c5dbebfd",
+      "created": "2025-10-10T14:17:28.901Z",
+      "modified": "2025-10-10T14:17:28.901Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosreward.939568.com']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:17:28.901Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--8bccc3f2-aba1-4004-8ce4-fc20fb92f247",
+      "created": "2025-10-10T14:17:28.901Z",
+      "modified": "2025-10-10T14:17:28.901Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosreward.922364.cc']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:17:28.901Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--e3d53e19-0945-4734-80b4-e7df1db5d270",
+      "created": "2025-10-10T14:17:28.908Z",
+      "modified": "2025-10-10T14:17:28.908Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosumtausch365.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:17:28.908Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--6641aa9f-9ab9-4f39-918b-95a3d03b55d8",
+      "created": "2025-10-10T14:17:28.908Z",
+      "modified": "2025-10-10T14:17:28.908Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosreward.797986.com']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:17:28.908Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--4579ac09-7e10-4380-9cba-a901cbc24207",
+      "created": "2025-10-10T14:17:28.912Z",
+      "modified": "2025-10-10T14:17:28.912Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrostreuepunkte.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:17:28.912Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--e71106ae-833c-4132-96ed-10ac74ca6c39",
+      "created": "2025-10-10T14:17:28.913Z",
+      "modified": "2025-10-10T14:17:28.913Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrostreueprogramm.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:17:28.913Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--7173949f-0a3c-4647-8a36-15d176781ab3",
+      "created": "2025-10-10T14:17:28.913Z",
+      "modified": "2025-10-10T14:17:28.913Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migross.cc']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:17:28.913Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--b0538c11-265a-4b71-b0d9-5a43848053aa",
+      "created": "2025-10-10T14:17:28.917Z",
+      "modified": "2025-10-10T14:17:28.917Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosreward.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:17:28.917Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--1c2b5ebc-0a39-4dc3-a68f-699cacb4c6fc",
+      "created": "2025-10-10T14:17:28.917Z",
+      "modified": "2025-10-10T14:17:28.917Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrossammelpunkte.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:17:28.917Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--f253f0e5-a743-4671-9d72-477ea2b322a0",
+      "created": "2025-10-10T14:17:28.917Z",
+      "modified": "2025-10-10T14:17:28.917Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosreward.323737.com']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:17:28.917Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--843f2240-8ea8-44e1-9b86-f01024fb4120",
+      "created": "2025-10-10T14:17:28.923Z",
+      "modified": "2025-10-10T14:17:28.923Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosvips.click']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:17:28.923Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--0109e4ce-760a-4d4a-924d-0d959bf2d70a",
+      "created": "2025-10-10T14:17:28.923Z",
+      "modified": "2025-10-10T14:17:28.923Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosumtausch.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:17:28.923Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--54b077a6-e92f-4be4-a294-1893273c091f",
+      "created": "2025-10-10T14:17:28.923Z",
+      "modified": "2025-10-10T14:17:28.923Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosrewards.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:17:28.923Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--e869510e-3859-4eca-90d8-e5106b310794",
+      "created": "2025-10-10T14:17:28.923Z",
+      "modified": "2025-10-10T14:17:28.923Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrovip.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:17:28.923Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--9030e779-7250-41f8-aa77-b5b0ca94bf1e",
+      "created": "2025-10-10T14:17:28.923Z",
+      "modified": "2025-10-10T14:17:28.923Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosspremium.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:17:28.923Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--8a966fcf-3b99-4a58-9b23-df225f06e6fb",
+      "created": "2025-10-10T14:17:28.923Z",
+      "modified": "2025-10-10T14:17:28.923Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosvmy.click']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:17:28.923Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--4bfa4a8e-efec-4ef3-b02e-4fd0740a4a15",
+      "created": "2025-10-10T14:17:28.923Z",
+      "modified": "2025-10-10T14:17:28.923Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosreward.808079.com']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:17:28.923Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--92b5dc2f-f49e-490a-822b-86c9e76a4a27",
+      "created": "2025-10-10T14:17:28.931Z",
+      "modified": "2025-10-10T14:17:28.931Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosvip.click']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:17:28.931Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--6a01125d-e195-4fc8-9b66-ceeed7fafacd",
+      "created": "2025-10-10T14:17:28.931Z",
+      "modified": "2025-10-10T14:17:28.931Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosxcard.click']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:17:28.931Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--e04122a9-1921-4057-b28e-63466511c293",
+      "created": "2025-10-10T14:17:28.931Z",
+      "modified": "2025-10-10T14:17:28.931Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosxvip.click']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:17:28.931Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--c8c6e002-04ca-4a58-ade8-abf2cfe5c4b7",
+      "created": "2025-10-10T14:17:28.931Z",
+      "modified": "2025-10-10T14:17:28.931Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosxmy.click']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:17:28.931Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--b42261ef-b2a5-4d61-9092-2e243fb9097b",
+      "created": "2025-10-10T14:17:28.931Z",
+      "modified": "2025-10-10T14:17:28.931Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migroteams.click']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:17:28.931Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--2b02aa17-346f-46e2-98df-c66850a6508d",
+      "created": "2025-10-10T14:17:28.937Z",
+      "modified": "2025-10-10T14:17:28.937Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrovipgos.click']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:17:28.937Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--c37ed17b-1691-4788-b556-8d7a7591c4c4",
+      "created": "2025-10-10T14:17:28.944Z",
+      "modified": "2025-10-10T14:17:28.944Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migroszusatzpunkte.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:17:28.944Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--5359ced8-052b-46f3-b3de-c070a5ad9c63",
+      "created": "2025-10-10T14:17:28.944Z",
+      "modified": "2025-10-10T14:17:28.944Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'mligros.cc']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:17:28.944Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--10032081-5502-479a-acac-4b8c5098088d",
+      "created": "2025-10-10T14:17:28.944Z",
+      "modified": "2025-10-10T14:17:28.944Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrros.cc']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:17:28.944Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--c4eb5e8b-1a87-488b-8579-8f52cf7cf06c",
+      "created": "2025-10-10T14:17:28.949Z",
+      "modified": "2025-10-10T14:17:28.949Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'mligrros.cc']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:17:28.949Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--b92cbea7-48ca-4b90-9db8-e255d656aa67",
+      "created": "2025-10-10T14:17:28.951Z",
+      "modified": "2025-10-10T14:17:28.951Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrovips.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:17:28.951Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--2f2e53b7-27f5-4962-b2c5-8e89cca7874e",
+      "created": "2025-10-10T14:17:28.951Z",
+      "modified": "2025-10-10T14:17:28.951Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'www.kgmvip.click']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:17:28.951Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--1ff9470c-da63-4d86-8d75-86d0263f787d",
+      "created": "2025-10-10T14:17:28.951Z",
+      "modified": "2025-10-10T14:17:28.951Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'www.finanzbruecke.finance']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:17:28.951Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--36e3dcbf-850e-4bda-998a-0d6852eb9664",
+      "created": "2025-10-10T14:17:28.959Z",
+      "modified": "2025-10-10T14:17:28.959Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'www.migrosspremium.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:17:28.959Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--ad55ec13-9a44-47e6-9ce5-9260c7e633a1",
+      "created": "2025-10-10T14:17:28.959Z",
+      "modified": "2025-10-10T14:17:28.959Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'www.migroscard.click']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:17:28.959Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--ad942590-4e6e-47f3-8b61-90e423740b42",
+      "created": "2025-10-10T14:17:28.961Z",
+      "modified": "2025-10-10T14:17:28.961Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'www.migrosxmy.click']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:17:28.961Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--6840f7a5-6fe0-4792-bef4-27d8d19eb32e",
+      "created": "2025-10-10T14:17:28.962Z",
+      "modified": "2025-10-10T14:17:28.962Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'www.amexvip.top']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:17:28.962Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--d9827475-6419-4c05-a37c-171fe967271e",
+      "created": "2025-10-10T14:17:28.964Z",
+      "modified": "2025-10-10T14:17:28.964Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrovipgo.click']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:17:28.964Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--024a3e20-4b00-44ae-a2b5-5d7d8e5e271c",
+      "created": "2025-10-10T14:17:28.964Z",
+      "modified": "2025-10-10T14:17:28.964Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'www.migrosmy.click']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:17:28.964Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--8d676e16-e143-4597-8617-1028a4b1a7ff",
+      "created": "2025-10-10T14:17:28.970Z",
+      "modified": "2025-10-10T14:17:28.970Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migroxvip.click']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:17:28.970Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--a546a901-f985-499a-8e83-ace08c27d970",
+      "created": "2025-10-10T14:17:28.970Z",
+      "modified": "2025-10-10T14:17:28.970Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'www.migrosteam.click']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:17:28.970Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--98c1c03a-cbcf-40ab-b3f8-8fd8d529118a",
+      "created": "2025-10-10T14:17:28.985Z",
+      "modified": "2025-10-10T14:17:28.985Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'www.migrosvip.click']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:17:28.985Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--f96cd6f1-788b-4e05-a492-a782c661142e",
+      "created": "2025-10-10T14:17:28.988Z",
+      "modified": "2025-10-10T14:17:28.988Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'www.migroteams.click']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:17:28.988Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--1f7f5de2-1b03-4071-8dc8-3c8c40d76b83",
+      "created": "2025-10-10T14:18:30.146Z",
+      "modified": "2025-10-10T14:18:30.146Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migro-bike.com']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:18:30.146Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--1d5b18cc-3394-42e7-92d5-02332aaeac8c",
+      "created": "2025-10-10T14:18:30.162Z",
+      "modified": "2025-10-10T14:18:30.162Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosreward.11633.cc']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:18:30.162Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--48ca84b6-6752-4dcc-976d-f0663244e33b",
+      "created": "2025-10-10T14:18:30.164Z",
+      "modified": "2025-10-10T14:18:30.164Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migro.ag']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:18:30.164Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--984bff92-423f-48c4-ad44-2a6c480b5b6e",
+      "created": "2025-10-10T14:18:30.164Z",
+      "modified": "2025-10-10T14:18:30.164Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosreward.11625.cc']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:18:30.164Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--841e6dbf-40dc-46f6-8434-a4f0deb9055c",
+      "created": "2025-10-10T14:18:30.164Z",
+      "modified": "2025-10-10T14:18:30.164Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migroa.us']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:18:30.164Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--b2b2f42b-379a-4c9a-a799-91142ee1cbb3",
+      "created": "2025-10-10T14:18:30.166Z",
+      "modified": "2025-10-10T14:18:30.166Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosreward.11698.cc']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:18:30.166Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--cf8cdf3b-cf3c-471e-82a1-e0ff54136ddd",
+      "created": "2025-10-10T14:18:30.173Z",
+      "modified": "2025-10-10T14:18:30.173Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosreward.344117.com']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:18:30.173Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--a1da528e-c4b4-4b94-ad79-53c9d6831ba9",
+      "created": "2025-10-10T14:18:30.174Z",
+      "modified": "2025-10-10T14:18:30.174Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosreward.165486.com']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:18:30.174Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--72245f26-d136-42a8-9fe9-02e06e8995f3",
+      "created": "2025-10-10T14:18:30.182Z",
+      "modified": "2025-10-10T14:18:30.182Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosreward.808979.com']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:18:30.182Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--007f0437-f8cc-414d-9453-d3a56b96c4d5",
+      "created": "2025-10-10T14:18:30.182Z",
+      "modified": "2025-10-10T14:18:30.182Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosreward.477231.com']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:18:30.182Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--48b13029-22ae-4f92-af27-16ba6367a6d7",
+      "created": "2025-10-10T14:18:30.184Z",
+      "modified": "2025-10-10T14:18:30.184Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosreward.759569.com']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:18:30.184Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--35bb0a38-93f8-4be4-9076-66810e37e66c",
+      "created": "2025-10-10T14:18:30.185Z",
+      "modified": "2025-10-10T14:18:30.185Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosteams.click']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:18:30.185Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--0fd8cde1-ccba-4c06-a870-e684f9bb3e28",
+      "created": "2025-10-10T14:21:07.548Z",
+      "modified": "2025-10-10T14:21:07.548Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'http://migrosteam.click/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:21:07.548Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--ed6bfd1d-662f-4316-9ebb-e39f53d388d7",
+      "created": "2025-10-10T14:21:07.551Z",
+      "modified": "2025-10-10T14:21:07.551Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'http://migrosxcard.click/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:21:07.551Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--a0bf54bd-1650-4e12-9f32-884ee4fdcc7f",
+      "created": "2025-10-10T14:21:07.551Z",
+      "modified": "2025-10-10T14:21:07.551Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'http://migrosxmy.click/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:21:07.551Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--31768d5c-5b12-4205-bf00-ecc7957e3a7c",
+      "created": "2025-10-10T14:21:07.552Z",
+      "modified": "2025-10-10T14:21:07.552Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://migrosreward.77588.cc/link/c_pay.html']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:21:07.552Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--568f2332-cf5a-46e9-920a-2bd8a5e98728",
+      "created": "2025-10-10T14:21:07.552Z",
+      "modified": "2025-10-10T14:21:07.552Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://migrosreward.922364.cc/link']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:21:07.552Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--16d3f260-20a5-469b-960e-d9cdcba7f09b",
+      "created": "2025-10-10T14:21:07.634Z",
+      "modified": "2025-10-10T14:21:07.634Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://migrospunkte.top/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:21:07.634Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--8d3f460a-1079-4d81-a703-196b95331a06",
+      "created": "2025-10-10T14:21:07.638Z",
+      "modified": "2025-10-10T14:21:07.638Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://migropunktepraemien.top/ch/c_pay.html']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:21:07.638Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--bf2a57f7-98b8-497c-a7dd-3a991f97247a",
+      "created": "2025-10-10T14:21:07.641Z",
+      "modified": "2025-10-10T14:21:07.641Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://migrospreis.top/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:21:07.641Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--0ed7836e-d0fd-4e9a-b938-7dbec1583aad",
+      "created": "2025-10-10T14:21:07.643Z",
+      "modified": "2025-10-10T14:21:07.643Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://migrros.cc/ch/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:21:07.643Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--ecee7817-a2ef-4852-af97-8dacd9671b2d",
+      "created": "2025-10-10T14:21:07.644Z",
+      "modified": "2025-10-10T14:21:07.644Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'http://migrovips.top/ch']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:21:07.644Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--c5b4c61f-c294-4130-a59c-2bea33eee77c",
+      "created": "2025-10-10T14:21:07.644Z",
+      "modified": "2025-10-10T14:21:07.644Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://migros365club.top/ch/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:21:07.644Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--b2177ae4-aed9-4172-8284-967e7adaa9bb",
+      "created": "2025-10-10T14:21:07.646Z",
+      "modified": "2025-10-10T14:21:07.646Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'http://migrob.com/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:21:07.646Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--663ef90e-5c73-47a3-8a91-13040f8bb019",
+      "created": "2025-10-10T14:21:07.647Z",
+      "modified": "2025-10-10T14:21:07.647Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'http://migrosvips.click/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:21:07.647Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--1dc058ee-b4a8-426b-b95d-0a00060fd683",
+      "created": "2025-10-10T14:21:07.649Z",
+      "modified": "2025-10-10T14:21:07.649Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'http://migrosgift.click/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:21:07.649Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--45098de8-d386-497d-b363-33d4ad34dd77",
+      "created": "2025-10-10T14:21:07.649Z",
+      "modified": "2025-10-10T14:21:07.649Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://migrospunkte.top/ch/c_pay.html']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:21:07.649Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--1f6350a8-e980-4dcb-af45-2b55db983c98",
+      "created": "2025-10-10T14:21:07.653Z",
+      "modified": "2025-10-10T14:21:07.653Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'http://migroscard.click/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:21:07.653Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--1be18f00-78d5-4d58-99fc-461f788b15b4",
+      "created": "2025-10-10T14:21:07.698Z",
+      "modified": "2025-10-10T14:21:07.698Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'http://migroscmy.click/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:21:07.698Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--151f8b9a-25e5-4876-86cf-ef9808aa7800",
+      "created": "2025-10-10T14:21:07.716Z",
+      "modified": "2025-10-10T14:21:07.716Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://migros2025spunkte.top/ch']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:21:07.716Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--7f7dc69d-7823-4e04-840e-dd79df88fd87",
+      "created": "2025-10-10T14:21:07.719Z",
+      "modified": "2025-10-10T14:21:07.719Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://migrospunkte.club/ch/c_pay.html']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:21:07.719Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--ae58c667-dcc5-4280-88bb-1ee2bbeb0b29",
+      "created": "2025-10-10T14:21:07.733Z",
+      "modified": "2025-10-10T14:21:07.733Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://migrosclubs2025.top/ch']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:21:07.733Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--27b404e7-2150-4910-a2e9-24ed76bc3a6f",
+      "created": "2025-10-10T14:21:07.738Z",
+      "modified": "2025-10-10T14:21:07.738Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'http://migroag.ca/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:21:07.738Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--383cda9b-a16e-4b73-acb3-d7af057dcd19",
+      "created": "2025-10-10T14:21:07.738Z",
+      "modified": "2025-10-10T14:21:07.738Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'http://migrosdeal.top/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:21:07.738Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--5d4639e9-2f07-4fd5-9b17-e98ca73120cf",
+      "created": "2025-10-10T14:21:07.747Z",
+      "modified": "2025-10-10T14:21:07.747Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'http://migrosccard.click/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:21:07.747Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--24fb6c0e-8e29-461d-92c5-115e31124d60",
+      "created": "2025-10-10T14:21:07.751Z",
+      "modified": "2025-10-10T14:21:07.751Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'http://migrosreward.900168.com/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:21:07.751Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--23daeaa2-f47f-4e20-a078-22a989a0d581",
+      "created": "2025-10-10T14:21:07.752Z",
+      "modified": "2025-10-10T14:21:07.752Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://migrosteam.click/ch']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:21:07.752Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--d9da0b2b-f200-4e95-800f-6ff2179e5fd4",
+      "created": "2025-10-10T14:21:07.764Z",
+      "modified": "2025-10-10T14:21:07.764Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://migrovip.top/ch/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:21:07.764Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--b99c28dd-347e-4b42-aaf6-128b20bd4f4e",
+      "created": "2025-10-10T14:21:07.767Z",
+      "modified": "2025-10-10T14:21:07.767Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'http://migroteams.click/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:21:07.767Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--78f99188-1f08-4351-a152-eb82c3960875",
+      "created": "2025-10-10T14:21:07.770Z",
+      "modified": "2025-10-10T14:21:07.770Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'http://migrosreward.183737.com/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:21:07.770Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--4b01779d-2e7a-42da-bd2d-9b301c4d0cc1",
+      "created": "2025-10-10T14:21:07.770Z",
+      "modified": "2025-10-10T14:21:07.770Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://mligros.cc/ch/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:21:07.770Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--a5d3ef09-526d-472c-a4fe-262ff346726e",
+      "created": "2025-10-10T14:21:07.773Z",
+      "modified": "2025-10-10T14:21:07.773Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://migrosbelohnug.top/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:21:07.773Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--40358674-9d76-4d94-8085-cfec06014d97",
+      "created": "2025-10-10T14:21:07.776Z",
+      "modified": "2025-10-10T14:21:07.776Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://migrosbelohnung.top/ch']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:21:07.776Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--3fd8ad13-bad2-4453-9291-a1b29a6df71a",
+      "created": "2025-10-10T14:21:07.778Z",
+      "modified": "2025-10-10T14:21:07.778Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'http://migrosmy.click/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:21:07.778Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--7e9e1e8c-ea54-46cd-884a-3c85c5ff185b",
+      "created": "2025-10-10T14:21:07.778Z",
+      "modified": "2025-10-10T14:21:07.778Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'http://migrovips.top/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:21:07.778Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--fdfe14da-0607-4e2e-817d-33e85872f7a0",
+      "created": "2025-10-10T14:21:07.781Z",
+      "modified": "2025-10-10T14:21:07.781Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'http://migrosvip.click/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:21:07.781Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--f2f2683e-c48b-41d8-b89e-9fd9baede3dd",
+      "created": "2025-10-10T14:21:07.788Z",
+      "modified": "2025-10-10T14:21:07.788Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'http://www.migrosreward.183737.com/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:21:07.788Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--2fc22aee-0c2e-4e7c-9f9c-f3ab5183d560",
+      "created": "2025-10-10T14:21:07.788Z",
+      "modified": "2025-10-10T14:21:07.788Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://migrosreward.141888.cc/ch']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:21:07.788Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--35a28c54-8fff-4b00-bef8-b2a30c2bf525",
+      "created": "2025-10-10T14:21:07.788Z",
+      "modified": "2025-10-10T14:21:07.788Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://migrosmitglied.top/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:21:07.788Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--eca90f54-15d0-4e7d-96d1-c62ccb115d43",
+      "created": "2025-10-10T14:21:07.788Z",
+      "modified": "2025-10-10T14:21:07.788Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://migrosrewards.top/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:21:07.788Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--72d850ea-74c1-4b20-b00c-6184d080d2ba",
+      "created": "2025-10-10T14:21:07.791Z",
+      "modified": "2025-10-10T14:21:07.791Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'http://migrosvmy.click/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:21:07.791Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--b82aa199-2163-4974-9ae1-696e4520d094",
+      "created": "2025-10-10T14:21:07.793Z",
+      "modified": "2025-10-10T14:21:07.793Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'http://migro-bank.ch/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:21:07.793Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--2a8c047f-20cd-44b5-a84e-5a7cbc5bba59",
+      "created": "2025-10-10T14:21:07.800Z",
+      "modified": "2025-10-10T14:21:07.800Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'http://migroarreda.it/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:21:07.800Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--45079963-b399-4826-b6db-2c8132521a9c",
+      "created": "2025-10-10T14:21:07.801Z",
+      "modified": "2025-10-10T14:21:07.801Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'http://mligrros.cc/ch']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:21:07.801Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--d57f684f-7673-4851-acdf-3bd4865aabf8",
+      "created": "2025-10-10T14:21:07.805Z",
+      "modified": "2025-10-10T14:21:07.805Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://migrosvip.click/ch']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:21:07.805Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--c0f7a596-a0d1-4942-9232-b4ee742e4216",
+      "created": "2025-10-10T14:21:07.808Z",
+      "modified": "2025-10-10T14:21:07.808Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://mligrros.cc/ch']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:21:07.808Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--634e9fe5-399e-48b0-a5ec-ee51895afdb2",
+      "created": "2025-10-10T14:21:07.809Z",
+      "modified": "2025-10-10T14:21:07.809Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://migroscoupons.top/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:21:07.809Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--c35fc947-f7be-4e4c-9460-ccbbfb8d7ecd",
+      "created": "2025-10-10T14:21:07.809Z",
+      "modified": "2025-10-10T14:21:07.809Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://www.migrosspremium.top/ch']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:21:07.809Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--0244871f-565d-452b-b50e-60e1a00fc246",
+      "created": "2025-10-10T14:21:07.815Z",
+      "modified": "2025-10-10T14:21:07.815Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'http://migrosxvip.click/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:21:07.815Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--564bb588-e68b-468e-b46e-5ea17d5d1712",
+      "created": "2025-10-10T14:21:07.852Z",
+      "modified": "2025-10-10T14:21:07.852Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'http://migrosreward.765105.com/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:21:07.852Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--49b2cf04-55d0-4010-b259-2c4fa234eb1b",
+      "created": "2025-10-10T14:21:07.874Z",
+      "modified": "2025-10-10T14:21:07.874Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://migrosreward.top/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:21:07.874Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--c738e0e4-dfdd-44fa-b728-649d20ea5f58",
+      "created": "2025-10-10T14:21:08.418Z",
+      "modified": "2025-10-10T14:21:08.418Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://migrosclaim.top/ch/c_pay.html']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:21:08.418Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--a04844e3-2571-415f-8afc-f5af47058633",
+      "created": "2025-10-10T14:22:12.304Z",
+      "modified": "2025-10-10T14:22:12.304Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'http://migrosreward.323737.com/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:22:12.304Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--29f04563-4be0-4468-be96-dd745e3c08c1",
+      "created": "2025-10-10T14:22:12.316Z",
+      "modified": "2025-10-10T14:22:12.316Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://migrosammelpunkte.top/ch']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:22:12.316Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--360a68a1-e95e-41b0-b9ff-2f37a46b8d85",
+      "created": "2025-10-10T14:22:12.317Z",
+      "modified": "2025-10-10T14:22:12.317Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'http://migrosreward.853332.com/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:22:12.317Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--361e9796-536f-44ee-9580-1607d8d1d47a",
+      "created": "2025-10-10T14:22:12.324Z",
+      "modified": "2025-10-10T14:22:12.324Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://migroscumulus.top/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:22:12.324Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--c9a5db03-8dfd-4e91-9d88-1f8da6642645",
+      "created": "2025-10-10T14:22:12.439Z",
+      "modified": "2025-10-10T14:22:12.439Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://migrovips.top/ch']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:22:12.439Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--851f23b4-ccee-45e5-bee0-9849ea3db4ae",
+      "created": "2025-10-10T14:22:12.440Z",
+      "modified": "2025-10-10T14:22:12.440Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'http://migrovip.top/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:22:12.440Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--b7eba21e-625c-4dc5-996b-ceaeeb45e13e",
+      "created": "2025-10-10T14:22:12.449Z",
+      "modified": "2025-10-10T14:22:12.449Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://migrospunkte.top/ch']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:22:12.449Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--b27227cd-62b6-4ebd-a934-28cec856e2e9",
+      "created": "2025-10-10T14:22:12.462Z",
+      "modified": "2025-10-10T14:22:12.462Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://migros-einloesen.click/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:22:12.462Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--673f21f3-2f04-4f67-a45c-ee27dd996942",
+      "created": "2025-10-10T14:22:12.477Z",
+      "modified": "2025-10-10T14:22:12.477Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'http://migrosreward.535151.com/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:22:12.477Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--8777e3b4-eb2c-4ef5-a0de-824ec7541632",
+      "created": "2025-10-10T14:22:12.480Z",
+      "modified": "2025-10-10T14:22:12.480Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'http://migros-einloesen.click/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:22:12.480Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--7f7ab3ac-e222-4340-9dbf-131e74b221bc",
+      "created": "2025-10-10T14:22:12.481Z",
+      "modified": "2025-10-10T14:22:12.481Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://migroteams.click/ch']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:22:12.481Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--97d78395-fcf9-493e-a9ff-321f8835da43",
+      "created": "2025-10-10T14:22:12.482Z",
+      "modified": "2025-10-10T14:22:12.482Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://migrosboni.top/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:22:12.482Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--1aa0a5dd-50b3-4e46-8afd-64b1869d4842",
+      "created": "2025-10-10T14:22:12.483Z",
+      "modified": "2025-10-10T14:22:12.483Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://migrosmitglied.top/ch/c_pay.html']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:22:12.483Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--8081c141-eaf1-47df-af8e-8d253ba82672",
+      "created": "2025-10-10T14:22:12.484Z",
+      "modified": "2025-10-10T14:22:12.484Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'http://migro-bank.com/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:22:12.484Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--2b70c214-0b1d-42a0-9f30-dffb08de1ae5",
+      "created": "2025-10-10T14:22:12.485Z",
+      "modified": "2025-10-10T14:22:12.485Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'http://migrovipgo.click/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:22:12.485Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--bb51d32c-2781-4736-b7f9-cdcd05efed14",
+      "created": "2025-10-10T14:22:12.486Z",
+      "modified": "2025-10-10T14:22:12.486Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'http://migroben.com/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:22:12.486Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--c06eeebf-9b63-448d-b970-518399f1f36b",
+      "created": "2025-10-10T14:22:12.486Z",
+      "modified": "2025-10-10T14:22:12.486Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://migrosreward.165486.com/ch/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:22:12.486Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--a8f005ac-7cf8-45b5-95d3-35001ea31b8f",
+      "created": "2025-10-10T14:22:12.493Z",
+      "modified": "2025-10-10T14:22:12.493Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://migrosbelohnugen.top/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:22:12.493Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--daca290e-5621-4850-b094-2b8fece3f94c",
+      "created": "2025-10-10T14:22:12.495Z",
+      "modified": "2025-10-10T14:22:12.495Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'http://migrosreward.759569.com/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:22:12.495Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--fc877ba5-6717-4b94-87f0-5ad9c9660ddd",
+      "created": "2025-10-10T14:22:12.496Z",
+      "modified": "2025-10-10T14:22:12.496Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://migrospointscheck365.top/ch/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:22:12.496Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--da24f0ea-7dbb-499f-bccb-3a60c12bc21a",
+      "created": "2025-10-10T14:22:12.501Z",
+      "modified": "2025-10-10T14:22:12.501Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'http://migrosreward.797986.com/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:22:12.501Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--d752f043-9f6f-4b3a-bd10-8fbd8b117ffe",
+      "created": "2025-10-10T14:22:12.503Z",
+      "modified": "2025-10-10T14:22:12.503Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'http://migrosreward.477231.com/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:22:12.503Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--b7a7189a-2da6-41ae-82e9-2aedbeb3fb32",
+      "created": "2025-10-10T14:22:12.510Z",
+      "modified": "2025-10-10T14:22:12.510Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'http://migrosreward.808979.com/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:22:12.510Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--992247fd-4c6b-46d6-8091-b25c3b9d99b5",
+      "created": "2025-10-10T14:22:12.510Z",
+      "modified": "2025-10-10T14:22:12.510Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://migrosreward.997966.cc/link']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:22:12.510Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--9646873d-f18e-433d-8b01-288f0f1ae161",
+      "created": "2025-10-10T14:22:12.513Z",
+      "modified": "2025-10-10T14:22:12.513Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'http://migrosreward-s12805.top/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:22:12.513Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--779fd14e-2686-4669-b66a-e89ea4fd8b81",
+      "created": "2025-10-10T14:22:12.513Z",
+      "modified": "2025-10-10T14:22:12.513Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'http://migro-bike.com/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:22:12.513Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--fe9ffdea-07c1-4cc1-8f24-367924a24fa4",
+      "created": "2025-10-10T14:22:12.514Z",
+      "modified": "2025-10-10T14:22:12.514Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://migrosrewardsprogram.top/au']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:22:12.514Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--91e4d538-4466-428e-a5a6-d32b439fb0e2",
+      "created": "2025-10-10T14:22:12.517Z",
+      "modified": "2025-10-10T14:22:12.517Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'http://migrosreward.353589.com/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:22:12.517Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--d700b8f1-1c9c-46f1-b723-b574a9a4fb62",
+      "created": "2025-10-10T14:22:12.517Z",
+      "modified": "2025-10-10T14:22:12.517Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://migrosbonuspunkte.top/ch']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:22:12.517Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--c487f9d5-b28b-4fc3-a652-caf4a7672659",
+      "created": "2025-10-10T14:22:12.517Z",
+      "modified": "2025-10-10T14:22:12.517Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://migrosreward.11698.cc/link']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:22:12.517Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--eebc1443-9cf8-4f1b-aec5-64511c1e4ec5",
+      "created": "2025-10-10T14:22:12.517Z",
+      "modified": "2025-10-10T14:22:12.517Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://migrospunkte.click/ch']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:22:12.517Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--12d513ae-87d2-423d-9e61-c4416f5c032f",
+      "created": "2025-10-10T14:22:12.522Z",
+      "modified": "2025-10-10T14:22:12.522Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'http://migros-gutschein.click/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:22:12.522Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--2d65667a-bc17-4e05-81ad-9b78ebf97784",
+      "created": "2025-10-10T14:22:12.522Z",
+      "modified": "2025-10-10T14:22:12.522Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'http://migro.ag/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:22:12.522Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--95ae5d1c-6b66-497e-bf4d-df67cd05440b",
+      "created": "2025-10-10T14:22:12.522Z",
+      "modified": "2025-10-10T14:22:12.522Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'http://migros-cumulusbonus.click/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:22:12.522Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--09d61dd9-4d10-4a9a-8c65-c739c98d7dd0",
+      "created": "2025-10-10T14:22:12.524Z",
+      "modified": "2025-10-10T14:22:12.524Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'http://migroa.us/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:22:12.524Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--5e672f55-8e27-49af-8b48-5c3c668c3c02",
+      "created": "2025-10-10T14:22:12.527Z",
+      "modified": "2025-10-10T14:22:12.527Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://migrosreward.344117.com/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:22:12.527Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--48df2bb5-cd29-4c9f-ab94-1434e4aef47b",
+      "created": "2025-10-10T14:22:12.529Z",
+      "modified": "2025-10-10T14:22:12.529Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'http://migroxvip.click/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:22:12.529Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--e9eb8875-bb4a-4434-ab8c-9c9f0bae6a92",
+      "created": "2025-10-10T14:22:12.531Z",
+      "modified": "2025-10-10T14:22:12.531Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://migrosteams.click/ch']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:22:12.531Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--df3482cf-8662-4be0-a6a6-0fed399eba52",
+      "created": "2025-10-10T14:22:12.531Z",
+      "modified": "2025-10-10T14:22:12.531Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://migrosreward.759569.com/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:22:12.531Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--341ea391-551b-47ca-a30c-0231899a58ca",
+      "created": "2025-10-10T14:22:12.531Z",
+      "modified": "2025-10-10T14:22:12.531Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'http://migros-punkte.click/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:22:12.531Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--fcb76d53-c249-4f1c-9a5a-b760919b86e6",
+      "created": "2025-10-10T14:22:12.534Z",
+      "modified": "2025-10-10T14:22:12.534Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://migrosreward.165486.com/ch']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:22:12.534Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--b3d10e80-d03f-4bf2-9a64-34bdeb7e440d",
+      "created": "2025-10-10T14:22:12.534Z",
+      "modified": "2025-10-10T14:22:12.534Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'http://migros-praemien.click/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:22:12.534Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--dc7e33db-3a00-47e8-8dca-a55005ad718f",
+      "created": "2025-10-10T14:22:12.537Z",
+      "modified": "2025-10-10T14:22:12.537Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'http://migrosreward.808079.com/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:22:12.537Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--89d6c6c3-d004-4fed-9f3c-48bd30dcfcd1",
+      "created": "2025-10-10T14:22:12.537Z",
+      "modified": "2025-10-10T14:22:12.537Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://migrosreward.535151.com/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:22:12.537Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--b5b3bf13-3893-44c7-a755-19e93fd59d33",
+      "created": "2025-10-10T14:22:12.537Z",
+      "modified": "2025-10-10T14:22:12.537Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'http://migrosreward.344117.com/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:22:12.537Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--600c7ead-3990-4768-86df-791706b59ff1",
+      "created": "2025-10-10T14:22:12.537Z",
+      "modified": "2025-10-10T14:22:12.537Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://migrosreward.11633.cc/link']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:22:12.537Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--65ea480e-60ba-483f-8c0d-840b3400b074",
+      "created": "2025-10-10T14:22:12.537Z",
+      "modified": "2025-10-10T14:22:12.537Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'http://migrovipgos.click/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:22:12.537Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--db7ec746-32fa-446f-b1f8-7eac898b2b06",
+      "created": "2025-10-10T14:22:12.542Z",
+      "modified": "2025-10-10T14:22:12.542Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://migrosreward.11625.cc/link']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T14:22:12.542Z"
     }
   ]
 }
