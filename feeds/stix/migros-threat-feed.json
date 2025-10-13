@@ -4171,6 +4171,111 @@
       "pattern": "[url:value = 'https://migrosreward.11625.cc/link']",
       "pattern_type": "stix",
       "valid_from": "2025-10-10T14:22:12.542Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--2fa1de9a-6a3b-4270-b675-5a481a5a4513",
+      "created": "2025-10-10T15:01:37.055Z",
+      "modified": "2025-10-10T15:01:37.055Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = '69.163.216.80']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T15:01:37.055Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--5e9e8a79-c5cc-4e94-a7c2-2d734e1f2524",
+      "created": "2025-10-10T15:01:37.058Z",
+      "modified": "2025-10-10T15:01:37.058Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = '75.2.18.233']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T15:01:37.058Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--4536d446-4fc3-400a-8468-65461ae85c4f",
+      "created": "2025-10-10T15:01:37.058Z",
+      "modified": "2025-10-10T15:01:37.058Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = '43.159.39.19']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T15:01:37.058Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--c681e93e-6a07-4792-b58c-8698fa553547",
+      "created": "2025-10-10T15:01:37.060Z",
+      "modified": "2025-10-10T15:01:37.060Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = '43.160.247.29']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T15:01:37.060Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--fe858b85-b247-4673-9e98-0dcd52f82c01",
+      "created": "2025-10-10T15:01:37.061Z",
+      "modified": "2025-10-10T15:01:37.061Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = '43.160.193.44']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T15:01:37.061Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--6a541aac-f3fc-4155-896c-0f15ff09e335",
+      "created": "2025-10-10T15:01:37.066Z",
+      "modified": "2025-10-10T15:01:37.066Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = '43.165.61.217']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T15:01:37.066Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--e5cd7fe7-1e56-4c4e-8cc8-1eb34902ed8d",
+      "created": "2025-10-10T15:01:37.071Z",
+      "modified": "2025-10-10T15:01:37.071Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = '43.160.252.215']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-10T15:01:37.071Z"
     }
   ]
 }

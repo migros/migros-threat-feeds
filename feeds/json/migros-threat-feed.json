@@ -4168,5 +4168,110 @@
     ],
     "tlp": "TLP:CLEAR",
     "notes": "n/a"
+  },
+  {
+    "id": "2fa1de9a-6a3b-4270-b675-5a481a5a4513",
+    "type": "IPV4-ADDR",
+    "indicator": "69.163.216.80",
+    "created_at": "2025-10-10T15:01:37.055Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "5e9e8a79-c5cc-4e94-a7c2-2d734e1f2524",
+    "type": "IPV4-ADDR",
+    "indicator": "75.2.18.233",
+    "created_at": "2025-10-10T15:01:37.058Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "4536d446-4fc3-400a-8468-65461ae85c4f",
+    "type": "IPV4-ADDR",
+    "indicator": "43.159.39.19",
+    "created_at": "2025-10-10T15:01:37.058Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "c681e93e-6a07-4792-b58c-8698fa553547",
+    "type": "IPV4-ADDR",
+    "indicator": "43.160.247.29",
+    "created_at": "2025-10-10T15:01:37.060Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "fe858b85-b247-4673-9e98-0dcd52f82c01",
+    "type": "IPV4-ADDR",
+    "indicator": "43.160.193.44",
+    "created_at": "2025-10-10T15:01:37.061Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "6a541aac-f3fc-4155-896c-0f15ff09e335",
+    "type": "IPV4-ADDR",
+    "indicator": "43.165.61.217",
+    "created_at": "2025-10-10T15:01:37.066Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "e5cd7fe7-1e56-4c4e-8cc8-1eb34902ed8d",
+    "type": "IPV4-ADDR",
+    "indicator": "43.160.252.215",
+    "created_at": "2025-10-10T15:01:37.071Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
   }
 ]
