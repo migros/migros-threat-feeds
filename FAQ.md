@@ -165,3 +165,9 @@ A: No. Treat all indicators as potentially malicious. Do not click or browse the
 **Q: Do you provide category mappings or taxonomies (e.g., ATT&CK, misp-galaxy)?**
 
 A: Not currently. We provide simple tags for downstream mapping.
+
+---
+
+**Q: Why do some feeds include brands that do not directly belong to the Migros Group?**
+
+A: In the spirit of "Migros macht meh für d'Schwiiz" we also publish relevant "bycatch" when it serves the cause.
