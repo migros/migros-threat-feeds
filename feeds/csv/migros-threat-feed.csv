@@ -285,3 +285,4 @@ id,type,indicator,created_at,confidence,source,tags,tlp,notes
 "6a541aac-f3fc-4155-896c-0f15ff09e335","IPV4-ADDR","43.165.61.217","2025-10-10T15:01:37.066Z","-1","MIGROS-CDC","phishing;brand-abuse;migros","TLP:CLEAR","n/a"
 "e5cd7fe7-1e56-4c4e-8cc8-1eb34902ed8d","IPV4-ADDR","43.160.252.215","2025-10-10T15:01:37.071Z","-1","MIGROS-CDC","phishing;brand-abuse;migros","TLP:CLEAR","n/a"
 "e5553d07-3b12-4965-9cd5-d1790cf8e009","URL","https://migros-gutschein.click/ch","2025-10-14T09:02:05.251Z","-1","MIGROS-CDC","phishing;brand-abuse;migros","TLP:CLEAR","n/a"
+"166c5f80-83fb-408c-99bc-70bbc3eabe16","URL","https://migros-survey.com","2025-10-22T09:50:12.211Z","-1","MIGROS-CDC","phishing;brand-abuse;migros","TLP:CLEAR","n/a"

@@ -4291,6 +4291,21 @@
       "pattern": "[url:value = 'https://migros-gutschein.click/ch']",
       "pattern_type": "stix",
       "valid_from": "2025-10-14T09:02:05.251Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--166c5f80-83fb-408c-99bc-70bbc3eabe16",
+      "created": "2025-10-22T09:50:12.211Z",
+      "modified": "2025-10-22T09:50:12.211Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://migros-survey.com']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-22T09:50:12.211Z"
     }
   ]
 }
