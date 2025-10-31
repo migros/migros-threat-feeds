@@ -4303,5 +4303,305 @@
     ],
     "tlp": "TLP:CLEAR",
     "notes": "n/a"
+  },
+  {
+    "id": "da80653a-c253-49cb-8351-398be46d70d5",
+    "type": "DOMAIN-NAME",
+    "indicator": "aaraudigitalag.ch",
+    "created_at": "2025-10-31T13:02:24.987Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "8a6af67b-c98d-491c-8670-7e8faef7c770",
+    "type": "DOMAIN-NAME",
+    "indicator": "aarebijou.ch",
+    "created_at": "2025-10-31T13:02:24.989Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "f92ee95f-5535-4682-9f99-2ab439661d85",
+    "type": "DOMAIN-NAME",
+    "indicator": "aarauerkultur.ch",
+    "created_at": "2025-10-31T13:02:24.990Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "90620ab5-f9fa-4c78-8b78-4c9f62302f9e",
+    "type": "DOMAIN-NAME",
+    "indicator": "aaraucoiffeur.ch",
+    "created_at": "2025-10-31T13:02:24.997Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "0b1110f7-b592-4443-9a31-cc3360c441d5",
+    "type": "DOMAIN-NAME",
+    "indicator": "aarchitektur.ch",
+    "created_at": "2025-10-31T13:02:25.002Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "82d176bf-a614-4c61-bdd9-bac0e98b6f7b",
+    "type": "DOMAIN-NAME",
+    "indicator": "aarauclean.ch",
+    "created_at": "2025-10-31T13:02:25.004Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "f912525a-8ae3-48e7-809d-ab7884d1c13e",
+    "type": "DOMAIN-NAME",
+    "indicator": "aarauisst.ch",
+    "created_at": "2025-10-31T13:02:25.006Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "e8bdf04b-0107-4ac6-b5b6-affb401deb27",
+    "type": "DOMAIN-NAME",
+    "indicator": "acieroid.ch",
+    "created_at": "2025-10-31T13:02:25.009Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "367573f3-bce8-4a86-9320-277d995b6ae9",
+    "type": "DOMAIN-NAME",
+    "indicator": "acilkredi.ch",
+    "created_at": "2025-10-31T13:02:25.025Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "42543224-4031-4eed-9a05-22502c729ae8",
+    "type": "DOMAIN-NAME",
+    "indicator": "ackeretsoehne.ch",
+    "created_at": "2025-10-31T13:02:25.028Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "765690fe-d85b-4bea-9bb6-96de29728655",
+    "type": "DOMAIN-NAME",
+    "indicator": "acinum.ch",
+    "created_at": "2025-10-31T13:02:25.028Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "a83ad900-b25c-4c42-8e67-b3d6268789d1",
+    "type": "DOMAIN-NAME",
+    "indicator": "acquaclean.ch",
+    "created_at": "2025-10-31T13:02:25.028Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "dad2bc2c-92b4-4cad-a9e2-2535fb8c3bad",
+    "type": "DOMAIN-NAME",
+    "indicator": "ablumineux.ch",
+    "created_at": "2025-10-31T13:02:25.028Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "6f656c43-0f36-44ce-86ea-686e420c9ccd",
+    "type": "DOMAIN-NAME",
+    "indicator": "acprofil.ch",
+    "created_at": "2025-10-31T13:02:25.028Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "b63f45a3-07c8-4401-a3a3-b1841d815791",
+    "type": "DOMAIN-NAME",
+    "indicator": "acinsor.ch",
+    "created_at": "2025-10-31T13:02:25.028Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "ace48638-f178-4665-8bc0-1e5fb8291042",
+    "type": "DOMAIN-NAME",
+    "indicator": "aareboeoetli.ch",
+    "created_at": "2025-10-31T13:02:25.028Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "0f133fb4-f891-417f-910f-8fba11bfd3d9",
+    "type": "DOMAIN-NAME",
+    "indicator": "aclearplace.ch",
+    "created_at": "2025-10-31T13:02:25.028Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "c19d770a-932f-4c0c-9a5b-93e4329ff73c",
+    "type": "DOMAIN-NAME",
+    "indicator": "acleanspirit.ch",
+    "created_at": "2025-10-31T13:02:25.032Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "8b8ca81c-d4ff-4543-b8fa-4f822907a4b7",
+    "type": "DOMAIN-NAME",
+    "indicator": "bestellverfolgung.ch",
+    "created_at": "2025-10-31T13:02:25.036Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "c1aaea82-b070-4670-b4ad-2aae205e819e",
+    "type": "DOMAIN-NAME",
+    "indicator": "acpqualife.ch",
+    "created_at": "2025-10-31T13:02:25.041Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
   }
 ]

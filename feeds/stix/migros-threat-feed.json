@@ -4306,6 +4306,306 @@
       "pattern": "[url:value = 'https://migros-survey.com']",
       "pattern_type": "stix",
       "valid_from": "2025-10-22T09:50:12.211Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--da80653a-c253-49cb-8351-398be46d70d5",
+      "created": "2025-10-31T13:02:24.987Z",
+      "modified": "2025-10-31T13:02:24.987Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'aaraudigitalag.ch']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-31T13:02:24.987Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--8a6af67b-c98d-491c-8670-7e8faef7c770",
+      "created": "2025-10-31T13:02:24.989Z",
+      "modified": "2025-10-31T13:02:24.989Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'aarebijou.ch']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-31T13:02:24.989Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--f92ee95f-5535-4682-9f99-2ab439661d85",
+      "created": "2025-10-31T13:02:24.990Z",
+      "modified": "2025-10-31T13:02:24.990Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'aarauerkultur.ch']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-31T13:02:24.990Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--90620ab5-f9fa-4c78-8b78-4c9f62302f9e",
+      "created": "2025-10-31T13:02:24.997Z",
+      "modified": "2025-10-31T13:02:24.997Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'aaraucoiffeur.ch']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-31T13:02:24.997Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--0b1110f7-b592-4443-9a31-cc3360c441d5",
+      "created": "2025-10-31T13:02:25.002Z",
+      "modified": "2025-10-31T13:02:25.002Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'aarchitektur.ch']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-31T13:02:25.002Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--82d176bf-a614-4c61-bdd9-bac0e98b6f7b",
+      "created": "2025-10-31T13:02:25.004Z",
+      "modified": "2025-10-31T13:02:25.004Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'aarauclean.ch']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-31T13:02:25.004Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--f912525a-8ae3-48e7-809d-ab7884d1c13e",
+      "created": "2025-10-31T13:02:25.006Z",
+      "modified": "2025-10-31T13:02:25.006Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'aarauisst.ch']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-31T13:02:25.006Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--e8bdf04b-0107-4ac6-b5b6-affb401deb27",
+      "created": "2025-10-31T13:02:25.009Z",
+      "modified": "2025-10-31T13:02:25.009Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'acieroid.ch']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-31T13:02:25.009Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--367573f3-bce8-4a86-9320-277d995b6ae9",
+      "created": "2025-10-31T13:02:25.025Z",
+      "modified": "2025-10-31T13:02:25.025Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'acilkredi.ch']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-31T13:02:25.025Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--42543224-4031-4eed-9a05-22502c729ae8",
+      "created": "2025-10-31T13:02:25.028Z",
+      "modified": "2025-10-31T13:02:25.028Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'ackeretsoehne.ch']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-31T13:02:25.028Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--765690fe-d85b-4bea-9bb6-96de29728655",
+      "created": "2025-10-31T13:02:25.028Z",
+      "modified": "2025-10-31T13:02:25.028Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'acinum.ch']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-31T13:02:25.028Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--a83ad900-b25c-4c42-8e67-b3d6268789d1",
+      "created": "2025-10-31T13:02:25.028Z",
+      "modified": "2025-10-31T13:02:25.028Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'acquaclean.ch']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-31T13:02:25.028Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--dad2bc2c-92b4-4cad-a9e2-2535fb8c3bad",
+      "created": "2025-10-31T13:02:25.028Z",
+      "modified": "2025-10-31T13:02:25.028Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'ablumineux.ch']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-31T13:02:25.028Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--6f656c43-0f36-44ce-86ea-686e420c9ccd",
+      "created": "2025-10-31T13:02:25.028Z",
+      "modified": "2025-10-31T13:02:25.028Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'acprofil.ch']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-31T13:02:25.028Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--b63f45a3-07c8-4401-a3a3-b1841d815791",
+      "created": "2025-10-31T13:02:25.028Z",
+      "modified": "2025-10-31T13:02:25.028Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'acinsor.ch']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-31T13:02:25.028Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--ace48638-f178-4665-8bc0-1e5fb8291042",
+      "created": "2025-10-31T13:02:25.028Z",
+      "modified": "2025-10-31T13:02:25.028Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'aareboeoetli.ch']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-31T13:02:25.028Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--0f133fb4-f891-417f-910f-8fba11bfd3d9",
+      "created": "2025-10-31T13:02:25.028Z",
+      "modified": "2025-10-31T13:02:25.028Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'aclearplace.ch']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-31T13:02:25.028Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--c19d770a-932f-4c0c-9a5b-93e4329ff73c",
+      "created": "2025-10-31T13:02:25.032Z",
+      "modified": "2025-10-31T13:02:25.032Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'acleanspirit.ch']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-31T13:02:25.032Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--8b8ca81c-d4ff-4543-b8fa-4f822907a4b7",
+      "created": "2025-10-31T13:02:25.036Z",
+      "modified": "2025-10-31T13:02:25.036Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'bestellverfolgung.ch']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-31T13:02:25.036Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--c1aaea82-b070-4670-b4ad-2aae205e819e",
+      "created": "2025-10-31T13:02:25.041Z",
+      "modified": "2025-10-31T13:02:25.041Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'acpqualife.ch']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-31T13:02:25.041Z"
     }
   ]
 }
