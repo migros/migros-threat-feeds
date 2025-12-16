@@ -65,6 +65,21 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
+      "id": "indicator--c46c662c-ec12-41c0-b247-97712fc9cd56",
+      "created": "2025-07-15T07:43:00.563Z",
+      "modified": "2025-07-15T07:43:00.563Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://connectfusion.life/say-hello-to-next-level-barrier-repair/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-07-15T07:43:00.563Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
       "id": "indicator--8fc49d35-51ef-4102-9c3a-92c196790a90",
       "created": "2025-07-16T06:45:23.393Z",
       "modified": "2025-07-16T06:45:23.393Z",
@@ -95,17 +110,47 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--11bc499c-e0e9-4525-8cb2-fc88a3c52cb7",
-      "created": "2025-07-24T12:06:38.781Z",
-      "modified": "2025-07-24T12:06:38.781Z",
+      "id": "indicator--e2e40c5e-72ea-4c7d-986d-b5ff14221bc4",
+      "created": "2025-07-24T12:06:38.546Z",
+      "modified": "2025-07-24T12:06:38.546Z",
       "name": "n/a",
       "description": "n/a",
       "indicator_types": [
         "malicious-activity"
       ],
-      "pattern": "[url:value = 'https://www.facebook.com/share/p/1CWujt7qdB/']",
+      "pattern": "[url:value = 'https://www.facebook.com/share/p/1CWujt7qdB']",
       "pattern_type": "stix",
-      "valid_from": "2025-07-24T12:06:38.781Z"
+      "valid_from": "2025-07-24T12:06:38.546Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--fc8f92eb-0188-4d1f-aa19-f0409ee2a726",
+      "created": "2025-07-30T06:33:54.028Z",
+      "modified": "2025-07-30T06:33:54.028Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://zpr.io/UqySyyLYkjNH']",
+      "pattern_type": "stix",
+      "valid_from": "2025-07-30T06:33:54.028Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--72a19f1c-1ea4-4b12-95ad-c062e76738a1",
+      "created": "2025-07-30T12:35:30.272Z",
+      "modified": "2025-07-30T12:35:30.272Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://marketop.click']",
+      "pattern_type": "stix",
+      "valid_from": "2025-07-30T12:35:30.272Z"
     },
     {
       "type": "indicator",
