@@ -255,6 +255,21 @@
     "notes": "n/a"
   },
   {
+    "id": "e9ee2b4b-4253-4d5a-9ed6-0e9a1fe3876b",
+    "type": "URL",
+    "indicator": "https://digitec.produkt-kaufen.lat/schweiz/produkt",
+    "created_at": "2025-09-09T14:08:50.341Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
     "id": "4c6ca796-92a9-4ac1-8a0e-c0cf0daa7f72",
     "type": "URL",
     "indicator": "https://paperorpen.com/giftcard/redeem",
