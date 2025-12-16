@@ -50,6 +50,21 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
+      "id": "indicator--cb571933-5aec-4dcf-a2e4-5322d66e5686",
+      "created": "2025-07-09T09:24:05.580Z",
+      "modified": "2025-07-09T09:24:05.580Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://glumotron.pro/the-highlight/23387946/ev-battery-lithium-recycling-us/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-07-09T09:24:05.580Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
       "id": "indicator--15390bf4-3f0d-44ad-bddf-8f10f62cb4ec",
       "created": "2025-07-10T14:30:10.623Z",
       "modified": "2025-07-10T14:30:10.623Z",

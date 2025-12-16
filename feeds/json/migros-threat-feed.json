@@ -45,6 +45,21 @@
     "notes": "n/a"
   },
   {
+    "id": "cb571933-5aec-4dcf-a2e4-5322d66e5686",
+    "type": "URL",
+    "indicator": "https://glumotron.pro/the-highlight/23387946/ev-battery-lithium-recycling-us/",
+    "created_at": "2025-07-09T09:24:05.580Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
     "id": "15390bf4-3f0d-44ad-bddf-8f10f62cb4ec",
     "type": "URL",
     "indicator": "https://tinyurl.com/4pf6f2z6",
