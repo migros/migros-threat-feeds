@@ -215,6 +215,36 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
+      "id": "indicator--d437ca93-6f38-46d4-bb7f-0058934a9555",
+      "created": "2025-08-26T16:20:53.900Z",
+      "modified": "2025-08-26T16:20:53.900Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://prizefox.click']",
+      "pattern_type": "stix",
+      "valid_from": "2025-08-26T16:20:53.900Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--de1cb168-a52e-4ba0-b213-07644aabeb25",
+      "created": "2025-08-26T16:21:18.736Z",
+      "modified": "2025-08-26T16:21:18.736Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://tradexis.click']",
+      "pattern_type": "stix",
+      "valid_from": "2025-08-26T16:21:18.736Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
       "id": "indicator--3120e404-f8b3-414e-92fa-ea74170e43e5",
       "created": "2025-09-02T14:08:03.311Z",
       "modified": "2025-09-02T14:08:03.311Z",
@@ -226,6 +256,21 @@
       "pattern": "[url:value = 'http://migros.com-prize.com']",
       "pattern_type": "stix",
       "valid_from": "2025-09-02T14:08:03.311Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--4c6ca796-92a9-4ac1-8a0e-c0cf0daa7f72",
+      "created": "2025-09-09T14:08:50.793Z",
+      "modified": "2025-09-09T14:08:50.793Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://paperorpen.com/giftcard/redeem']",
+      "pattern_type": "stix",
+      "valid_from": "2025-09-09T14:08:50.793Z"
     },
     {
       "type": "indicator",
@@ -4310,6 +4355,96 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
+      "id": "indicator--5bbf9dd1-7295-4017-828e-04cde3f9b033",
+      "created": "2025-10-22T09:50:14.110Z",
+      "modified": "2025-10-22T09:50:14.110Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://cutt.ly/Migros-Promo-Product-Box-CH']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-22T09:50:14.110Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--36e316c0-0052-451a-b3d5-8a2a5ff82731",
+      "created": "2025-10-22T09:50:15.807Z",
+      "modified": "2025-10-22T09:50:15.807Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://cloudstorageflowup25.psee.io']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-22T09:50:15.807Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--f66a6b2b-c5b9-45ca-b87c-3ac256387a33",
+      "created": "2025-10-27T09:59:52.030Z",
+      "modified": "2025-10-27T09:59:52.030Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://aarauclean.ch/ga/click/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-27T09:59:52.030Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--5ce0227f-c168-4633-bd41-101bd93722c2",
+      "created": "2025-10-27T09:59:52.183Z",
+      "modified": "2025-10-27T09:59:52.183Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://shinning-gain.com']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-27T09:59:52.183Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--c23ecebe-3c27-4371-9627-7a965f5c4dbc",
+      "created": "2025-10-27T12:38:38.623Z",
+      "modified": "2025-10-27T12:38:38.623Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://shining-gain.com']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-27T12:38:38.623Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--3068e9d3-49a2-4b71-96ec-ea5df8f2c725",
+      "created": "2025-10-29T10:29:27.872Z",
+      "modified": "2025-10-29T10:29:27.872Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://digitalepanr.com/ga/click/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-10-29T10:29:27.872Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
       "id": "indicator--da80653a-c253-49cb-8351-398be46d70d5",
       "created": "2025-10-31T13:02:24.987Z",
       "modified": "2025-10-31T13:02:24.987Z",
@@ -4606,6 +4741,186 @@
       "pattern": "[url:value = 'acpqualife.ch']",
       "pattern_type": "stix",
       "valid_from": "2025-10-31T13:02:25.041Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--d5d66fdb-1890-4c3a-a3aa-7bfbb9098f22",
+      "created": "2025-11-03T09:20:30.170Z",
+      "modified": "2025-11-03T09:20:30.170Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'http://linkwdsebin.overlordsoftware.com']",
+      "pattern_type": "stix",
+      "valid_from": "2025-11-03T09:20:30.170Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--54829999-5b78-4d50-a980-8bce46e972b0",
+      "created": "2025-11-04T12:37:28.512Z",
+      "modified": "2025-11-04T12:37:28.512Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://www.msglobalstore.com']",
+      "pattern_type": "stix",
+      "valid_from": "2025-11-04T12:37:28.512Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--871ef72c-23b8-4473-9879-af30f08f492b",
+      "created": "2025-11-11T12:37:55.444Z",
+      "modified": "2025-11-11T12:37:55.444Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://aberratio.ch']",
+      "pattern_type": "stix",
+      "valid_from": "2025-11-11T12:37:55.444Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--4d7c4e36-b83c-4279-aaf4-63517b70ba0e",
+      "created": "2025-11-12T12:38:10.297Z",
+      "modified": "2025-11-12T12:38:10.297Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://domido.xyz/register/1/cc/index.php']",
+      "pattern_type": "stix",
+      "valid_from": "2025-11-12T12:38:10.297Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--1aa1d757-1a56-40d6-8541-89dd112be8b6",
+      "created": "2025-11-20T12:39:48.058Z",
+      "modified": "2025-11-20T12:39:48.058Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://pinela.ecosphere.st/kage/busupa/gukaru/zute/index.php']",
+      "pattern_type": "stix",
+      "valid_from": "2025-11-20T12:39:48.058Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--66bc3be4-b912-436d-b196-dfff79ad19b8",
+      "created": "2025-11-20T12:39:48.395Z",
+      "modified": "2025-11-20T12:39:48.395Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://eluleka.info/ga/click/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-11-20T12:39:48.395Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--e37cccaf-3c1b-45c1-8019-576228332cf7",
+      "created": "2025-11-20T12:39:48.396Z",
+      "modified": "2025-11-20T12:39:48.396Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://migros.coupons']",
+      "pattern_type": "stix",
+      "valid_from": "2025-11-20T12:39:48.396Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--1978b757-0b92-45ae-9e23-bac6d6e31f10",
+      "created": "2025-11-20T12:39:49.432Z",
+      "modified": "2025-11-20T12:39:49.432Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://acproduction.ch']",
+      "pattern_type": "stix",
+      "valid_from": "2025-11-20T12:39:49.432Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--162367dd-9e94-4af6-8b3e-3bd8bf82fa56",
+      "created": "2025-12-05T12:40:44.303Z",
+      "modified": "2025-12-05T12:40:44.303Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://darkbreaks.info/ga/click/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-12-05T12:40:44.303Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--e524ccc6-5c33-4435-b036-c2fca63dc4b6",
+      "created": "2025-12-11T12:41:08.753Z",
+      "modified": "2025-12-11T12:41:08.753Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://mijoa.cn/bjkaDaem/7563400338137654266694fa40']",
+      "pattern_type": "stix",
+      "valid_from": "2025-12-11T12:41:08.753Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--1abf3914-ef44-4acc-8095-fd1a1bf50106",
+      "created": "2025-12-12T12:41:11.511Z",
+      "modified": "2025-12-12T12:41:11.511Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://zirfo.cn/ykjalaem/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-12-12T12:41:11.511Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--47201224-cbb1-45b2-b09e-cdbfa5d73a20",
+      "created": "2025-12-13T12:41:14.619Z",
+      "modified": "2025-12-13T12:41:14.619Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://paunu.cn/ykja4agm/']",
+      "pattern_type": "stix",
+      "valid_from": "2025-12-13T12:41:14.619Z"
     }
   ]
 }

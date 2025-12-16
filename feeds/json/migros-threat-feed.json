@@ -210,10 +210,55 @@
     "notes": "n/a"
   },
   {
+    "id": "d437ca93-6f38-46d4-bb7f-0058934a9555",
+    "type": "URL",
+    "indicator": "https://prizefox.click",
+    "created_at": "2025-08-26T16:20:53.900Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "de1cb168-a52e-4ba0-b213-07644aabeb25",
+    "type": "URL",
+    "indicator": "https://tradexis.click",
+    "created_at": "2025-08-26T16:21:18.736Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
     "id": "3120e404-f8b3-414e-92fa-ea74170e43e5",
     "type": "URL",
     "indicator": "http://migros.com-prize.com",
     "created_at": "2025-09-02T14:08:03.311Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "4c6ca796-92a9-4ac1-8a0e-c0cf0daa7f72",
+    "type": "URL",
+    "indicator": "https://paperorpen.com/giftcard/redeem",
+    "created_at": "2025-09-09T14:08:50.793Z",
     "confidence": -1,
     "source": "MIGROS-CDC",
     "tags": [
@@ -4305,6 +4350,96 @@
     "notes": "n/a"
   },
   {
+    "id": "5bbf9dd1-7295-4017-828e-04cde3f9b033",
+    "type": "URL",
+    "indicator": "https://cutt.ly/Migros-Promo-Product-Box-CH",
+    "created_at": "2025-10-22T09:50:14.110Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "36e316c0-0052-451a-b3d5-8a2a5ff82731",
+    "type": "URL",
+    "indicator": "https://cloudstorageflowup25.psee.io",
+    "created_at": "2025-10-22T09:50:15.807Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "f66a6b2b-c5b9-45ca-b87c-3ac256387a33",
+    "type": "URL",
+    "indicator": "https://aarauclean.ch/ga/click/",
+    "created_at": "2025-10-27T09:59:52.030Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "5ce0227f-c168-4633-bd41-101bd93722c2",
+    "type": "URL",
+    "indicator": "https://shinning-gain.com",
+    "created_at": "2025-10-27T09:59:52.183Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "c23ecebe-3c27-4371-9627-7a965f5c4dbc",
+    "type": "URL",
+    "indicator": "https://shining-gain.com",
+    "created_at": "2025-10-27T12:38:38.623Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "3068e9d3-49a2-4b71-96ec-ea5df8f2c725",
+    "type": "URL",
+    "indicator": "https://digitalepanr.com/ga/click/",
+    "created_at": "2025-10-29T10:29:27.872Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
     "id": "da80653a-c253-49cb-8351-398be46d70d5",
     "type": "DOMAIN-NAME",
     "indicator": "aaraudigitalag.ch",
@@ -4594,6 +4729,186 @@
     "type": "DOMAIN-NAME",
     "indicator": "acpqualife.ch",
     "created_at": "2025-10-31T13:02:25.041Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "d5d66fdb-1890-4c3a-a3aa-7bfbb9098f22",
+    "type": "URL",
+    "indicator": "http://linkwdsebin.overlordsoftware.com",
+    "created_at": "2025-11-03T09:20:30.170Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "54829999-5b78-4d50-a980-8bce46e972b0",
+    "type": "URL",
+    "indicator": "https://www.msglobalstore.com",
+    "created_at": "2025-11-04T12:37:28.512Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "871ef72c-23b8-4473-9879-af30f08f492b",
+    "type": "URL",
+    "indicator": "https://aberratio.ch",
+    "created_at": "2025-11-11T12:37:55.444Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "4d7c4e36-b83c-4279-aaf4-63517b70ba0e",
+    "type": "URL",
+    "indicator": "https://domido.xyz/register/1/cc/index.php",
+    "created_at": "2025-11-12T12:38:10.297Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "1aa1d757-1a56-40d6-8541-89dd112be8b6",
+    "type": "URL",
+    "indicator": "https://pinela.ecosphere.st/kage/busupa/gukaru/zute/index.php",
+    "created_at": "2025-11-20T12:39:48.058Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "66bc3be4-b912-436d-b196-dfff79ad19b8",
+    "type": "URL",
+    "indicator": "https://eluleka.info/ga/click/",
+    "created_at": "2025-11-20T12:39:48.395Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "e37cccaf-3c1b-45c1-8019-576228332cf7",
+    "type": "URL",
+    "indicator": "https://migros.coupons",
+    "created_at": "2025-11-20T12:39:48.396Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "1978b757-0b92-45ae-9e23-bac6d6e31f10",
+    "type": "URL",
+    "indicator": "https://acproduction.ch",
+    "created_at": "2025-11-20T12:39:49.432Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "162367dd-9e94-4af6-8b3e-3bd8bf82fa56",
+    "type": "URL",
+    "indicator": "https://darkbreaks.info/ga/click/",
+    "created_at": "2025-12-05T12:40:44.303Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "e524ccc6-5c33-4435-b036-c2fca63dc4b6",
+    "type": "URL",
+    "indicator": "https://mijoa.cn/bjkaDaem/7563400338137654266694fa40",
+    "created_at": "2025-12-11T12:41:08.753Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "1abf3914-ef44-4acc-8095-fd1a1bf50106",
+    "type": "URL",
+    "indicator": "https://zirfo.cn/ykjalaem/",
+    "created_at": "2025-12-12T12:41:11.511Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "47201224-cbb1-45b2-b09e-cdbfa5d73a20",
+    "type": "URL",
+    "indicator": "https://paunu.cn/ykja4agm/",
+    "created_at": "2025-12-13T12:41:14.619Z",
     "confidence": -1,
     "source": "MIGROS-CDC",
     "tags": [
