@@ -5233,5 +5233,155 @@
     ],
     "tlp": "TLP:CLEAR",
     "notes": "n/a"
+  },
+  {
+    "id": "819307ec-6df4-4c58-b610-008f7161a131",
+    "type": "URL",
+    "indicator": "https://cectidal.info/?app_vl=ZoJwk3FobWKEmLqxy5qmnnx0YsC2wa-TpaiVYsBxj2phmqOgnLFwrYw",
+    "created_at": "2026-01-19T12:10:29.072Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "f1e6d483-0999-406b-a464-d7906a93bfae",
+    "type": "URL",
+    "indicator": "https://migroos.shop",
+    "created_at": "2026-01-19T12:44:21.020Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "6b214aa9-ddb3-41ab-b13c-113bf31ae912",
+    "type": "DOMAIN-NAME",
+    "indicator": "mmigros.shop",
+    "created_at": "2026-01-22T14:25:26.904Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "fb18c836-c710-4333-b761-f63afbb89651",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrossshop.shop",
+    "created_at": "2026-01-22T14:25:26.908Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "4e120385-bb41-495b-adf5-619190b0efbc",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosshopmall.shop",
+    "created_at": "2026-01-22T14:25:26.910Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "1cc813ff-0045-4f24-82cd-c6bfe132d8be",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosshop.shop",
+    "created_at": "2026-01-22T14:25:26.910Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "3a227191-1984-4974-8287-a9ae02962aea",
+    "type": "DOMAIN-NAME",
+    "indicator": "shopmigros.shop",
+    "created_at": "2026-01-22T14:25:26.915Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "b0e442d9-463b-4d57-98fe-8bf3c0d85c41",
+    "type": "DOMAIN-NAME",
+    "indicator": "migroosshop.shop",
+    "created_at": "2026-01-22T14:25:26.916Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "b5b8cb15-e955-473c-b117-292e7f59fdaf",
+    "type": "DOMAIN-NAME",
+    "indicator": "mallmigros.shop",
+    "created_at": "2026-01-22T14:25:26.917Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "28c817eb-1b37-4dce-b8e2-be0111cfb27a",
+    "type": "DOMAIN-NAME",
+    "indicator": "migrosmall.shop",
+    "created_at": "2026-01-22T14:25:26.921Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
   }
 ]

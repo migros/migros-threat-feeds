@@ -5236,6 +5236,156 @@
       "pattern": "[url:value = 'migrostw.com']",
       "pattern_type": "stix",
       "valid_from": "2026-01-13T09:37:34.716Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--819307ec-6df4-4c58-b610-008f7161a131",
+      "created": "2026-01-19T12:10:29.072Z",
+      "modified": "2026-01-19T12:10:29.072Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://cectidal.info/?app_vl=ZoJwk3FobWKEmLqxy5qmnnx0YsC2wa-TpaiVYsBxj2phmqOgnLFwrYw']",
+      "pattern_type": "stix",
+      "valid_from": "2026-01-19T12:10:29.072Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--f1e6d483-0999-406b-a464-d7906a93bfae",
+      "created": "2026-01-19T12:44:21.020Z",
+      "modified": "2026-01-19T12:44:21.020Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://migroos.shop']",
+      "pattern_type": "stix",
+      "valid_from": "2026-01-19T12:44:21.020Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--6b214aa9-ddb3-41ab-b13c-113bf31ae912",
+      "created": "2026-01-22T14:25:26.904Z",
+      "modified": "2026-01-22T14:25:26.904Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'mmigros.shop']",
+      "pattern_type": "stix",
+      "valid_from": "2026-01-22T14:25:26.904Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--fb18c836-c710-4333-b761-f63afbb89651",
+      "created": "2026-01-22T14:25:26.908Z",
+      "modified": "2026-01-22T14:25:26.908Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrossshop.shop']",
+      "pattern_type": "stix",
+      "valid_from": "2026-01-22T14:25:26.908Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--4e120385-bb41-495b-adf5-619190b0efbc",
+      "created": "2026-01-22T14:25:26.910Z",
+      "modified": "2026-01-22T14:25:26.910Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosshopmall.shop']",
+      "pattern_type": "stix",
+      "valid_from": "2026-01-22T14:25:26.910Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--1cc813ff-0045-4f24-82cd-c6bfe132d8be",
+      "created": "2026-01-22T14:25:26.910Z",
+      "modified": "2026-01-22T14:25:26.910Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosshop.shop']",
+      "pattern_type": "stix",
+      "valid_from": "2026-01-22T14:25:26.910Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--3a227191-1984-4974-8287-a9ae02962aea",
+      "created": "2026-01-22T14:25:26.915Z",
+      "modified": "2026-01-22T14:25:26.915Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'shopmigros.shop']",
+      "pattern_type": "stix",
+      "valid_from": "2026-01-22T14:25:26.915Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--b0e442d9-463b-4d57-98fe-8bf3c0d85c41",
+      "created": "2026-01-22T14:25:26.916Z",
+      "modified": "2026-01-22T14:25:26.916Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migroosshop.shop']",
+      "pattern_type": "stix",
+      "valid_from": "2026-01-22T14:25:26.916Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--b5b8cb15-e955-473c-b117-292e7f59fdaf",
+      "created": "2026-01-22T14:25:26.917Z",
+      "modified": "2026-01-22T14:25:26.917Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'mallmigros.shop']",
+      "pattern_type": "stix",
+      "valid_from": "2026-01-22T14:25:26.917Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--28c817eb-1b37-4dce-b8e2-be0111cfb27a",
+      "created": "2026-01-22T14:25:26.921Z",
+      "modified": "2026-01-22T14:25:26.921Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'migrosmall.shop']",
+      "pattern_type": "stix",
+      "valid_from": "2026-01-22T14:25:26.921Z"
     }
   ]
 }
