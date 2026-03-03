@@ -5386,6 +5386,51 @@
       "pattern": "[url:value = 'migrosmall.shop']",
       "pattern_type": "stix",
       "valid_from": "2026-01-22T14:25:26.921Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--2f14ce23-bdba-4ae7-ae71-e32e4c0bb4ba",
+      "created": "2026-02-06T09:51:10.502Z",
+      "modified": "2026-02-06T09:51:10.502Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://migros-switzerlandangebot.techniker-tk.com']",
+      "pattern_type": "stix",
+      "valid_from": "2026-02-06T09:51:10.502Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--56c44f9a-0c58-4e3e-86ce-50214c7c036b",
+      "created": "2026-02-14T12:46:26.334Z",
+      "modified": "2026-02-14T12:46:26.334Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'http://umfragemigrosoral-b.realdelasamericas.com']",
+      "pattern_type": "stix",
+      "valid_from": "2026-02-14T12:46:26.334Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--76916afc-3cde-4b40-94b7-d9d1da4d35c5",
+      "created": "2026-03-03T10:26:11.532Z",
+      "modified": "2026-03-03T10:26:11.532Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://feedback-galaxs.com']",
+      "pattern_type": "stix",
+      "valid_from": "2026-03-03T10:26:11.532Z"
     }
   ]
 }

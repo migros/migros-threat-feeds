@@ -5383,5 +5383,50 @@
     ],
     "tlp": "TLP:CLEAR",
     "notes": "n/a"
+  },
+  {
+    "id": "2f14ce23-bdba-4ae7-ae71-e32e4c0bb4ba",
+    "type": "URL",
+    "indicator": "https://migros-switzerlandangebot.techniker-tk.com",
+    "created_at": "2026-02-06T09:51:10.502Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "56c44f9a-0c58-4e3e-86ce-50214c7c036b",
+    "type": "URL",
+    "indicator": "http://umfragemigrosoral-b.realdelasamericas.com",
+    "created_at": "2026-02-14T12:46:26.334Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "76916afc-3cde-4b40-94b7-d9d1da4d35c5",
+    "type": "URL",
+    "indicator": "https://feedback-galaxs.com",
+    "created_at": "2026-03-03T10:26:11.532Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
   }
 ]
