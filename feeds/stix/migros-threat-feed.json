@@ -5255,6 +5255,21 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
+      "id": "indicator--f26c3c9d-189a-45ea-8981-2edc724dd312",
+      "created": "2026-01-19T12:44:21.020Z",
+      "modified": "2026-01-19T12:44:21.020Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://migroos.shop/login']",
+      "pattern_type": "stix",
+      "valid_from": "2026-01-19T12:44:21.020Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
       "id": "indicator--f1e6d483-0999-406b-a464-d7906a93bfae",
       "created": "2026-01-19T12:44:21.020Z",
       "modified": "2026-01-19T12:44:21.020Z",
@@ -5386,6 +5401,21 @@
       "pattern": "[url:value = 'migrosmall.shop']",
       "pattern_type": "stix",
       "valid_from": "2026-01-22T14:25:26.921Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--3c179e91-f83f-44bd-ae22-996ed3cdf1cb",
+      "created": "2026-01-28T12:45:03.408Z",
+      "modified": "2026-01-28T12:45:03.408Z",
+      "name": "n/a",
+      "description": "n/a",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value = 'https://aenderungpgbgja.ch/']",
+      "pattern_type": "stix",
+      "valid_from": "2026-01-28T12:45:03.408Z"
     },
     {
       "type": "indicator",

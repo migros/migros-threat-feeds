@@ -5250,6 +5250,21 @@
     "notes": "n/a"
   },
   {
+    "id": "f26c3c9d-189a-45ea-8981-2edc724dd312",
+    "type": "URL",
+    "indicator": "https://migroos.shop/login",
+    "created_at": "2026-01-19T12:44:21.020Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
     "id": "f1e6d483-0999-406b-a464-d7906a93bfae",
     "type": "URL",
     "indicator": "https://migroos.shop",
@@ -5374,6 +5389,21 @@
     "type": "DOMAIN-NAME",
     "indicator": "migrosmall.shop",
     "created_at": "2026-01-22T14:25:26.921Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "3c179e91-f83f-44bd-ae22-996ed3cdf1cb",
+    "type": "URL",
+    "indicator": "https://aenderungpgbgja.ch/",
+    "created_at": "2026-01-28T12:45:03.408Z",
     "confidence": -1,
     "source": "MIGROS-CDC",
     "tags": [
