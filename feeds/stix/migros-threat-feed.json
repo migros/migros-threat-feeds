@@ -3605,6 +3605,22 @@
         {
             "type": "indicator",
             "spec_version": "2.1",
+            "id": "indicator--cc67ade5-1e9d-4ef6-a842-ed7eb338872c",
+            "created": "2026-10-07T14:50:51.391Z",
+            "modified": "2026-10-07T14:50:51.391Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[url:value = 'https://ermitagepuntbatavia.swedencentral.cloudapp.azure.com/ch/ch_mgrs_fb/']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-10-07T14:50:51.391Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
             "id": "indicator--0ac45599-61d8-4a60-a80e-103602e979cd",
             "created": "2025-07-09T09:24:03.571Z",
             "modified": "2025-07-09T09:24:03.571Z",
