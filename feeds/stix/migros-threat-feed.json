@@ -4293,6 +4293,22 @@
         {
             "type": "indicator",
             "spec_version": "2.1",
+            "id": "indicator--5c4492ea-65e4-40c5-803c-fcfa417d8b03",
+            "created": "2026-10-07T13:44:45.157Z",
+            "modified": "2026-10-07T13:44:45.157Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[url:value = 'https://crachincellulesud.swedencentral.cloudapp.azure.com/ch/ch_mgrs_fb/']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-10-07T13:44:45.157Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
             "id": "indicator--2fc22aee-0c2e-4e7c-9f9c-f3ab5183d560",
             "created": "2025-10-10T14:21:07.788Z",
             "modified": "2025-10-10T14:21:07.788Z",

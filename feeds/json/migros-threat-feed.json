@@ -4020,6 +4020,21 @@
     "notes": "n/a"
   },
   {
+    "id": "5c4492ea-65e4-40c5-803c-fcfa417d8b03",
+    "type": "URL",
+    "indicator": "https://crachincellulesud.swedencentral.cloudapp.azure.com/ch/ch_mgrs_fb/",
+    "created_at": "2026-10-07T13:44:45.157Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
     "id": "2fc22aee-0c2e-4e7c-9f9c-f3ab5183d560",
     "type": "URL",
     "indicator": "https://migrosreward.141888.cc/ch",
