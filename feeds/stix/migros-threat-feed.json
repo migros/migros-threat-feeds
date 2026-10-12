@@ -3989,6 +3989,22 @@
         {
             "type": "indicator",
             "spec_version": "2.1",
+            "id": "indicator--d2612479-4cf6-4d50-83a7-9d1dfca1a6e1",
+            "created": "2026-10-12T14:54:20.178Z",
+            "modified": "2026-10-12T14:54:20.178Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[url:value = 'https://migros.lesmanagroup.com']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-10-12T14:54:20.178Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
             "id": "indicator--54829999-5b78-4d50-a980-8bce46e972b0",
             "created": "2025-11-04T12:37:28.512Z",
             "modified": "2025-11-04T12:37:28.512Z",
@@ -4193,6 +4209,22 @@
             "pattern_type": "stix",
             "pattern_version": "2.1",
             "valid_from": "2025-07-16T06:45:23.393Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
+            "id": "indicator--3f9d39ed-cb1b-4ae8-bdd9-0500f7191ed4",
+            "created": "2026-10-12T14:54:21.402Z",
+            "modified": "2026-10-12T14:54:21.402Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[url:value = 'https://rivierecalvaireaire.swedencentral.cloudapp.azure.com/ch/ch_mgrs_fb/']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-10-12T14:54:21.402Z"
         },
         {
             "type": "indicator",

@@ -3735,6 +3735,21 @@
     "notes": "n/a"
   },
   {
+    "id": "d2612479-4cf6-4d50-83a7-9d1dfca1a6e1",
+    "type": "URL",
+    "indicator": "https://migros.lesmanagroup.com",
+    "created_at": "2026-10-12T14:54:20.178Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
     "id": "54829999-5b78-4d50-a980-8bce46e972b0",
     "type": "URL",
     "indicator": "https://www.msglobalstore.com",
@@ -3919,6 +3934,21 @@
     "type": "URL",
     "indicator": "https://sites.google.com/view/gagnez-migross/Migros",
     "created_at": "2025-07-16T06:45:23.393Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "3f9d39ed-cb1b-4ae8-bdd9-0500f7191ed4",
+    "type": "URL",
+    "indicator": "https://rivierecalvaireaire.swedencentral.cloudapp.azure.com/ch/ch_mgrs_fb/",
+    "created_at": "2026-10-12T14:54:21.402Z",
     "confidence": -1,
     "source": "MIGROS-CDC",
     "tags": [
