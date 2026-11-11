@@ -4645,6 +4645,22 @@
         {
             "type": "indicator",
             "spec_version": "2.1",
+            "id": "indicator--41faac90-df0f-433a-a7e7-17209737c84e",
+            "created": "2026-11-11T07:31:41.650Z",
+            "modified": "2026-11-11T07:31:41.650Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[url:value = 'https://galaxus-promo-perfumes.com/admin/0/3/Galaxus.Checkout.php']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-11-11T07:31:41.65Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
             "id": "indicator--bb51d32c-2781-4736-b7f9-cdcd05efed14",
             "created": "2025-10-10T14:22:12.486Z",
             "modified": "2025-10-10T14:22:12.486Z",
@@ -5649,6 +5665,22 @@
             "pattern_type": "stix",
             "pattern_version": "2.1",
             "valid_from": "2026-01-19T12:44:21.02Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
+            "id": "indicator--c643c16a-3fb4-47f0-bf6c-483fbdb2238a",
+            "created": "2026-11-11T07:31:41.365Z",
+            "modified": "2026-11-11T07:31:41.365Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[url:value = 'https://galaxus-promo-perfumes.com/admin/0/']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-11-11T07:31:41.365Z"
         },
         {
             "type": "indicator",

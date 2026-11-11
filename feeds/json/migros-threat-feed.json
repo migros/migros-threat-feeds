@@ -4350,6 +4350,21 @@
     "notes": "n/a"
   },
   {
+    "id": "41faac90-df0f-433a-a7e7-17209737c84e",
+    "type": "URL",
+    "indicator": "https://galaxus-promo-perfumes.com/admin/0/3/Galaxus.Checkout.php",
+    "created_at": "2026-11-11T07:31:41.650Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
     "id": "bb51d32c-2781-4736-b7f9-cdcd05efed14",
     "type": "URL",
     "indicator": "http://migroben.com/",
@@ -5284,6 +5299,21 @@
     "type": "URL",
     "indicator": "https://migroos.shop",
     "created_at": "2026-01-19T12:44:21.020Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "c643c16a-3fb4-47f0-bf6c-483fbdb2238a",
+    "type": "URL",
+    "indicator": "https://galaxus-promo-perfumes.com/admin/0/",
+    "created_at": "2026-11-11T07:31:41.365Z",
     "confidence": -1,
     "source": "MIGROS-CDC",
     "tags": [
