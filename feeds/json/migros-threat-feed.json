@@ -3705,6 +3705,21 @@
     "notes": "n/a"
   },
   {
+    "id": "4949be3d-01db-469c-89a1-61318797b6af",
+    "type": "URL",
+    "indicator": "https://share.google/E7hcQLd3dfDc3vHeB",
+    "created_at": "2026-11-13T06:59:21.738Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
     "id": "151f8b9a-25e5-4876-86cf-ef9808aa7800",
     "type": "URL",
     "indicator": "https://migros2025spunkte.top/ch",
@@ -4024,6 +4039,21 @@
     "type": "URL",
     "indicator": "https://migrosbonuspunkte.top/ch",
     "created_at": "2025-10-10T14:22:12.517Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "d20360a3-c10e-43b3-a3b3-f3302983d11e",
+    "type": "URL",
+    "indicator": "https://migrosch.umfrage-ch.shop",
+    "created_at": "2026-11-13T06:59:22.199Z",
     "confidence": -1,
     "source": "MIGROS-CDC",
     "tags": [

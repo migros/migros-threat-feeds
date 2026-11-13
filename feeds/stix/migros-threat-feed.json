@@ -3957,6 +3957,22 @@
         {
             "type": "indicator",
             "spec_version": "2.1",
+            "id": "indicator--4949be3d-01db-469c-89a1-61318797b6af",
+            "created": "2026-11-13T06:59:21.738Z",
+            "modified": "2026-11-13T06:59:21.738Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[url:value = 'https://share.google/E7hcQLd3dfDc3vHeB']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-11-13T06:59:21.738Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
             "id": "indicator--151f8b9a-25e5-4876-86cf-ef9808aa7800",
             "created": "2025-10-10T14:21:07.716Z",
             "modified": "2025-10-10T14:21:07.716Z",
@@ -4305,6 +4321,22 @@
             "pattern_type": "stix",
             "pattern_version": "2.1",
             "valid_from": "2025-10-10T14:22:12.517Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
+            "id": "indicator--d20360a3-c10e-43b3-a3b3-f3302983d11e",
+            "created": "2026-11-13T06:59:22.199Z",
+            "modified": "2026-11-13T06:59:22.199Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[url:value = 'https://migrosch.umfrage-ch.shop']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-11-13T06:59:22.199Z"
         },
         {
             "type": "indicator",
