@@ -4805,6 +4805,22 @@
         {
             "type": "indicator",
             "spec_version": "2.1",
+            "id": "indicator--2b023bd2-670e-44fb-85f0-b8b3ba193263",
+            "created": "2026-11-13T13:17:54.336Z",
+            "modified": "2026-11-13T13:17:54.336Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[url:value = 'https://journey-journeys9sg.swedencentral.cloudapp.azure.com/ch/ch_mgrs_fb/']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-11-13T13:17:54.336Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
             "id": "indicator--7e9e1e8c-ea54-46cd-884a-3c85c5ff185b",
             "created": "2025-10-10T14:21:07.778Z",
             "modified": "2025-10-10T14:21:07.778Z",
@@ -5713,6 +5729,22 @@
             "pattern_type": "stix",
             "pattern_version": "2.1",
             "valid_from": "2026-11-11T07:31:41.365Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
+            "id": "indicator--9ccc3377-61b1-4091-bda0-56b7ba013ff4",
+            "created": "2026-11-13T13:17:53.100Z",
+            "modified": "2026-11-13T13:17:53.100Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[url:value = 'https://znsfrc4twp2oa8oon.s3.eu-central-1.amazonaws.com/bpgapvnltxbieehns.html']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-11-13T13:17:53.1Z"
         },
         {
             "type": "indicator",
