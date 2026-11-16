@@ -3781,6 +3781,22 @@
         {
             "type": "indicator",
             "spec_version": "2.1",
+            "id": "indicator--cd39c3d5-c23a-4fb9-bdad-9a1a96534a5d",
+            "created": "2026-11-16T13:42:52.833Z",
+            "modified": "2026-11-16T13:42:52.833Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[url:value = 'https://share.google/t2BYR6AE0obRNWgE9']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-11-16T13:42:52.833Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
             "id": "indicator--dc7e33db-3a00-47e8-8dca-a55005ad718f",
             "created": "2025-10-10T14:22:12.537Z",
             "modified": "2025-10-10T14:22:12.537Z",
@@ -4389,6 +4405,22 @@
         {
             "type": "indicator",
             "spec_version": "2.1",
+            "id": "indicator--3bbe827d-2369-4903-b980-4d525d197272",
+            "created": "2026-11-16T13:33:50.367Z",
+            "modified": "2026-11-16T13:33:50.367Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[url:value = 'https://share.google/wHFNnsesrvz1fLTrZ']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-11-16T13:33:50.367Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
             "id": "indicator--2fc22aee-0c2e-4e7c-9f9c-f3ab5183d560",
             "created": "2025-10-10T14:21:07.788Z",
             "modified": "2025-10-10T14:21:07.788Z",
@@ -4753,6 +4785,22 @@
             "pattern_type": "stix",
             "pattern_version": "2.1",
             "valid_from": "2025-10-10T14:21:07.874Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
+            "id": "indicator--9b4220c5-dd5f-49f3-8649-89d11038820a",
+            "created": "2026-11-16T13:42:53.124Z",
+            "modified": "2026-11-16T13:42:53.124Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[url:value = 'https://chmigros.umfrage-ch.shop']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-11-16T13:42:53.124Z"
         },
         {
             "type": "indicator",
@@ -6129,6 +6177,22 @@
             "pattern_type": "stix",
             "pattern_version": "2.1",
             "valid_from": "2025-10-10T14:21:07.738Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
+            "id": "indicator--f2b16bbb-1f80-49e5-b5ff-59e58a4d5640",
+            "created": "2026-11-16T13:33:51.426Z",
+            "modified": "2026-11-16T13:33:51.426Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[url:value = 'https://migrosch.umfragech.shop']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-11-16T13:33:51.426Z"
         }
     ]
 }

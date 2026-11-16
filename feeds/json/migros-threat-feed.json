@@ -3540,6 +3540,21 @@
     "notes": "n/a"
   },
   {
+    "id": "cd39c3d5-c23a-4fb9-bdad-9a1a96534a5d",
+    "type": "URL",
+    "indicator": "https://share.google/t2BYR6AE0obRNWgE9",
+    "created_at": "2026-11-16T13:42:52.833Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
     "id": "dc7e33db-3a00-47e8-8dca-a55005ad718f",
     "type": "URL",
     "indicator": "http://migrosreward.808079.com/",
@@ -4110,6 +4125,21 @@
     "notes": "n/a"
   },
   {
+    "id": "3bbe827d-2369-4903-b980-4d525d197272",
+    "type": "URL",
+    "indicator": "https://share.google/wHFNnsesrvz1fLTrZ",
+    "created_at": "2026-11-16T13:33:50.367Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
     "id": "2fc22aee-0c2e-4e7c-9f9c-f3ab5183d560",
     "type": "URL",
     "indicator": "https://migrosreward.141888.cc/ch",
@@ -4444,6 +4474,21 @@
     "type": "URL",
     "indicator": "https://migrosreward.top/",
     "created_at": "2025-10-10T14:21:07.874Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "9b4220c5-dd5f-49f3-8649-89d11038820a",
+    "type": "URL",
+    "indicator": "https://chmigros.umfrage-ch.shop",
+    "created_at": "2026-11-16T13:42:53.124Z",
     "confidence": -1,
     "source": "MIGROS-CDC",
     "tags": [
@@ -5734,6 +5779,21 @@
     "type": "URL",
     "indicator": "http://migrosdeal.top/",
     "created_at": "2025-10-10T14:21:07.738Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "f2b16bbb-1f80-49e5-b5ff-59e58a4d5640",
+    "type": "URL",
+    "indicator": "https://migrosch.umfragech.shop",
+    "created_at": "2026-11-16T13:33:51.426Z",
     "confidence": -1,
     "source": "MIGROS-CDC",
     "tags": [
