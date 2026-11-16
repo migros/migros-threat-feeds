@@ -5220,6 +5220,36 @@
     "notes": "n/a"
   },
   {
+    "id": "38b1dbf7-9a68-49d0-83cb-9a0eb7650abf",
+    "type": "URL",
+    "indicator": "https://ctrk.klclick3.com/l/01M6VV811J63W0XG8N894GZWWP_48",
+    "created_at": "2026-11-16T13:14:51.654Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "b1ac78a6-bedd-4d99-ad18-e1bf1fe15ccd",
+    "type": "URL",
+    "indicator": "https://funnel-steps3lw.swedencentral.cloudapp.azure.com/ch/ch_mgrs_fb/",
+    "created_at": "2026-11-16T13:14:52.407Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
     "id": "2b70c214-0b1d-42a0-9f30-dffb08de1ae5",
     "type": "URL",
     "indicator": "http://migrovipgo.click/",

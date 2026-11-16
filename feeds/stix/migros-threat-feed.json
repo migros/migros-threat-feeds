@@ -5573,6 +5573,38 @@
         {
             "type": "indicator",
             "spec_version": "2.1",
+            "id": "indicator--38b1dbf7-9a68-49d0-83cb-9a0eb7650abf",
+            "created": "2026-11-16T13:14:51.654Z",
+            "modified": "2026-11-16T13:14:51.654Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[url:value = 'https://ctrk.klclick3.com/l/01M6VV811J63W0XG8N894GZWWP_48']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-11-16T13:14:51.654Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
+            "id": "indicator--b1ac78a6-bedd-4d99-ad18-e1bf1fe15ccd",
+            "created": "2026-11-16T13:14:52.407Z",
+            "modified": "2026-11-16T13:14:52.407Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[url:value = 'https://funnel-steps3lw.swedencentral.cloudapp.azure.com/ch/ch_mgrs_fb/']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-11-16T13:14:52.407Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
             "id": "indicator--2b70c214-0b1d-42a0-9f30-dffb08de1ae5",
             "created": "2025-10-10T14:22:12.485Z",
             "modified": "2025-10-10T14:22:12.485Z",
