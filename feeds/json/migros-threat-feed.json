@@ -5385,6 +5385,21 @@
     "notes": "n/a"
   },
   {
+    "id": "f9ec3022-b8f5-45ae-bba9-66d1ef973cea",
+    "type": "URL",
+    "indicator": "https://share.google/1P1EZVppiVn3hcb14",
+    "created_at": "2026-11-17T11:14:27.998Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
     "id": "72a19f1c-1ea4-4b12-95ad-c062e76738a1",
     "type": "URL",
     "indicator": "https://marketop.click",

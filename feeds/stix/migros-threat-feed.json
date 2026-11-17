@@ -5749,6 +5749,22 @@
         {
             "type": "indicator",
             "spec_version": "2.1",
+            "id": "indicator--f9ec3022-b8f5-45ae-bba9-66d1ef973cea",
+            "created": "2026-11-17T11:14:27.998Z",
+            "modified": "2026-11-17T11:14:27.998Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[url:value = 'https://share.google/1P1EZVppiVn3hcb14']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-11-17T11:14:27.998Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
             "id": "indicator--72a19f1c-1ea4-4b12-95ad-c062e76738a1",
             "created": "2025-07-30T12:35:30.272Z",
             "modified": "2025-07-30T12:35:30.272Z",
