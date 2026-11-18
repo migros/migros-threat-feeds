@@ -3555,6 +3555,21 @@
     "notes": "n/a"
   },
   {
+    "id": "ef442504-fcc3-4110-87cc-7c41683639b5",
+    "type": "URL",
+    "indicator": "https://ctrk.klclick3.com/l/01M6VV811J63W0XG8N894GZWWP_40",
+    "created_at": "2026-11-18T07:13:59.287Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
     "id": "dc7e33db-3a00-47e8-8dca-a55005ad718f",
     "type": "URL",
     "indicator": "http://migrosreward.808079.com/",
@@ -4695,6 +4710,21 @@
     "notes": "n/a"
   },
   {
+    "id": "9000ef66-f422-49c4-9d9d-f789ba7bfcea",
+    "type": "URL",
+    "indicator": "https://questions-steps1jm.swedencentral.cloudapp.azure.com/ch/ch_mgrs_fb/",
+    "created_at": "2026-11-18T07:14:00.467Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
     "id": "97d78395-fcf9-493e-a9ff-321f8835da43",
     "type": "URL",
     "indicator": "https://migrosboni.top/",
@@ -4984,6 +5014,21 @@
     "type": "URL",
     "indicator": "http://migrosvmy.click/",
     "created_at": "2025-10-10T14:21:07.791Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "83d596c4-d0f9-4e15-baae-e1bf172ae5e8",
+    "type": "URL",
+    "indicator": "https://bloomingafterrain.com/de/payment2",
+    "created_at": "2026-11-18T07:14:00.734Z",
     "confidence": -1,
     "source": "MIGROS-CDC",
     "tags": [
