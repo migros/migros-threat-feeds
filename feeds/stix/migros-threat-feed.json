@@ -5269,6 +5269,22 @@
         {
             "type": "indicator",
             "spec_version": "2.1",
+            "id": "indicator--9caa6079-95b4-4df3-9669-f4193527f481",
+            "created": "2026-11-19T14:51:42.253Z",
+            "modified": "2026-11-19T14:51:42.253Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[url:value = 'https://resilient-flooring.ro/wp-content/uploads/2026/11/qgbfdjh7uit5erhb.html']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-11-19T14:51:42.253Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
             "id": "indicator--0244871f-565d-452b-b50e-60e1a00fc246",
             "created": "2025-10-10T14:21:07.815Z",
             "modified": "2025-10-10T14:21:07.815Z",
