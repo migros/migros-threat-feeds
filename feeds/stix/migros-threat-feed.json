@@ -5157,6 +5157,22 @@
         {
             "type": "indicator",
             "spec_version": "2.1",
+            "id": "indicator--067f4909-93a7-49a6-aaa9-288d90003835",
+            "created": "2026-11-24T06:34:25.590Z",
+            "modified": "2026-11-24T06:34:25.590Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[url:value = 'https://yy5hoxf9vzo2lpzlv.s3.eu-central-1.amazonaws.com/uqb1j06oc3sy6uw0w.html']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-11-24T06:34:25.59Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
             "id": "indicator--12d513ae-87d2-423d-9e61-c4416f5c032f",
             "created": "2025-10-10T14:22:12.522Z",
             "modified": "2025-10-10T14:22:12.522Z",
@@ -5297,6 +5313,22 @@
             "pattern_type": "stix",
             "pattern_version": "2.1",
             "valid_from": "2026-07-30T08:30:41.821Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
+            "id": "indicator--7ad3a904-5471-4e6a-9995-471c6a8818ee",
+            "created": "2026-11-24T06:34:26.448Z",
+            "modified": "2026-11-24T06:34:26.448Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[url:value = 'https://surveysurveys7bk.swedencentral.cloudapp.azure.com/ch/ch_mgrs_fb/']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-11-24T06:34:26.448Z"
         },
         {
             "type": "indicator",

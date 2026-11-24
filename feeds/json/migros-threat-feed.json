@@ -4830,6 +4830,21 @@
     "notes": "n/a"
   },
   {
+    "id": "067f4909-93a7-49a6-aaa9-288d90003835",
+    "type": "URL",
+    "indicator": "https://yy5hoxf9vzo2lpzlv.s3.eu-central-1.amazonaws.com/uqb1j06oc3sy6uw0w.html",
+    "created_at": "2026-11-24T06:34:25.590Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
     "id": "12d513ae-87d2-423d-9e61-c4416f5c032f",
     "type": "URL",
     "indicator": "http://migros-gutschein.click/",
@@ -4954,6 +4969,21 @@
     "type": "URL",
     "indicator": "https://evermantle.com/ch_migros_fbox/",
     "created_at": "2026-07-30T08:30:41.821Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "7ad3a904-5471-4e6a-9995-471c6a8818ee",
+    "type": "URL",
+    "indicator": "https://surveysurveys7bk.swedencentral.cloudapp.azure.com/ch/ch_mgrs_fb/",
+    "created_at": "2026-11-24T06:34:26.448Z",
     "confidence": -1,
     "source": "MIGROS-CDC",
     "tags": [
