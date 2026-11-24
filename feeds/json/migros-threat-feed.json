@@ -4605,6 +4605,21 @@
     "notes": "n/a"
   },
   {
+    "id": "0c1ca346-65f1-4ebb-af3c-b0e5e36e15d2",
+    "type": "URL",
+    "indicator": "https://caseys-giftsboxs.com/ghcw6d2iIvE/t0rYldMsPt9ITxEBczQh9fde56",
+    "created_at": "2026-11-24T14:33:10.811Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
     "id": "d57f684f-7673-4851-acdf-3bd4865aabf8",
     "type": "URL",
     "indicator": "https://migrosvip.click/ch",

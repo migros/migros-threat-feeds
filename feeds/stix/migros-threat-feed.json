@@ -4917,6 +4917,22 @@
         {
             "type": "indicator",
             "spec_version": "2.1",
+            "id": "indicator--0c1ca346-65f1-4ebb-af3c-b0e5e36e15d2",
+            "created": "2026-11-24T14:33:10.811Z",
+            "modified": "2026-11-24T14:33:10.811Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[url:value = 'https://caseys-giftsboxs.com/ghcw6d2iIvE/t0rYldMsPt9ITxEBczQh9fde56']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-11-24T14:33:10.811Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
             "id": "indicator--d57f684f-7673-4851-acdf-3bd4865aabf8",
             "created": "2025-10-10T14:21:07.805Z",
             "modified": "2025-10-10T14:21:07.805Z",
