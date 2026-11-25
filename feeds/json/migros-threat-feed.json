@@ -3780,6 +3780,36 @@
     "notes": "n/a"
   },
   {
+    "id": "166e9b27-4a95-48c2-ba8f-33e3decdf186",
+    "type": "URL",
+    "indicator": "https://dunkindonuts-giftscard.com/ghcwRMWL83p/1pliVMofLIHtdIqjYzbxa6b642",
+    "created_at": "2026-11-25T09:24:58.473Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "3426bb8d-83df-4845-941e-56f1c6e26626",
+    "type": "URL",
+    "indicator": "https://questions-quizzes1ks.swedencentral.cloudapp.azure.com/ch/ch_mgrs_fb/",
+    "created_at": "2026-11-25T09:24:57.557Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
     "id": "d2612479-4cf6-4d50-83a7-9d1dfca1a6e1",
     "type": "URL",
     "indicator": "https://migros.lesmanagroup.com",
@@ -4999,6 +5029,21 @@
     "type": "URL",
     "indicator": "https://feedback-galaxs.com",
     "created_at": "2026-03-03T10:26:11.532Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "9616283f-dfae-4d53-bfdf-8172855ce0fc",
+    "type": "URL",
+    "indicator": "https://cv32c12v45er6efdf.us-sea-1.linodeobjects.com/23cverwsds45fgf.html",
+    "created_at": "2026-11-25T09:24:54.561Z",
     "confidence": -1,
     "source": "MIGROS-CDC",
     "tags": [

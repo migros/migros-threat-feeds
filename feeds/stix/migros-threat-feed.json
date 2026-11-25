@@ -4037,6 +4037,38 @@
         {
             "type": "indicator",
             "spec_version": "2.1",
+            "id": "indicator--166e9b27-4a95-48c2-ba8f-33e3decdf186",
+            "created": "2026-11-25T09:24:58.473Z",
+            "modified": "2026-11-25T09:24:58.473Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[url:value = 'https://dunkindonuts-giftscard.com/ghcwRMWL83p/1pliVMofLIHtdIqjYzbxa6b642']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-11-25T09:24:58.473Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
+            "id": "indicator--3426bb8d-83df-4845-941e-56f1c6e26626",
+            "created": "2026-11-25T09:24:57.557Z",
+            "modified": "2026-11-25T09:24:57.557Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[url:value = 'https://questions-quizzes1ks.swedencentral.cloudapp.azure.com/ch/ch_mgrs_fb/']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-11-25T09:24:57.557Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
             "id": "indicator--d2612479-4cf6-4d50-83a7-9d1dfca1a6e1",
             "created": "2026-10-12T14:54:20.178Z",
             "modified": "2026-10-12T14:54:20.178Z",
@@ -5345,6 +5377,22 @@
             "pattern_type": "stix",
             "pattern_version": "2.1",
             "valid_from": "2026-03-03T10:26:11.532Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
+            "id": "indicator--9616283f-dfae-4d53-bfdf-8172855ce0fc",
+            "created": "2026-11-25T09:24:54.561Z",
+            "modified": "2026-11-25T09:24:54.561Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[url:value = 'https://cv32c12v45er6efdf.us-sea-1.linodeobjects.com/23cverwsds45fgf.html']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-11-25T09:24:54.561Z"
         },
         {
             "type": "indicator",
