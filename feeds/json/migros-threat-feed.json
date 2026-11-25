@@ -4035,6 +4035,21 @@
     "notes": "n/a"
   },
   {
+    "id": "57a5a2ee-d84c-4e07-83d7-d484886e3b63",
+    "type": "URL",
+    "indicator": "https://www.mot-avec.com/concours/index.php",
+    "created_at": "2026-11-25T09:14:53.081Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
     "id": "a04844e3-2571-415f-8afc-f5af47058633",
     "type": "URL",
     "indicator": "http://migrosreward.323737.com/",
@@ -4920,6 +4935,21 @@
     "notes": "n/a"
   },
   {
+    "id": "3e4b357f-75c8-4aeb-97f8-d44a4e1beff6",
+    "type": "URL",
+    "indicator": "https://www.mot-avec.com/concours",
+    "created_at": "2026-11-25T09:14:52.425Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
     "id": "47201224-cbb1-45b2-b09e-cdbfa5d73a20",
     "type": "URL",
     "indicator": "https://paunu.cn/ykja4agm/",
@@ -5475,6 +5505,21 @@
     "notes": "n/a"
   },
   {
+    "id": "d1b2e7df-d1c0-4b6d-975d-4b5d84cafe20",
+    "type": "URL",
+    "indicator": "https://auchanrewards.com/ghcwb90OBQE/IhxV1hpXavjmzqtMbZWec5af6a",
+    "created_at": "2026-11-25T09:05:50.260Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
     "id": "f66a6b2b-c5b9-45ca-b87c-3ac256387a33",
     "type": "URL",
     "indicator": "https://aarauclean.ch/ga/click/",
@@ -5899,6 +5944,21 @@
     "type": "URL",
     "indicator": "http://migro-bank.ch/",
     "created_at": "2025-10-10T14:21:07.793Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "c2b30e4a-152d-4934-9272-58014cc441c1",
+    "type": "URL",
+    "indicator": "https://www.mot-avec.com/concours/",
+    "created_at": "2026-11-25T09:14:52.693Z",
     "confidence": -1,
     "source": "MIGROS-CDC",
     "tags": [

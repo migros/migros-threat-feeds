@@ -4309,6 +4309,22 @@
         {
             "type": "indicator",
             "spec_version": "2.1",
+            "id": "indicator--57a5a2ee-d84c-4e07-83d7-d484886e3b63",
+            "created": "2026-11-25T09:14:53.081Z",
+            "modified": "2026-11-25T09:14:53.081Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[url:value = 'https://www.mot-avec.com/concours/index.php']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-11-25T09:14:53.081Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
             "id": "indicator--a04844e3-2571-415f-8afc-f5af47058633",
             "created": "2025-10-10T14:22:12.304Z",
             "modified": "2025-10-10T14:22:12.304Z",
@@ -5253,6 +5269,22 @@
         {
             "type": "indicator",
             "spec_version": "2.1",
+            "id": "indicator--3e4b357f-75c8-4aeb-97f8-d44a4e1beff6",
+            "created": "2026-11-25T09:14:52.425Z",
+            "modified": "2026-11-25T09:14:52.425Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[url:value = 'https://www.mot-avec.com/concours']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-11-25T09:14:52.425Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
             "id": "indicator--47201224-cbb1-45b2-b09e-cdbfa5d73a20",
             "created": "2025-12-13T12:41:14.619Z",
             "modified": "2025-12-13T12:41:14.619Z",
@@ -5845,6 +5877,22 @@
         {
             "type": "indicator",
             "spec_version": "2.1",
+            "id": "indicator--d1b2e7df-d1c0-4b6d-975d-4b5d84cafe20",
+            "created": "2026-11-25T09:05:50.260Z",
+            "modified": "2026-11-25T09:05:50.260Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[url:value = 'https://auchanrewards.com/ghcwb90OBQE/IhxV1hpXavjmzqtMbZWec5af6a']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-11-25T09:05:50.26Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
             "id": "indicator--f66a6b2b-c5b9-45ca-b87c-3ac256387a33",
             "created": "2025-10-27T09:59:52.030Z",
             "modified": "2025-10-27T09:59:52.030Z",
@@ -6305,6 +6353,22 @@
             "pattern_type": "stix",
             "pattern_version": "2.1",
             "valid_from": "2025-10-10T14:21:07.793Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
+            "id": "indicator--c2b30e4a-152d-4934-9272-58014cc441c1",
+            "created": "2026-11-25T09:14:52.693Z",
+            "modified": "2026-11-25T09:14:52.693Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[url:value = 'https://www.mot-avec.com/concours/']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-11-25T09:14:52.693Z"
         },
         {
             "type": "indicator",
