@@ -5415,6 +5415,21 @@
     "notes": "n/a"
   },
   {
+    "id": "7a9924a8-e07e-4a7f-b182-88cdcd722148",
+    "type": "URL",
+    "indicator": "https://cashappboost.com/ghcwkZGVZLz/CSMc6mRM5zpuE4To2CRq79f077",
+    "created_at": "2026-11-26T07:58:41.778Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
     "id": "b2177ae4-aed9-4172-8284-967e7adaa9bb",
     "type": "URL",
     "indicator": "http://migrob.com/",

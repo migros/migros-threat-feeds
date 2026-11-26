@@ -5781,6 +5781,22 @@
         {
             "type": "indicator",
             "spec_version": "2.1",
+            "id": "indicator--7a9924a8-e07e-4a7f-b182-88cdcd722148",
+            "created": "2026-11-26T07:58:41.778Z",
+            "modified": "2026-11-26T07:58:41.778Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[url:value = 'https://cashappboost.com/ghcwkZGVZLz/CSMc6mRM5zpuE4To2CRq79f077']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-11-26T07:58:41.778Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
             "id": "indicator--b2177ae4-aed9-4172-8284-967e7adaa9bb",
             "created": "2025-10-10T14:21:07.646Z",
             "modified": "2025-10-10T14:21:07.646Z",
