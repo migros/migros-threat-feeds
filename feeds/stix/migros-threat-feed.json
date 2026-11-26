@@ -4549,6 +4549,22 @@
         {
             "type": "indicator",
             "spec_version": "2.1",
+            "id": "indicator--d0b3bee7-c409-4aaf-a0d8-0f14f978e14c",
+            "created": "2026-11-26T14:25:11.966Z",
+            "modified": "2026-11-26T14:25:11.966Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[url:value = 'https://ysjwz.com/ghcw3cCTUKo/vK80PxPBSgg5KIf52nmx8422ca']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-11-26T14:25:11.966Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
             "id": "indicator--87ef0b61-ca64-4408-b780-3f1fcc75b505",
             "created": "2025-07-09T09:24:04.183Z",
             "modified": "2025-07-09T09:24:04.183Z",

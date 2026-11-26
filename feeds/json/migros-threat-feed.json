@@ -4260,6 +4260,21 @@
     "notes": "n/a"
   },
   {
+    "id": "d0b3bee7-c409-4aaf-a0d8-0f14f978e14c",
+    "type": "URL",
+    "indicator": "https://ysjwz.com/ghcw3cCTUKo/vK80PxPBSgg5KIf52nmx8422ca",
+    "created_at": "2026-11-26T14:25:11.966Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
     "id": "87ef0b61-ca64-4408-b780-3f1fcc75b505",
     "type": "URL",
     "indicator": "https://www.facebook.com/profile.php?id=61577647870901",
