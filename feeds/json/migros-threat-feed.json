@@ -3255,6 +3255,21 @@
     "notes": "n/a"
   },
   {
+    "id": "344af272-11ae-4e41-a23a-da8337c0f5b7",
+    "type": "URL",
+    "indicator": "http://tgfdhdfjpm.androiddevs.net",
+    "created_at": "2026-11-27T14:59:34.056Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
     "id": "0fd8cde1-ccba-4c06-a870-e684f9bb3e28",
     "type": "URL",
     "indicator": "http://migrosteam.click/",
@@ -5340,6 +5355,21 @@
     "notes": "n/a"
   },
   {
+    "id": "649eddac-91c5-4dd9-bc08-f916b64e7da7",
+    "type": "URL",
+    "indicator": "http://demowiki.com",
+    "created_at": "2026-11-27T14:26:24.604Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
     "id": "0ff13393-0429-499b-864d-2b089c555686",
     "type": "URL",
     "indicator": "https://forsakensignal.com/de/payment2",
@@ -6030,6 +6060,21 @@
     "notes": "n/a"
   },
   {
+    "id": "0f217c13-001b-4be6-92c2-58fa6ce5b495",
+    "type": "URL",
+    "indicator": "http://enurese.com",
+    "created_at": "2026-11-27T14:28:26.766Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
     "id": "1aa0a5dd-50b3-4e46-8afd-64b1869d4842",
     "type": "URL",
     "indicator": "https://migrosmitglied.top/ch/c_pay.html",
@@ -6214,6 +6259,21 @@
     "type": "URL",
     "indicator": "http://migrosdeal.top/",
     "created_at": "2025-10-10T14:21:07.738Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "629947e2-c033-4100-9ef4-a542090a96b8",
+    "type": "URL",
+    "indicator": "http://memoirworkshops.com",
+    "created_at": "2026-11-27T15:04:41.708Z",
     "confidence": -1,
     "source": "MIGROS-CDC",
     "tags": [

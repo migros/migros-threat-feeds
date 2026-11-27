@@ -3477,6 +3477,22 @@
         {
             "type": "indicator",
             "spec_version": "2.1",
+            "id": "indicator--344af272-11ae-4e41-a23a-da8337c0f5b7",
+            "created": "2026-11-27T14:59:34.056Z",
+            "modified": "2026-11-27T14:59:34.056Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[url:value = 'http://tgfdhdfjpm.androiddevs.net']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-11-27T14:59:34.056Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
             "id": "indicator--0fd8cde1-ccba-4c06-a870-e684f9bb3e28",
             "created": "2025-10-10T14:21:07.548Z",
             "modified": "2025-10-10T14:21:07.548Z",
@@ -5701,6 +5717,22 @@
         {
             "type": "indicator",
             "spec_version": "2.1",
+            "id": "indicator--649eddac-91c5-4dd9-bc08-f916b64e7da7",
+            "created": "2026-11-27T14:26:24.604Z",
+            "modified": "2026-11-27T14:26:24.604Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[url:value = 'http://demowiki.com']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-11-27T14:26:24.604Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
             "id": "indicator--0ff13393-0429-499b-864d-2b089c555686",
             "created": "2026-11-27T06:25:29.253Z",
             "modified": "2026-11-27T06:25:29.253Z",
@@ -6437,6 +6469,22 @@
         {
             "type": "indicator",
             "spec_version": "2.1",
+            "id": "indicator--0f217c13-001b-4be6-92c2-58fa6ce5b495",
+            "created": "2026-11-27T14:28:26.766Z",
+            "modified": "2026-11-27T14:28:26.766Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[url:value = 'http://enurese.com']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-11-27T14:28:26.766Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
             "id": "indicator--1aa0a5dd-50b3-4e46-8afd-64b1869d4842",
             "created": "2025-10-10T14:22:12.483Z",
             "modified": "2025-10-10T14:22:12.483Z",
@@ -6641,6 +6689,22 @@
             "pattern_type": "stix",
             "pattern_version": "2.1",
             "valid_from": "2025-10-10T14:21:07.738Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
+            "id": "indicator--629947e2-c033-4100-9ef4-a542090a96b8",
+            "created": "2026-11-27T15:04:41.708Z",
+            "modified": "2026-11-27T15:04:41.708Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[url:value = 'http://memoirworkshops.com']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-11-27T15:04:41.708Z"
         },
         {
             "type": "indicator",
