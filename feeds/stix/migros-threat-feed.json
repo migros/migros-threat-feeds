@@ -4069,6 +4069,22 @@
         {
             "type": "indicator",
             "spec_version": "2.1",
+            "id": "indicator--624a741c-0852-45e9-86f4-7f6740344fb2",
+            "created": "2026-11-27T06:25:25.680Z",
+            "modified": "2026-11-27T06:25:25.680Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[url:value = 'https://locusiuris.com.br/wp-content/uploads/2026/11/omqsdnnfgqvfqs4e.html']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-11-27T06:25:25.68Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
             "id": "indicator--d2612479-4cf6-4d50-83a7-9d1dfca1a6e1",
             "created": "2026-10-12T14:54:20.178Z",
             "modified": "2026-10-12T14:54:20.178Z",
@@ -4177,6 +4193,22 @@
             "pattern_type": "stix",
             "pattern_version": "2.1",
             "valid_from": "2025-10-10T14:22:12.513Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
+            "id": "indicator--b57deb04-dd91-427c-8af8-24f216f87217",
+            "created": "2026-11-27T07:06:38.408Z",
+            "modified": "2026-11-27T07:06:38.408Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[url:value = 'https://dunkin-lottery.com/ghcwMo5QwQE/4i4TntlGSUX5voAXaaHpde12e3']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-11-27T07:06:38.408Z"
         },
         {
             "type": "indicator",
@@ -4677,6 +4709,22 @@
         {
             "type": "indicator",
             "spec_version": "2.1",
+            "id": "indicator--45ba369f-34e0-4d4f-8dfa-3fdf903f08db",
+            "created": "2026-11-27T07:06:36.223Z",
+            "modified": "2026-11-27T07:06:36.223Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[url:value = 'http://floridavacationdiscounts.com']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-11-27T07:06:36.223Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
             "id": "indicator--c9a5db03-8dfd-4e91-9d88-1f8da6642645",
             "created": "2025-10-10T14:22:12.439Z",
             "modified": "2025-10-10T14:22:12.439Z",
@@ -4753,6 +4801,22 @@
             "pattern_type": "stix",
             "pattern_version": "2.1",
             "valid_from": "2025-10-10T14:21:07.752Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
+            "id": "indicator--de2f3a98-ef49-481a-9885-54e3d9aa936c",
+            "created": "2026-11-27T06:25:28.813Z",
+            "modified": "2026-11-27T06:25:28.813Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[url:value = 'https://todidaerinsings.space']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-11-27T06:25:28.813Z"
         },
         {
             "type": "indicator",
@@ -4929,6 +4993,22 @@
             "pattern_type": "stix",
             "pattern_version": "2.1",
             "valid_from": "2025-10-10T14:21:07.874Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
+            "id": "indicator--9d6e5c9e-27bb-4368-864d-5a8f1900ecc7",
+            "created": "2026-11-27T07:09:39.410Z",
+            "modified": "2026-11-27T07:09:39.410Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[url:value = 'http://dogandponysound.com']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-11-27T07:09:39.41Z"
         },
         {
             "type": "indicator",
@@ -5525,6 +5605,22 @@
         {
             "type": "indicator",
             "spec_version": "2.1",
+            "id": "indicator--fa438e3e-5aa1-4f3e-8689-4c7f65f9d176",
+            "created": "2026-11-27T06:34:30.611Z",
+            "modified": "2026-11-27T06:34:30.611Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[url:value = 'https://storage.googleapis.com/0rm63kxnps035daw/5l4t0qvbfx4p8bfk/addafcf.html']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-11-27T06:34:30.611Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
             "id": "indicator--35a28c54-8fff-4b00-bef8-b2a30c2bf525",
             "created": "2025-10-10T14:21:07.788Z",
             "modified": "2025-10-10T14:21:07.788Z",
@@ -5585,6 +5681,22 @@
             "pattern_type": "stix",
             "pattern_version": "2.1",
             "valid_from": "2025-10-10T14:21:07.791Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
+            "id": "indicator--0ff13393-0429-499b-864d-2b089c555686",
+            "created": "2026-11-27T06:25:29.253Z",
+            "modified": "2026-11-27T06:25:29.253Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[url:value = 'https://forsakensignal.com/de/payment2']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-11-27T06:25:29.253Z"
         },
         {
             "type": "indicator",

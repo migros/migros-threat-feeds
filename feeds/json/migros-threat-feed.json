@@ -3810,6 +3810,21 @@
     "notes": "n/a"
   },
   {
+    "id": "624a741c-0852-45e9-86f4-7f6740344fb2",
+    "type": "URL",
+    "indicator": "https://locusiuris.com.br/wp-content/uploads/2026/11/omqsdnnfgqvfqs4e.html",
+    "created_at": "2026-11-27T06:25:25.680Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
     "id": "d2612479-4cf6-4d50-83a7-9d1dfca1a6e1",
     "type": "URL",
     "indicator": "https://migros.lesmanagroup.com",
@@ -3904,6 +3919,21 @@
     "type": "URL",
     "indicator": "http://migrosreward-s12805.top/",
     "created_at": "2025-10-10T14:22:12.513Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "b57deb04-dd91-427c-8af8-24f216f87217",
+    "type": "URL",
+    "indicator": "https://dunkin-lottery.com/ghcwMo5QwQE/4i4TntlGSUX5voAXaaHpde12e3",
+    "created_at": "2026-11-27T07:06:38.408Z",
     "confidence": -1,
     "source": "MIGROS-CDC",
     "tags": [
@@ -4380,6 +4410,21 @@
     "notes": "n/a"
   },
   {
+    "id": "45ba369f-34e0-4d4f-8dfa-3fdf903f08db",
+    "type": "URL",
+    "indicator": "http://floridavacationdiscounts.com",
+    "created_at": "2026-11-27T07:06:36.223Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
     "id": "c9a5db03-8dfd-4e91-9d88-1f8da6642645",
     "type": "URL",
     "indicator": "https://migrovips.top/ch",
@@ -4444,6 +4489,21 @@
     "type": "URL",
     "indicator": "https://migrosteam.click/ch",
     "created_at": "2025-10-10T14:21:07.752Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "de2f3a98-ef49-481a-9885-54e3d9aa936c",
+    "type": "URL",
+    "indicator": "https://todidaerinsings.space",
+    "created_at": "2026-11-27T06:25:28.813Z",
     "confidence": -1,
     "source": "MIGROS-CDC",
     "tags": [
@@ -4609,6 +4669,21 @@
     "type": "URL",
     "indicator": "https://migrosreward.top/",
     "created_at": "2025-10-10T14:21:07.874Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "9d6e5c9e-27bb-4368-864d-5a8f1900ecc7",
+    "type": "URL",
+    "indicator": "http://dogandponysound.com",
+    "created_at": "2026-11-27T07:09:39.410Z",
     "confidence": -1,
     "source": "MIGROS-CDC",
     "tags": [
@@ -5175,6 +5250,21 @@
     "notes": "n/a"
   },
   {
+    "id": "fa438e3e-5aa1-4f3e-8689-4c7f65f9d176",
+    "type": "URL",
+    "indicator": "https://storage.googleapis.com/0rm63kxnps035daw/5l4t0qvbfx4p8bfk/addafcf.html",
+    "created_at": "2026-11-27T06:34:30.611Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
     "id": "35a28c54-8fff-4b00-bef8-b2a30c2bf525",
     "type": "URL",
     "indicator": "https://migrosmitglied.top/",
@@ -5224,6 +5314,21 @@
     "type": "URL",
     "indicator": "http://migrosvmy.click/",
     "created_at": "2025-10-10T14:21:07.791Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
+    "id": "0ff13393-0429-499b-864d-2b089c555686",
+    "type": "URL",
+    "indicator": "https://forsakensignal.com/de/payment2",
+    "created_at": "2026-11-27T06:25:29.253Z",
     "confidence": -1,
     "source": "MIGROS-CDC",
     "tags": [
