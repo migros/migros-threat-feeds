@@ -3330,6 +3330,21 @@
     "notes": "n/a"
   },
   {
+    "id": "d2b8bf15-3c47-4dc2-8c95-2f5c8cfacd7d",
+    "type": "URL",
+    "indicator": "https://lawsonsurprise.com/ghcwWNnanjD/GMGIhQeLM8rafxP5q5r15f7751",
+    "created_at": "2026-11-27T11:09:03.388Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
+  },
+  {
     "id": "5b8c1822-1128-4950-bc85-287a23a94739",
     "type": "URL",
     "indicator": "https://geometrically.infivolt.eu/OqpaAArlNn7/",

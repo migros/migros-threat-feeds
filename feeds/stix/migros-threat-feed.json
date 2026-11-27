@@ -3557,6 +3557,22 @@
         {
             "type": "indicator",
             "spec_version": "2.1",
+            "id": "indicator--d2b8bf15-3c47-4dc2-8c95-2f5c8cfacd7d",
+            "created": "2026-11-27T11:09:03.388Z",
+            "modified": "2026-11-27T11:09:03.388Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[url:value = 'https://lawsonsurprise.com/ghcwWNnanjD/GMGIhQeLM8rafxP5q5r15f7751']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-11-27T11:09:03.388Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
             "id": "indicator--5b8c1822-1128-4950-bc85-287a23a94739",
             "created": "2025-08-21T09:12:11.875Z",
             "modified": "2025-08-21T09:12:11.875Z",
